@@ -1,0 +1,44 @@
+# GitLab CI/CD configuration for Docusaurus
+# This will automatically build and deploy your site to GitLab Pages
+
+image: node:20
+
+# Cache node_modules for faster builds
+cache:
+  paths:
+    - node_modules/
+
+# Define build stages
+stages:
+  - build
+  - deploy
+
+# Build the Docusaurus site
+build:
+  stage: build
+  script:
+    - npm ci
+    - npm run build
+  artifacts:
+    paths:
+      - build/
+    expire_in: 1 hour
+  only:
+    - demo
+    - main
+    - master
+
+# Deploy to GitLab Pages
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp -r build/* public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - demo
+    - main
+    - master
+

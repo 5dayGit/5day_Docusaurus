@@ -1,0 +1,88 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.quickLinks {
+  padding: 4rem 0;
+  background-color: var(--ifm-background-surface-color);
+}
+
+.quickLinkCard {
+  display: block;
+  padding: 2rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  height: 100%;
+}
+
+.quickLinkCard:hover {
+  border-color: var(--ifm-color-primary);
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+}
+
+.quickLinkCard h3 {
+  margin-bottom: 0.5rem;
+  color: var(--ifm-color-primary);
+}
+
+.quickLinkCard p {
+  margin: 0;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.popularTopics {
+  padding: 4rem 0;
+}
+
+.popularTopics h3 {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  color: var(--ifm-heading-color);
+}
+
+.topicList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.topicList li {
+  margin-bottom: 0.75rem;
+}
+
+.topicList a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.topicList a:hover {
+  text-decoration: underline;
+  color: var(--ifm-color-primary-dark);
+}
