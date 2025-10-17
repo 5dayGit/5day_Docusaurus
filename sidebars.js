@@ -49,6 +49,7 @@ const sidebars = {
         'features/notifications',
         'features/integrations',
         'features/automation',
+        'features/test01'
       ],
     },
     {
