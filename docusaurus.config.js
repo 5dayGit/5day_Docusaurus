@@ -82,7 +82,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: '5day Product Help',
+        // title: '5day Product Help',
          logo: {
            alt: 'Product Logo',
            src: 'img/5daysLogo.png',
@@ -94,13 +94,13 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'apiSidebar',
-            position: 'left',
-            label: 'API Reference',
-          },
-          {to: '/pricing', label: 'Pricing', position: 'left'},
+        //  {
+        //    type: 'docSidebar',
+        //    sidebarId: 'apiSidebar',
+        //    position: 'left',
+        //    label: 'API Reference',
+       //  },
+       //   {to: '/pricing', label: 'Pricing', position: 'left'},
           {to: '/contact', label: 'Contact Support', position: 'left'},
           {
             type: 'search',
@@ -109,60 +109,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Documentation',
-            items: [
-              {
-                label: 'Getting Started',
-                to: '/docs/getting-started/introduction',
-              },
-              {
-                label: 'User Guide',
-                to: '/docs/user-guide/dashboard',
-              },
-              {
-                label: 'API Reference',
-                to: '/docs/api/overview',
-              },
-            ],
-          },
-          {
-            title: 'Support',
-            items: [
-              {
-                label: 'Contact Support',
-                to: '/contact',
-              },
-              {
-                label: 'FAQ',
-                to: '/docs/faq/general',
-              },
-              {
-                label: 'System Status',
-                href: 'https://status.example.com',
-              },
-            ],
-          },
-          {
-            title: 'Company',
-            items: [
-              {
-                label: 'About Us',
-                href: 'https://example.com/about',
-              },
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'Pricing',
-                to: '/pricing',
-              },
-            ],
-          },
-        ],
+        style: 'dark',       
         copyright: `Copyright © ${new Date().getFullYear()} 5-day. All Rights Reserved.`,
       },
       prism: {
