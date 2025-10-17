@@ -146,11 +146,8 @@ export default function Home() {
     <Layout
       title={`Welcome to ${siteConfig.title}`}
       description="Complete guide to using our product effectively">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-        <QuickLinks />
-        <PopularTopics />
+      
+      <main>       
       </main>
     </Layout>
   );
