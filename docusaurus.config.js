@@ -21,7 +21,7 @@ const config = {
 
   // Set the production url of your site here
   // For self-hosted GitLab Pages at git.rishabhsoft.com
-  url: 'https://help.5days.io',
+  url: 'https://help.5day.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: '/5day_Docusaurus/',
 
