@@ -23,7 +23,7 @@ const config = {
   // For self-hosted GitLab Pages at git.rishabhsoft.com
   url: 'https://help.5day.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/5day_Docusaurus/',
+  baseUrl: '/',
 
   // GitLab Pages deployment config
   organizationName: 'reusable-components', // Your GitLab group name
