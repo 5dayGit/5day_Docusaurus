@@ -50,6 +50,13 @@ The newly created workspace will be visible in the **Workspace List** view.
 
 You can edit, or delete the workspace based on your assigned **role and permissions**.
 
+## Workspace ID
+
+Once the workspace gets created, each will have a its unique ID to access directly via URL.
+<img width="1634" height="107" alt="image" src="https://github.com/user-attachments/assets/c8f4086c-4e21-47c9-96af-47aa3746320f" />
+
+
+## Other References
 To modify the workspace, refer [Edit Workspace](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Workspace/Edit%20Workspace.md).
 
 To explore all workspaces, refer [List of Workspace](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Workspace/Edit%20Workspace.md).
