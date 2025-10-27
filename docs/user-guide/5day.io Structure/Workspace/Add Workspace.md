@@ -50,6 +50,6 @@ The newly created workspace will be visible in the **Workspace List** view.
 
 You can edit, or delete the workspace based on your assigned **role and permissions**.
 
-To modify the workspace, refer to the Edit Workspace help guide.
+To modify the workspace, refer [Edit Workspace](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Workspace/Edit%20Workspace.md).
 
-To explore all created workspaces, refer to the List of Workspace help guide.
+To explore all workspaces, refer [List of Workspace](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Workspace/Edit%20Workspace.md).
