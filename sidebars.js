@@ -39,7 +39,7 @@ const sidebars = {
         'user-guide/teams',
         'user-guide/reports',
         'user-guide/settings',
-       'user-guide/my work',
+       'user-guide/my-work',
       ],
     },
     {
