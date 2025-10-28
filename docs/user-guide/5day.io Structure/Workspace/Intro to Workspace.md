@@ -1,4 +1,4 @@
-# Intro to Workspace
+# Overview
 
 Workspace is at the highest level of the 5day.io structure. Spaces, projects, task and subtasks all reside within your workspace. 
 It serves as the foundation of any organization's structure, supporting businesses of all sizes. 
