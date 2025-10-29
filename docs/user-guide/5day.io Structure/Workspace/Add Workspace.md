@@ -60,3 +60,7 @@ Once the workspace gets created, each will have a its unique ID to access direct
 To modify the workspace, refer [Edit Workspace](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Workspace/Edit%20Workspace.md).
 
 To explore all workspaces, refer [List of Workspace](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Workspace/Edit%20Workspace.md).
+
+
+
+![Screen Recording 2025-10-29 at 3 25 14 PM](https://github.com/user-attachments/assets/bef47297-4a89-4522-810c-fcaa1e681605)
