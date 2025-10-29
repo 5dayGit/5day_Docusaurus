@@ -16,7 +16,9 @@ To create workspace via Quick Add
  1. From top/left navigation bar, click on 'Quick Add'
  2. Select 'Workspace' from left bar.
  3. Create a workspace.
-<img width="415" height="866" alt="image" src="https://github.com/user-attachments/assets/feb04afe-98ca-4f5e-98bf-cbd669ab9cac" />
+
+<img width="1582" height="602" alt="Quick Add-1" src="https://github.com/user-attachments/assets/e163a2d5-4499-406c-8baa-c55f7f730a82" />
+
 
 To create workspace via Account Settings
 
@@ -26,13 +28,13 @@ To create workspace via Account Settings
  4. Select 'Workspaces' from left panel.
  5. Click 'Add' to create a workspace.
 
-<img width="1916" height="876" alt="image" src="https://github.com/user-attachments/assets/8200ce43-02a7-4ca5-81de-ae3bfa4e9d6b" />
+<img width="511" height="989" alt="Quick Add" src="https://github.com/user-attachments/assets/bddff5c1-e035-4a69-bb14-5cb6112e299b" />
+
 
 To create workspace via Workspace Views
 
  1. From top/left navigation bar, click on 'Projects' or press 'p' to create workspace via shortcut key. 
  2. Click 'Add' to create a workspace.
-<img width="1916" height="874" alt="image" src="https://github.com/user-attachments/assets/0bbd8421-c217-4f6a-b740-02ab0f80468f" />
 
 ## Workspace Details
 
@@ -54,6 +56,10 @@ You can edit, or delete the workspace based on your assigned **role and permissi
 
 Once the workspace gets created, each will have a its unique ID to access directly via URL.
 <img width="1634" height="107" alt="image" src="https://github.com/user-attachments/assets/c8f4086c-4e21-47c9-96af-47aa3746320f" />
+
+
+https://github.com/user-attachments/assets/a1eac0bc-5eb1-45c9-af86-90b4cf15fcaf
+
 
 
 ## Other References
