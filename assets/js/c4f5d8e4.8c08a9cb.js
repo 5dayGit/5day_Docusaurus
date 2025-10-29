@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrishabh_product_help_docs=globalThis.webpackChunkrishabh_product_help_docs||[]).push([[2634],{192:(t,r,s)=>{s.r(r),s.d(r,{default:()=>c});s(6540);var h=s(6347),o=s(4848);function c(){return(0,o.jsx)(h.rd,{to:"/docs/getting-started/introduction"})}}}]);
