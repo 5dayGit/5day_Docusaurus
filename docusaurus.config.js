@@ -30,6 +30,7 @@ const config = {
   projectName: 'rishabh-product-help', // Your GitLab repo name
 
   onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -118,5 +119,27 @@ const config = {
       },
     }),
 };
+
+config.plugins = [
+   [
+    require.resolve('docusaurus-lunr-search'),
+    {
+      languages: ['en'],
+      indexBaseUrl: true,
+    },
+  ],
+  [
+    '@docusaurus/plugin-client-redirects',
+    {
+      
+      redirects: [
+        {
+          from: '/',
+          to: '/docs/getting-started/introduction',
+        },
+      ],
+    },
+  ],
+];
 
 export default config;

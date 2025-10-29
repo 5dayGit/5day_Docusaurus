@@ -82,3 +82,6 @@
   background-color: var(--ifm-color-primary-dark);
 }
 
+[data-theme='dark'] .navbar__search-input {
+    color: #f5e9e9 !important;
+}
