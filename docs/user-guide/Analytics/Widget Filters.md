@@ -1,4 +1,4 @@
-# Filters in Widget
+# Widget Filters
 
 In 5day.io, every widget supports the ability to filter data based on your specific requirements.
 
