@@ -25,6 +25,11 @@ To create a new widget in your project or section dashboard:
 
 ✅ The newly created widget will appear at the **last position** of the Dashboard page.
 
+**Quick Notes**
+-   The **type of Widget** you can create depends on your subscription plan.
+-   The **number of widgets** you can create depends on your subscription plan.
+-   Always double-check before deleting important widgets, as deletion is irreversible.
+
 ## Other References
 For more details about widget types, refer [Widget Type](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Widget%20Types.md)
 
