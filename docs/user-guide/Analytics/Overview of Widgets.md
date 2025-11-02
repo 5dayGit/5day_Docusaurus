@@ -12,15 +12,15 @@ Users can add multiple widgets to a single Dashboard, creating a personalized wo
 
 ## Key features of Widget
 
-**Widget type** – Choose from line chart, bar chart, doughnut chart, pie chart, number chart, or table. You can set up each one to show the exact data you need.
+**Widget type**: Choose from line chart, bar chart, doughnut chart, pie chart, number chart, or table. You can set up each one to show the exact data you need.
 
-**Filters** – Narrow down what shows up - like only tasks for specific person, certain statuses, or due date range.
+**Filters**: Narrow down what shows up - like only tasks for specific person, certain statuses, or due date range.
 
-**Custom Layout** – Switch colors, flip between list or graph.
+**Custom Layout**: Switch colors, flip between list or graph.
 
-**Refresh** – Widgets update live as things change, or hit the refresh button if you want the latest right now.
+**Refresh**: Widgets update live as things change, or hit the refresh button if you want the latest right now.
 
-**Subscription limits** – Add as many widgets as your plan allows; upgrade if you need more.
+**Subscription limits**: Add as many widgets as your plan allows; upgrade if you need more.
 
 ## Other References
 
