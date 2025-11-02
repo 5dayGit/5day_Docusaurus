@@ -11,6 +11,8 @@ However, the number of widgets you can create in account varies by the subscript
 
 ## Add Widget
 
+For permissions, refer **[Dashboard Views](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Dashboard%20View.md)**
+
 To create a new widget in your project or section dashboard:
 
 1.  Navigate to the **Dashboard View**.
