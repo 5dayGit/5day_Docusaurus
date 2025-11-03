@@ -19,3 +19,9 @@ Plus, clients or new teammates can jump in and instantly catch up without a reca
 -   **File attachments:** Drop images, PDFs, or links right into the thread; no more “check your email.”
 -   **Rich text:** Bold, italic, bullet lists, or code blocks - format your update so it’s clear the first time.
 -   **Activity timeline:** Every comment, edit, or file shows up with a timestamp and who did it.
+
+## Other References
+
+To access Discussion View, refer  [Discussion View](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Discussion%20View.md)
+
+To add a message, refer  [Add Message](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Add%20Message.md)
