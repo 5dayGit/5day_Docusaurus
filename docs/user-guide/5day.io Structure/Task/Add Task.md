@@ -3,7 +3,7 @@ In 5day.io, Add Task lets you instantly create a new unit of work within any pro
 Simply click + Add Task, enter a clear title, and optionally set assignee, due date, priority, and labels. Your Task is live in seconds - ready for Subtasks, tracking, and team collaboration.
 
 ## Subscription Association
-**Task Creation** is available in all subscription plans.
+**Task** is available in all subscription plans.
 
 **Subscription Plan**
 
