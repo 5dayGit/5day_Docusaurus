@@ -14,6 +14,28 @@ Deleting tasks depends on the **permission set** assigned to the user:
 -   **Delete Related:** User can delete tasks/subtasks where they are a project owner or member.
 -   **Delete None:** User is restricted from deleting any tasks or subtasks.
 
+## Delete Task
+
+There are multiple ways to delete a **task**:
+
+### From List View / Board View
+
+ 1. Hover over a task row/card.
+ 2. Click on the **three dots (More option)** icon.
+ 3. A dropdown menu will appear.
+ 4. Click **Delete** from the menu.
+ 5. Confirm deletion to permanently remove the task.
+
+### From task Details Page
+
+ 1. Open the task you want to delete.
+ 2. On the **top-right corner** of the task Details page, click the **three dots (More menu)**.
+ 3. Select **Delete** from the options.
+ 4. Confirm deletion to complete the action.
+
+**Quick Note**
+Always double-check before deleting, as this action is irreversible.
+
 ## Other References
 
 To add new task, refer  [Add Task](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Task.md).
