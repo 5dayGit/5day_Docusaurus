@@ -1,4 +1,5 @@
-# Templates
+# Templates in 5day.io
+#help/project
 
 ## Overview 
 **Templates** in 5day.io help you save time and maintain consistency by reusing the structure of frequently repeated projects. Instead of recreating the same setup each time, you can save a project as a template and use it to quickly launch new projects with predefined configurations. 
@@ -54,23 +55,23 @@ Turn this ON to include your project’s section structure (e.g., "To Do", "Back
 
 ### How to Edit Template Details 
 To edit a template in 5day.io: 
-**1.** **Go to Account Settings**: From the dashboard, navigate to your account settings. 
-**2.** **Open Template List**: In the settings menu, find and select the 'Template List' option. 
-**3.** **Locate Template**: A list of templates will be displayed. Next to each template, you will find a three-dot menu. 
-**4**. **Edit Template**: Click the three-dot menu and select **Edit**. You can now modify the template's image, name, and description. 
-**5.** **Save Changes**: Once you've made your desired changes, click **Save** to confirm. 
+1. **Go to Account Settings:** From the dashboard, navigate to your account settings. 
+2. **Open Template List**: In the settings menu, find and select the 'Template List' option. 
+3. **Locate Template**: A list of templates will be displayed. Next to each template, you will find a three-dot menu. 
+4. **Edit Template**: Click the three-dot menu and select **Edit**. You can now modify the template's image, name, and description. 
+5. **Save Changes**: Once you've made your desired changes, click **Save** to confirm. 
 
 ### How to Edit Inside a Template Project 
 To edit the details inside a template project: 
-**1.** **Go to Account Settings**: Start by accessing your account settings. 
-**2.** **Open Template List**: Find the 'Template List' and open it. 
-**3.** **Select Template**: Click on the three-dot menu next to the template you want to edit and select **Open**. 
-**4.** **Modify Project Details**: The template project will open, allowing you to modify any details, such as task statuses, assignees, dates, or other saved information. 
-**5.** **Save Automatically**: Once changes are made, click the **Back** button, and the system will save the changes automatically. You’ll return to the template list. 
+1. **Go to Account Settings**: Start by accessing your account settings. 
+2. **Open Template List**: Find the 'Template List' and open it. 
+3. **Select Template**: Click on the three-dot menu next to the template you want to edit and select **Open**. 
+4. **Modify Project Details**: The template project will open, allowing you to modify any details, such as task statuses, assignees, dates, or other saved information. 
+5. **Save Automatically**: Once changes are made, click the **Back** button, and the system will save the changes automatically. You’ll return to the template list. 
 
 ### How to Delete a Template 
 To delete a template you no longer need: 
-**1.** **Go to Account Settings**: Access the account settings from your dashboard. 
-**2.** **Open Template List**: Navigate to the 'Template List' in the settings. 
-**3**. **Select Template**: Next to each template, there’s a three-dot menu. Click on it and select **Delete**. 
-**4.** **Confirm Deletion**: A confirmation prompt will appear. Confirm the deletion to permanently remove the template from the system. 
+1. **Go to Account Settings**: Access the account settings from your dashboard. 
+2. **Open Template List**: Navigate to the 'Template List' in the settings. 
+3. **Select Template**: Next to each template, there’s a three-dot menu. Click on it and select **Delete**. 
+4. **Confirm Deletion**: A confirmation prompt will appear. Confirm the deletion to permanently remove the template from the system. 
