@@ -2,7 +2,7 @@
 
 ### Ways to Create a Project 
 You can create a project in two ways in 5day.io: 
-![](image.png)
+<img width="1438" height="495" alt="createproject" src="https://github.com/user-attachments/assets/98fc2fda-39f6-4a4e-8485-2e867251e6f4" />
 
 ### Create From Scratch 
 Use this option to manually create a new project from any of the following locations: 
