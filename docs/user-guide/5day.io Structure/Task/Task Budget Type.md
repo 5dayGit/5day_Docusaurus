@@ -1,4 +1,4 @@
-# Budget Type
+# Task Budget Type
 
 The **Budget Type** allows to classify each task and subtask as either **Billable** or **Non-billable**. This classification plays a key role in tracking and managing project costs, billing cycles, and productivity.
 
