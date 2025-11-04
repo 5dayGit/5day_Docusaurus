@@ -48,9 +48,9 @@ The **Reminders** tab under Timesheet Settings allows workspace admins to send a
 
 |**Reminder Type**|**Purpose**|**Frequency Options**|**When**|
 | :-: | :-: | :-: | :-: |
-|**Missing Time Entries**|Sends reminders to users who haven’t logged time.|- Never<br>- Daily<br>- Weekly|- For **Daily**: choose time (e.g. 10:00 AM)<br>- For **Weekly**: select day(s) (e.g. Monday) and time|
-|**Unsubmitted Time Reminders**|Reminds users to submit their logged time for approval.|- Never<br>- Daily<br>- Weekly|- For **Daily**: choose time<br>- For **Weekly**: select day(s) (e.g. Monday) and time|
-|**Pending Approvals**|Reminds project managers and users with approval rights to review and approve pending timesheets.|- Never<br>- Daily<br>- Weekly|- For **Daily**: choose time<br>- For **Weekly**: select day(s) (e.g. Monday) and time|
+|**Missing Time Entries**|Sends reminders to users who haven’t logged time.|- Never<br />- Daily<br />- Weekly|- For **Daily**: choose time (e.g. 10:00 AM)<br />- For **Weekly**: select day(s) (e.g. Monday) and time|
+|**Unsubmitted Time Reminders**|Reminds users to submit their logged time for approval.|- Never<br />- Daily<br />- Weekly|- For **Daily**: choose time<br />- For **Weekly**: select day(s) (e.g. Monday) and time|
+|**Pending Approvals**|Reminds project managers and users with approval rights to review and approve pending timesheets.|- Never<br />- Daily<br />- Weekly|- For **Daily**: choose time<br />- For **Weekly**: select day(s) (e.g. Monday) and time|
 
 ✅ **Who receives Pending Approvals reminders?**\
 Users with project manager roles or those granted **timesheet approval rights** in project settings will get these notifications.

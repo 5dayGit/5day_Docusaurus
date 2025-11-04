@@ -53,7 +53,6 @@ Users can easily apply text formatting (such as bold, italics, underline), inser
 Additionally, options like text direction, font size adjustment, background highlights, and cleaning formatting help maintain a clean and structured layout.
 
 The editor supports both basic and advanced editing needs, making collaboration and communication within 5day.io more effective and visually organized.
-<![endif]-->
 
 ### Access Rich Text Editor
 
