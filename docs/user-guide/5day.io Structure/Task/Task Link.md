@@ -1,4 +1,4 @@
-# Link Task
+# Task Link
 **Links** allow users to establish a direct relationship between two or more tasks or subtasks within the same project. Linking helps visualize dependencies, track related work, and manage task relationships efficiently.
 
 This is especially useful in complex projects where multiple tasks are interconnected or dependent on each other. A linked task offers a clear view of associated work and encourages collaboration across teams.
