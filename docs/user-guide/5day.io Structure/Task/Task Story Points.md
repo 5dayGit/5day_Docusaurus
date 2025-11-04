@@ -6,7 +6,7 @@ Unlike time-based estimation, story points are abstract and typically based on c
 
 They help teams evaluate work comparatively and prioritize tasks more effectively. 
 
-his method is especially beneficial for agile project management.
+This method is especially beneficial for agile project management.
 
 Story Points are numeric values (e.g., 1, 2, 3, 5, 8…) and are used to maintain consistent relative sizing across tasks. Each task and subtask maintains its own individual story point value.
 
