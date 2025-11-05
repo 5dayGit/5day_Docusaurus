@@ -34,7 +34,7 @@ Workspace/Project Level: Custom Fields can be created at workspace & project lev
 	6. Click ‘Add Field’ button to create configured custom field in account.
 4.  The new Custom Field is automatically added in your List of Custom Fields.
 
-## Add custom field at Project
+### Add custom field at Project
 
  1. Click on Project where custom field needs to be added as one of the fields of project.
  2. Project -> Three dots -> Project Settings -> project Info
@@ -72,7 +72,7 @@ The added Custom Field can be viewed at
  - Under Customize of ‘List View’ & ‘Board View’
  - Under Filters & Group By in all views.
 
-## Add custom field at Project -> Task Type
+### Add custom field at Project -> Task Type
 
 The custom fields added under Project -> Task Types, will be available to all Tasks & Subatsks of the specific project's task types.
 
@@ -97,7 +97,7 @@ The added Custom Field can be viewed at
  - Under Customize of ‘List View’ & ‘Board View’
  - Under Filters & Group By in all views.
 
-## Add custom field from Views
+### Add custom field from Views
 
 Custom field can be added directly from Project Views as well. 
 To add custom field at task type of project,
