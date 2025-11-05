@@ -1,1 +1,40 @@
+# Edit Custom Fields
 
+In 5day.io, **Edit Custom Field** lets you refine any existing field’s name, type, options, or settings directly from the Custom Field Library or its associated project/workspace. 
+Changes sync instantly across all linked tasks, subtasks, and views, ensuring data consistency without rework.
+
+## Edit Custom Field via Account Settings
+
+ 1. Click User profile icon (Bottom left) -> Account Settings -> Custom fields.
+ 2. Open list of custom fields.
+ 3. Select custom field which you want to edit. You can select custom field via two ways:
+	 - Click on name of Custom Field to edit details of custom field.
+	 - Hover over a Custom Field in the list and click the **Edit** icon.
+ 4. Edit details of Custom Fields.
+ 5. Click ‘Save’ to update all details.
+
+## Edit Custom Field via Workspace Settings
+
+ 1. Go to Workspace -> Workspace Settings -> Customization -> Task Type -> Custom Fields.
+ 2. List of custom fields will appear.
+ 3. Select custom field which you want to edit. You can select custom field via two ways:
+	 - Click on name of Custom Field to edit details of custom field.
+	 - Hover over a Custom Field in the list and click the **Edit** icon.
+ 4. Edit details of Custom Fields.
+ 5. Click ‘Save’ to update all details.
+
+## Edit Custom Field via Project Settings
+
+ 1. Go to Project -> Project Settings -> Customization -> Task Type -> Custom Fields.
+ 2. List of custom fields will appear.
+ 3. Select custom field which you want to edit. You can select custom field via two ways:
+	 - Click on name of Custom Field to edit details of custom field.
+	 - Hover over a Custom Field in the list and click the **Edit** icon.
+ 4. Edit details of Custom Fields.
+ 5. Click ‘Save’ to update all details.
+
+**Warning**
+
+The edited custom field will be updated to all projects, tasks and subtasks where its used.
+
+## Other References
