@@ -3,6 +3,7 @@ You can create a Section in a project using two easy methods:
 ### **Option 1: Create via Project Menu**
 1. Go to the project where you want to create a section.
 1. Click the **three-dot menu (⋮)** next to the project name.
+### IMAGE
 1. Select **Add Section**.
 1. In the **Add Section** form:
    1. **Project**: By default, the current project is selected. You can change this if needed.
@@ -14,7 +15,9 @@ You can create a Section in a project using two easy methods:
 
 ### **Option 2: Create via Add Button**
 1. Open the project where you want to add a section.
+### IMAGE
 1. Click the **Add button (+)** located within the project workspace.
+### IMAGE
 1. From the dropdown, select **Section**.
 1. In the form that appears:
    1. **Project**: The current project will be selected by default (editable if needed).
