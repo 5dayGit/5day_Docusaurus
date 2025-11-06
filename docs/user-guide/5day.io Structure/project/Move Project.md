@@ -1,5 +1,3 @@
-# Move a Project
-
 ### How to Move a Project 
 To move a project in 5day.io, follow these simple steps: 
 1. **Go to the Project**: Start by navigating to the project that you want to move. 
