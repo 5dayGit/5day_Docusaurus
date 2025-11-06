@@ -1,6 +1,6 @@
-# **Log Time via Task Details**
+# **Add Time via Task Details**
 ## **Overview**
-In 5day.io, users can directly log time for any task from within its **Task Details** view. This method is especially useful when you’re already reviewing or updating a task and want to capture time without switching views.
+In 5day.io, users can directly add time for any task from within its **Task Details** view. This method is especially useful when you’re already reviewing or updating a task and want to capture time without switching views.
 
 Within the task, you’ll find two main ways to track your time:
 
