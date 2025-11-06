@@ -2,6 +2,9 @@
 To edit the project info in 5day.io, follow these steps:
 
 1. **Go to Project Settings**: First, navigate to the **Project Settings** of the project you want to edit.
+
+### IMAGE
+
 1. **Access Project Info**: In the Project Settings menu, find and click on **Project Info**.
 1. **Edit Project Info**:
    1. **Project Name**: You can change the project name by clicking on the project info icon.
