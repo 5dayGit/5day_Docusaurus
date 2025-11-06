@@ -4,11 +4,13 @@ In 5day.io, you can easily hide or show sections in the structure view to keep y
 1. **Open the Project**: Click on the project where the section is located.
 1. **View Section List**: You’ll see a list of all sections within the project.
 1. **Open the Three-Dot Menu**: Next to each section name, click on the **three-dot menu** (⋮).
+    ### IMAGE
 1. **Hide the Section**: Select **Hide in Structure View** from the menu to hide the section.
 1. **Show the Section Again**: If the section is hidden, the same menu will display **Show in Structure View**. Click it to make the section visible again.
 ### **Option 2: From the Sidebar (Structure View)**
 1. **Expand the Project**: Click the **arrow icon** next to the project name to expand and see all sections.
 1. **Open the Three-Dot Menu**: Next to each section, click the **three-dot menu** (⋮).
+    ### IMAGE
 1. **Hide the Section**: Select **Hide in Structure View** to hide the section.
 
 **To Show the Section Again**:\
