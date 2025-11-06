@@ -7,6 +7,7 @@ This is especially useful when onboarding an entire team or migrating users from
    1. Navigate to the top menu and click **Account Settings**.
 1. **Open Data Import History**
    1. From the sidebar, click on **Data Import History**.
+         ### IMAGE
 1. **Click + Import**
    1. In the top-right, click the **+ Import** button to start the import process.
 1. **Select 'People' as Import Type**
@@ -26,7 +27,7 @@ This is especially useful when onboarding an entire team or migrating users from
 
 ### **After the Import**
 Once the import is complete, the import record will appear in the **Data Import History** table with key information such as:
-
+   ### IMAGE
 - **Date and Time**
 - **Imported By**
 - **Import Type** (People)
