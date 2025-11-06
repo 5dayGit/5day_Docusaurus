@@ -6,6 +6,7 @@ To rename a project in 5day.io, follow these simple steps:
     rename.
 2.  **Open the Three-Dot Menu**: From the project view, click on the
     three-dot menu next to the project name.
+    ### IMAGE
 3.  **Click on \'Rename Project\'**: In the dropdown menu, select
     **Rename Project**.
 4.  **Edit the Project Name**: The project name will become editable.
