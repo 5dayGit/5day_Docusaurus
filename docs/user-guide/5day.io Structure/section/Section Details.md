@@ -38,10 +38,12 @@ You can access **Section Details** in 5day.io in two simple ways:
 ### **Option 1: Using the 'Show Details' Button**
 1. **Open the Project**: Click on the project where the section is located.
 1. **View Section List**: You’ll see a list of all sections within the project.
+    ### IMAGE
 1. **Click 'Show Details'**: Next to each section name, there is a **Show Details** button.\
    Click this button to open and view the section details.
 ### **Option 2: Using the Three-Dot Menu**
 1. **Open the Project**: Click on the project where you want to view section details.
 1. **Expand the Section List**: Use the arrow icon beside the project name to expand and view all sections.
 1. **Access the Menu**: Next to each section, you’ll see a **three-dot menu** (⋮).
+    ### IMAGE
 1. **Click 'Section Details'**: From the menu, select **Section Details** to view detailed information for that section.
