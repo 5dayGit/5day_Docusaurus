@@ -5,6 +5,7 @@ This feature is especially useful when migrating tasks from spreadsheets or othe
 ### **Steps to Import Tasks (Account Level)**
 1. **Go to Account Settings**
    1. Click on **Data Import History** from the sidebar.
+      ### IMAGE
 1. **Click + Import**
    1. A confirmation box will open.
 1. **Choose Import Type and Project**
@@ -28,7 +29,7 @@ This feature is especially useful when migrating tasks from spreadsheets or othe
 Once the file is processed, you’ll see it listed in the **Data Import History** table.
 
 You’ll be able to view:
-
+   ### IMAGE
 - **Date and Time of import**
 - **File Name**
 - **Imported By**
