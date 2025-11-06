@@ -14,8 +14,15 @@ This gives your team flexibility to define how sprints should work **workspace b
 If you don’t want Sprint Management enabled for a specific workspace:
 
 1. **Go to Workspace Settings**: Navigate to the workspace where you want to disable Sprint Management.
+
+### IMAGE
+
 1. **Open Customization**: Inside workspace settings, click on the **Customization** tab.
 1. **Locate Sprint Management**: Find the Sprint Management option in the customization panel.
+
+### IMAGE
+
+
 1. **Toggle Off**: Use the toggle button to disable Sprint Management for this workspace.
 
 ✅ **Note:**
@@ -28,12 +35,17 @@ Sprint Management in 5day.io helps you manage work in fixed time cycles (sprints
 ### **✅ Enabling Sprint Management**
 1. **Go to Project Settings**\
    Click on the project name → click the **three-dot menu** (⋮) → select **Project Settings**.
+
+   ### IMAGE
+
 1. **Open Features Tab**\
    In the settings panel, go to the **Features** section.
 1. **Enable Sprint Management**\
    Turn on the toggle for **Sprint Management**.
 
  *Note: When Sprint Management is enabled, Story Points are also enabled automatically.*
+
+### IMAGE
 
 1. **Configure Sprint Settings**\
    Once enabled, a configuration window will appear with the following options:
