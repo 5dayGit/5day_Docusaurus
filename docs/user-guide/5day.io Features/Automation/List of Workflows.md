@@ -1,4 +1,4 @@
-# List of Workflow
+# List of Workflows
 **List of Workflows** shows every automation rule you’ve created inside the your project - all in one clean screen so you can see what’s running, pause anything, or jump straight to edits.
 
 ## Permission Set
