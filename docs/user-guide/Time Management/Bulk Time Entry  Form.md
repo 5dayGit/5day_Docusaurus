@@ -9,15 +9,17 @@ You can access the **Bulk Time Entry** form from two locations:
 1. **From a Project**
    1. Go to a **Project** where you have access.
    1. Click on the **Timesheet** tab.
+         ### IMAGE
    1. In the top-right corner, click on the **Add Bulk Time** button.
 1. **From My Timesheet**
    1. Navigate to **My Timesheet** from the left sidebar.
+         ### IMAGE
    1. Click on **Add Bulk Time** from the top-right of the timesheet view.
 
 ✅ You must have timesheet access enabled for the project or workspace to use this feature.
 ## **How Bulk Time Entry Works**
 Once you open the Bulk Time Entry modal, you will see:
-
+         ### IMAGE
 - A **weekly calendar** view (Monday to Sunday).
 - A **user switcher** (visible only if you have rights to log time for others).
 - A list of added tasks or internal time categories with **input fields** beside each date.
