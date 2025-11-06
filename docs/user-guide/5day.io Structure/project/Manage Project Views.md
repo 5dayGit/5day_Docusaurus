@@ -4,6 +4,9 @@ In 5day.io, you can customize which views are available for your project, such a
 #### ***Steps to Enable or Disable Views:***
 1. **Open the Project**\
    Navigate to the project where you want to update the views.
+
+   ### Image
+   
 1. **Access Project Settings**\
    Click the **three-dot menu** (︙) in the top-right corner of the project.\
    Select **Project Settings** from the dropdown.
@@ -12,6 +15,9 @@ In 5day.io, you can customize which views are available for your project, such a
 
 1. **Go to the Views Tab**\
    Inside Project Settings, click on the **Views** tab.
+
+      ### Image
+
 1. **Configure Views**
    1. You’ll see a list of available views like **Board**, **Timesheet**, **Dashboard**, **Files**, **Discussion**, and **Activity Stream**.
    1. **List View** is always enabled and cannot be disabled.
