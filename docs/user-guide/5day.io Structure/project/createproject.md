@@ -9,6 +9,9 @@ Use this option to manually create a new project from any of the following locat
 - **Workspace Menu**: Click on the workspace name in the left sidebar. Then click the **three-dot menu (⋮)** next to it and choose **Add Project** to add it under that workspace.
 - **Space Menu**: Inside a workspace, click on the space name, open the **three-dot menu**, and choose **Add Project** to add it under that space.
 - **Project Menu**: Next to an existing project, click the **three-dot menu (⋮)** and select **Add Project**. This will place the new project in the same space as the existing one.
+
+### IMAGE
+
 - **Quick Add Button:** From the top left navigation bar, click on the **Quick Add (+)** icon — represented by a plus sign inside a circle. Once the quick add menu opens, click on **Project** to start creating a new project.
 - **Add (+) Button:** A cross spaces and workspaces, you’ll find an **Add (+)** button.\
   Click it, and from the dropdown menu, select **Project** to start project creation.
@@ -16,6 +19,9 @@ Use this option to manually create a new project from any of the following locat
  *Tip: The location you choose will pre-fill the workspace/space in the project form automatically.*
 
 **Steps to complete project creation:**
+
+### IMAGE
+
 
 1. Choose **Set a New Project**
 1. Fill in the required fields:
@@ -30,6 +36,8 @@ Use this option when you want to save time by creating a project with predefined
 
 **Where can you add a project via template from?**
 
+### IMAGE
+
 - **Workspace Menu**: Click on the workspace name in the left sidebar. Then click the **three-dot menu (⋮)** next to it and choose **Add Project** to add it under that workspace.
 - **Space Menu**: Inside a workspace, click on the space name, open the **three-dot menu**, and choose **Add Project** to add it under that space.
 - **Project Menu**: Next to an existing project, click the **three-dot menu (⋮)** and select **Add Project**. This will place the new project in the same space as the existing one.
@@ -38,6 +46,10 @@ Use this option when you want to save time by creating a project with predefined
 
  *Tip: The location you choose will pre-fill the workspace/space in the project form automatically.*
 ### **Steps to Create From a Template**
+
+### IMAGE
+
+
 1. Click **New Project** from any of the locations above.
 1. In the project creation form, select the **Use Template** tab.
 1. Choose between:
