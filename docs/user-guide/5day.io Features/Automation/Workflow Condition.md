@@ -23,17 +23,6 @@ After a trigger fires, 5day.io checks your conditions **from left to right**.
 | OR (nested) | Any one nested condition is true | Flexible options | Priority is Highest OR Tag contains "urgent" |
 | Nested AND/OR | Mix them for pro-level control | Complex scenarios | (Priority High OR Tag "urgent") AND Due Date is today |
 
-### Visual Example
-Trigger: Status changes to Done
-
-Conditions:
-Priority is Highest                    ← Main AND
-   OR
-   ├─ Tag contains "client-facing"      ← Nested OR Group
-   └─ Budget Type is Billable           ← (one of these must be true)
-
-Action: Notify CEO
-
 ### Available Fields & Operators
 
 | Field Type | Operators | Examples |
