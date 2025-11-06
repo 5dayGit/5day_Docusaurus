@@ -5,6 +5,7 @@ The **Day View** in 5day.io Timesheet allows you to see time entries laid out in
 - All **logged time entries** for the selected date appear as blocks on the timeline.
 - A **summary section** will be shown.
 ###  Adding Time Entries
+    ### IMAGE
 - You can **click and drag** on any time block (e.g., 2:00 PM to 4:00 PM) to log new time.
 - This opens the Add **Time Entry pop-up**, where you can enter task, duration, notes, and select billable/non-billable.
 ###  Viewing Time for Other Users
