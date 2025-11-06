@@ -2,6 +2,7 @@
 ###  Submission Methods
 #### **1. Submit from Task Details**
 - Go to the **project** and open the **task** where time was logged.
+  ### IMAGE
 - Click on the **Total Time Logged** section at the bottom of the task.
 - A **Time Entries** pop-up will open showing all logged entries.
 - For each entry, you’ll see a **tick icon** beside the row.
@@ -13,10 +14,12 @@ Note: You can identify unsubmitted time entries by the **"To Submit"** status.
 - Open the **project** where time entries were logged.
 - Click on the **Timesheet** tab in the top project menu.
 - Switch to any view — **Day, Week, Month, or List**.
+  ### IMAGE
 - If time entries are pending submission for the selected time period, a **Submit All** button will be visible.
 - Click **Submit All** to send all pending entries for approval.
 
 #### **3. Submit from My Timesheet**
 - Go to **My Timesheet** from the navigation menu.
 - Inside My Timesheet, switch to any view — **Day, Week, Month, or List**.
+  ### IMAGE
 - If time entries are pending submission for the selected time period, a **Submit All** button will be visible.
