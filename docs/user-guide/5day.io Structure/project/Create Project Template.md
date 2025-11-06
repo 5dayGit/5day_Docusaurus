@@ -2,8 +2,13 @@
 1. **Open the Project**\
    Navigate to the project you want to save as a reusable template.
 1. **Click the Three-Dot Menu (⋮)**\
+
+### IMAGE
    Located next to the project name. From the dropdown, select **Save as Template**.
 1. **Fill in Template Details**
+
+### IMAGE
+
    1. **Template Name** (required): Give your template a clear name.
    1. **Template Image** (optional): Upload an identifying image or icon.
    1. **Description** (optional): Add a short summary about the purpose or usage.
