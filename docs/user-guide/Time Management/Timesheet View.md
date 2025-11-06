@@ -24,6 +24,7 @@ To access the **Timesheet View** for a project in 5day.io:
 1. Navigate to the **Projects** section in the left sidebar.
 1. Click on the **project name** for which you want to view the timesheet.
 1. Once inside the project, look at the top navigation menu (just below the project name).
+    ### IMAGE
 1. Click on the **Timesheet** tab.
 
 This will open the Timesheet View for the selected project, where you can view, log, and manage time entries using Day, Week, Month, or List views.
