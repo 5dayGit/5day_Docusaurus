@@ -1,6 +1,3 @@
-# Templates in 5day.io
-#help/project
-
 ## Overview 
 **Templates** in 5day.io help you save time and maintain consistency by reusing the structure of frequently repeated projects. Instead of recreating the same setup each time, you can save a project as a template and use it to quickly launch new projects with predefined configurations. 
 
