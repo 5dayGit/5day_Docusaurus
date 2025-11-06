@@ -2,9 +2,10 @@
 ### **Steps to Enable or Disable Time Approval**
 1. Go to the **project** where you want to update the time approval setting.
 1. Click the **three-dot menu (⋮)** next to the project name and select **Project Settings**.
+      ### IMAGE
 1. In the left menu, click on **Features**.
 1. Locate the toggle for **Time Approval**.
-
+      ### IMAGE
    1. To **enable**: Switch the toggle **ON**. Time Approval will be activated for this project.
    1. To **disable**: Switch the toggle **OFF**. Time entries will no longer require approval.
 
