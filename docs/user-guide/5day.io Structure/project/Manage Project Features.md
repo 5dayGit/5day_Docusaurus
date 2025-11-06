@@ -2,6 +2,7 @@
 To enable or disable project features in 5day.io, follow these steps:
 
 1. **Go to Project Settings**: First, navigate to the **Project Settings** of the project you want to configure.
+### IMAGE
 1. **Click on 'Features'**: Once in Project Settings, click on the **Features** tab.
 1. **Enable or Disable Features**: In the features list, you'll see a range of features with toggle buttons next to each one. You can toggle **on** or **off** the features you want to enable or disable for that particular project.
    Here is a list of project features that you can enable or disable:
