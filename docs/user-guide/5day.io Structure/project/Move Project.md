@@ -1,4 +1,4 @@
-# Move and Duplicate Project
+# Move a Project
 
 ### How to Move a Project 
 To move a project in 5day.io, follow these simple steps: 
