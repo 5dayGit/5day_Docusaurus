@@ -47,6 +47,26 @@ Simply check or uncheck the boxes to enable or disable the notification types yo
 ✅ Changes are **saved instantly** when you toggle a notification.
 
 
+### **Do Not Disturb (DND) Mode**
+Use this feature to automatically silence notifications during specific hours or on your days off.
+
+**To enable Do Not Disturb mode:**
+
+1. Go to **My Settings** from your profile menu.
+1. Click on **Notifications**.
+1. Under the **Schedule** section, check the box for **“Do not notify me from:”**.
+1. Set your preferred **start** and **end time** for the DND period.
+1. Select the **days** you want DND to apply (e.g., Saturday, Sunday).
+   1. Selected days will be highlighted.
+
+**To disable Do Not Disturb mode:**
+
+- Uncheck the **“Do not notify me from”** box to remove the time-based restriction.
+- To remove any selected days, click on each highlighted day again to deselect it.
+
+### **Pause Notifications**
+Use this option to temporarily silence all notifications across devices.
+
 **To pause notifications:**
 
 1. In the same **Notifications** section under My Settings,
@@ -55,4 +75,4 @@ Simply check or uncheck the boxes to enable or disable the notification types yo
 
 **To resume notifications:**
 
-- Simply click the **“Pause notifications”** button again to turn it off.
+- Click the **“Pause notifications”** button again to turn it off.
