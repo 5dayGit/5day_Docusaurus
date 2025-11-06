@@ -6,6 +6,7 @@ You can manage time approvals in two ways:
 ###  Option 1: From the Project’s Time Approval Tab
 1. Go to the **project** for which you want to review time entries.
 1. Click on the **Timesheet** tab in the top menu.
+         ### IMAGE
 1. Inside Timesheet, switch to the **Time Approval** tab.
 1. Use the **Show for** dropdown to filter by a specific team member or select **All Members** to view everyone’s entries.
 1. Choose the relevant **week range** using the date navigation.
@@ -19,6 +20,7 @@ You can manage time approvals in two ways:
 1. To approve all time entries for all member, use the **Approve All** button 
 ###  Option 2: From My Timesheet → Time Approval
 1. Click on **My Timesheet** from the navigation bar.
+         ### IMAGE
 1. Switch to the **Time Approval** tab.
 1. Use the **Show for** filter to view:
    1. A specific team member’s time entries
@@ -35,6 +37,7 @@ You can manage time approvals in two ways:
 
 ###  Option 3: From Task Details → Total Time Logged
 1. Go to the **specific task** in a project.
+         ### IMAGE
 1. Scroll to the **bottom bar** and click **Total Time Logged**.
 1. In the time log popup:
    1. You’ll see a list of entries with **date**, **status**, **logged time**, and an editable **Approved** field.
