@@ -19,7 +19,7 @@ You can access the **Bulk Time Entry** form from two locations:
 ✅ You must have timesheet access enabled for the project or workspace to use this feature.
 ## **How Bulk Time Entry Works**
 Once you open the Bulk Time Entry modal, you will see:
-         ### IMAGE
+      ### IMAGE
 - A **weekly calendar** view (Monday to Sunday).
 - A **user switcher** (visible only if you have rights to log time for others).
 - A list of added tasks or internal time categories with **input fields** beside each date.
