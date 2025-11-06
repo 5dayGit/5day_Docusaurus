@@ -9,7 +9,8 @@ Use projects to: 
 * Collaborate with your team using files, and discussions. 
 * Get visibility into all task-level details without losing sight of the big picture. 
 
-⠀Each project supports additional metadata like project description, client assignment (if enabled), tags, custom fields, and more—so your team has all the context in one place. 
+Each project supports additional metadata like project description, client assignment (if enabled), tags, custom fields, and more—so your team has all the context in one place. 
+
 ✅ Projects form the foundation for execution in 5day.io. Whether you're launching a new product, running a client engagement, or managing an internal sprint, it all starts with creating a project. 
  
 ## Subscription Association: Projects 
