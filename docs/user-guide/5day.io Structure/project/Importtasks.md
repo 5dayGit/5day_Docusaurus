@@ -11,8 +11,14 @@ how:
 2.  **Click on the Three-Dot Menu**: Next to the project where you want
     to import tasks, click on the three-dot menu.
 
+### IMAGE
+
+
 3.  **Select \'Import\'**: In the dropdown, select **Import**. This will
     open the task import dialog.
+
+
+### IMAGE
 
 4.  **Download the Sample File**: Once the import dialog appears, click
     on **Download Sample File**. This will download an Excel file with
@@ -41,11 +47,17 @@ how:
 1.  **Go to Project Settings**: Navigate to the project settings of the
     project you want to import tasks into.
 
+
+### IMAGE
+
 2.  **View Data Import History**: In the settings, you will see an
     option for **Data Import History**.
 
 3.  **Click on \'Import\'**: In the Data Import History section, click
     on **Import** to begin the process.
+
+
+### IMAGE
 
 4.  **Download the Sample File**: Like in Method 1, you can download the
     **Sample File** from the import dialog.
@@ -59,6 +71,9 @@ how:
     click on **Import** to upload the tasks into the project.
 
 #### **Data Import History**
+
+
+### IMAGE
 
 Once the tasks are imported, you can view the import details in the
 **Data Import History** section. Here, you will see:
