@@ -3,7 +3,7 @@
 **My Timesheet** in 5day.io gives every user a centralized view to track their time logged across projects — whether it’s billable hours, internal work, or time off. It’s designed to help both individuals and managers get a clear picture of time utilization and stay aligned on productivity goals.
 
 From this single interface, users can:
-
+  ### IMAGE
 - **Log time entries** using the **Add Time** or **Add Bulk Time** buttons
 - Switch between multiple views: **Day**, **Week**, **Month**, and **List**
 - **See logged entries by type** – Time Entry, Internal Time, and Time Off
@@ -21,6 +21,7 @@ Managers can also access the **Time Approval** tab to review and approve timeshe
 
 Whether you're an individual contributor keeping track of your hours, or a manager reviewing timesheets for approvals — My Timesheet keeps everything organized, clear, and easy to act on.
 ### **How View Tabs Work in My Timesheet**
+  ### IMAGE
 The **Day**, **Week**, **Month**, and **List** tabs in *My Timesheet* work the same way as they do in the **Project Timesheet View**, with one difference:
 
 - In **Project Timesheet**, entries are scoped to that specific project.
