@@ -6,6 +6,7 @@ In 5day.io, all timesheet configuration is managed from the workspace level. Adm
 To access Timesheet Settings:
 
 1. Go to **Workspace Settings**
+   ### IMAGE
 1. Click on **Timesheet Settings** from the left sidebar
 1. Under Timesheet Settings, you will find three tabs:
    1. **Basic Settings**
