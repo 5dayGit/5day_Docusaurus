@@ -23,6 +23,9 @@ After a trigger fires, 5day.io checks your conditions **from left to right**.
 | OR (nested) | Any one nested condition is true | Flexible options | Priority is Highest OR Tag contains "urgent" |
 | Nested AND/OR | Mix them for pro-level control | Complex scenarios | (Priority High OR Tag "urgent") AND Due Date is today |
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/c5b1f4fe-d53b-4537-a726-5d75a86b1b15" />
+
+
 ### Available Fields & Operators
 
 | Field Type | Operators | Examples |
