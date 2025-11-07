@@ -3,6 +3,7 @@ In 5day.io, you can edit both **default roles** (like Manager, Member, Guest) an
 ### **Steps to Edit a Role:**
 1. Go to **Account Settings**.
 1. Click on **Security & Permissions** from the sidebar.
+      ### IMAGE
 1. Under the **Roles & Permissions** section:
    1. You will see a list of all **Default Roles** provided by the system.
    1. You will also see a list of all **Custom Roles** created in your account.
