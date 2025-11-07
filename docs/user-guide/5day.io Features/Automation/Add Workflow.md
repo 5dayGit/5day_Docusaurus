@@ -22,6 +22,10 @@ Follow these steps to create your workflow:
 | Icon and Color| Pick an icon and color so it’s easy to spot in the list. |
 | Description | Add a short note about what this workflow does – helps teammates understand later. |
 
+<img width="3560" height="2301" alt="image" src="https://github.com/user-attachments/assets/f7b5e124-74df-4266-bc41-f3eac66c8b63" />
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/562d5d10-ba02-4e85-a878-9b589bfaf97d" />
+
 ### Define a Rule
 This is the brain of your workflow – the exact “if this, then that” logic.
 
@@ -31,23 +35,31 @@ This is the brain of your workflow – the exact “if this, then that” logic.
 	- Due date passed 
 	- New comment added 
 	- Subtask completed.
+<img width="3360" height="1024" alt="image" src="https://github.com/user-attachments/assets/d0b48078-128d-4934-90c8-ee5f2fdd1336" />
+
+
 -   **Conditions** (optional): Extra checks before running. 
 - Certain examples are like: 
 	- Only if Priority = High 
 	- Only if Assignee = Marketing Team 
 	- Only if Tags contain “urgent”.
--   **Action** (mandatory): What actually happens. 
+<img width="3360" height="1024" alt="image" src="https://github.com/user-attachments/assets/fcdf2dca-cb09-479d-a5d7-ff99168c762f" />
+
+-  **Action** (mandatory): What actually happens. 
 - Certain examples are like:
 	- Change status to Done 
 	- Assign to Manager 
 	- Add tag “review-needed” 
 	- Send notification 
 	- Move to section “Section 5”.
+<img width="2328" height="756" alt="image" src="https://github.com/user-attachments/assets/2cf3d6d0-f4dd-4963-b1ff-2ff0b4578d2f" />
+
 
 4. Save your workflow.
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/b4b9f915-8ce2-4f23-9dff-7bedf8907b38" />
+
 
 Your new workflow instantly appears in the **List of Workflows** and starts working immediately (toggle it off anytime if you want to pause it).
-
 That’s it - one workflow, hundreds of clicks saved every week!
 
 ## Other References
