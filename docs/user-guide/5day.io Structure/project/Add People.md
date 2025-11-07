@@ -3,23 +3,24 @@ You can easily add existing members of your 5day.io workspace to a project using
 ### **Option 1: Add via Project Menu**
 1. Go to the project where you want to add members.
 
-### IMAGE
-
 1. Click the **three-dot menu (⋮)** next to the project name.
 1. Select **Add People** from the dropdown.
 1. From the list of existing workspace members, select the users you want to add.
 1. Click **Add** — they’ll immediately be added to the project.
+
+<img width="3616" height="2448" alt="image" src="https://github.com/user-attachments/assets/1fd2d813-2ef0-4785-a124-d07f100a439b" />
 
 
 ### **Option 2: Add via Project Settings**
 1. Inside the project, click the **three-dot menu (⋮)** next to the project name.
 1. Select **Project Settings**.
 
-### IMAGE
-
 1. In the Project Settings menu, go to the **People** tab.
 1. Click on **Add People**.
 1. Choose members from the existing list and click **Add**.
+
+<img width="3616" height="2448" alt="image" src="https://github.com/user-attachments/assets/bffedfff-6caf-4fca-9680-49e4c05d0ec6" />
+
 
 ✅ *Note: Only existing workspace members can be added to a project. If someone isn't part of your workspace yet, you’ll need to invite them to the workspace first before assigning them to a project.*
 
@@ -43,16 +44,12 @@ An invitation email will be sent. Once the user accepts the invite, they’ll be
 
 ### **Option 2: Invite via Project Settings**
 1. Go to the project and click the **three-dot menu (⋮)** next to the project name.
-
-### IMAGE
-
 1. Select **Project Settings**.
-
-### IMAGE
-
 1. Navigate to the **People** tab.
+<img width="3616" height="2448" alt="image" src="https://github.com/user-attachments/assets/dfc43df1-6f10-4388-bf59-66cc950a86f2" />
+
 1. Click on **Invite New**.
 1. Choose **Invite by Email**.
 1. Enter the **email address**, assign the **role**, and click **Invite**.
 
-✅ *The invited person will receive an email with instructions to join. After confirming their email, they’ll be added directly to the project.*
+✅ The invited person will receive an email with instructions to join. After confirming their email, they’ll be added directly to the project.
