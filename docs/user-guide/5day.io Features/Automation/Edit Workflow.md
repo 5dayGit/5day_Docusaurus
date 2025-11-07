@@ -10,7 +10,11 @@ You should have **Edit Project** permission to modify workflows in the project.
 1.  Open your project -> three dots -> **Project Settings** -> **Workflows**
     
 2.  Find the workflow you want to change → click on Three dots -> click on **Edit** (pencil icon).
-    
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/711ca63b-727f-4cfb-8507-1f4fb973ce24" />
+
+
+
 3.  Update whatever you need:
     
 	   **Mark as Active/Inactive** Click on Toggle button to make your workflow active/inactive.
