@@ -4,6 +4,7 @@ Note: The Account Owner role is mandatory and always assigned to at least one us
 ### **Steps to Delete a Role:**
 1. Go to **Account Settings**.
 1. Click on **Security & Permissions** from the sidebar.
+      ### IMAGE
 1. Under the **Roles & Permissions** section, you will see the list of all roles (both default and custom).
 1. Find the role you want to delete.
 1. Click on the **three-dot menu** (⋮) next to that role.
