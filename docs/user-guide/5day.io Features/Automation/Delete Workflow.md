@@ -11,6 +11,8 @@ You must have **Edit Project** permission to delete workflows.
 2.  Find the workflow → click the three dots (⋮) next to it
 3.  Choose **Delete**
 4.  Upon the confirmation, workflow will be deleted from project.
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/457fbe6a-a96d-49ab-9b4c-71c8aea2ae55" />
+
 
 ### **What happens next**
 
