@@ -29,20 +29,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'User Guide',
-      items: [
-        'user-guide/dashboard',
-        'user-guide/projects',
-        'user-guide/tasks',
-        'user-guide/teams',
-        'user-guide/reports',
-        'user-guide/settings',
-        'user-guide/my-work',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Analytics',
+      label: 'Dashboard',
       items: [
         'user-guide/Analytics/Overview of Dashboard',
         'user-guide/Analytics/Dashboard View',
@@ -69,6 +56,13 @@ const sidebars = {
       items: [
         {
           type: 'category',
+          label: '5day.io Structure',
+          items: [
+            'user-guide/5day.io Structure/5day.io Structure/Intro to 5day.io Structure'
+          ],
+        },
+        {
+          type: 'category',
           label: 'Workspace',
           items: [
             'user-guide/5day.io Structure/Workspace/Intro to Workspace',
@@ -76,19 +70,24 @@ const sidebars = {
             'user-guide/5day.io Structure/Workspace/Add Workspace',
             'user-guide/5day.io Structure/Workspace/Edit Workspace',
             'user-guide/5day.io Structure/Workspace/Delete Workspace',
-            'user-guide/5day.io Structure/Workspace/List of Workspace'
+            'user-guide/5day.io Structure/Workspace/List of Workspace',
+            'user-guide/5day.io Structure/Workspace/Workspace Views',
+            'user-guide/5day.io Structure/Workspace/People at Workspace',
+            'user-guide/5day.io Structure/Workspace/Workspace Owner',
+            'user-guide/5day.io Structure/Workspace/Workspace Details',
           ],
         },
         {
           type: 'category',
           label: 'Space',
           items: [
-            'user-guide/5day.io Structure/Space/Create Space',
+            'user-guide/5day.io Structure/Space/Intro to Space',
             'user-guide/5day.io Structure/Space/Roles and Permission of Space',
             'user-guide/5day.io Structure/Space/Add Space',
             'user-guide/5day.io Structure/Space/Edit Space',
             'user-guide/5day.io Structure/Space/Delete Space',
-            'user-guide/5day.io Structure/Space/List of Spaces'
+            'user-guide/5day.io Structure/Space/List of Spaces',
+            'user-guide/5day.io Structure/Space/Space Views'
           ],
         },
         {
@@ -102,20 +101,64 @@ const sidebars = {
             'user-guide/5day.io Structure/Task/Delete Task',
             'user-guide/5day.io Structure/Task/Move Task',
             'user-guide/5day.io Structure/Task/Duplicate Task',
-            'user-guide/5day.io Structure/Task/Link Task',
+         'user-guide/5day.io Structure/Task/Task Link',
             'user-guide/5day.io Structure/Task/Intro to Subtask',
             'user-guide/5day.io Structure/Task/Add Subtask',
             'user-guide/5day.io Structure/Task/Edit Subtask',
             'user-guide/5day.io Structure/Task/Delete Subtask',
             'user-guide/5day.io Structure/Task/List of Subtask',
             'user-guide/5day.io Structure/Task/Task Details',
-            'user-guide/5day.io Structure/Task/Import Task'
-
+            'user-guide/5day.io Structure/Task/Import Task',
+            'user-guide/5day.io Structure/Task/Task Budget Type',
+            'user-guide/5day.io Structure/Task/Task Assignee',
+            'user-guide/5day.io Structure/Task/Task Dates',
+            'user-guide/5day.io Structure/Task/Task Estimation',
+            'user-guide/5day.io Structure/Task/Task Story Points',
+            'user-guide/5day.io Structure/Task/Task Priority',
+            'user-guide/5day.io Structure/Task/Task Tags',
+            'user-guide/5day.io Structure/Task/Task Status',
+             'user-guide/5day.io Structure/Task/Bulk Update',
+             'user-guide/5day.io Structure/Task/Task Reminder',
+             'user-guide/5day.io Structure/Task/Task Recurrence',
           ],
         },
       ],
     },
-
+    {
+      type: 'category',
+      label: '5day.io Features',
+      items: [
+        {
+          type: 'category',
+          label: 'Automation',
+          items: [
+            'user-guide/5day.io Features/Automation/Intro to Automation',
+            'user-guide/5day.io Features/Automation/Intro of Workflow',
+            'user-guide/5day.io Features/Automation/Add Workflow',
+            'user-guide/5day.io Features/Automation/Edit Workflow',
+            'user-guide/5day.io Features/Automation/Delete Workflow',
+            'user-guide/5day.io Features/Automation/List of Workflows',
+            'user-guide/5day.io Features/Automation/Workflow Trigger',
+            'user-guide/5day.io Features/Automation/Workflow Condition',
+            'user-guide/5day.io Features/Automation/Workflow Action',
+            'user-guide/5day.io Features/Automation/Workflow Usage',
+            'user-guide/5day.io Features/Automation/Workflow Activity Stream',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Custom Fields',
+          items: [
+            'user-guide/5day.io Features/Custom Fields/Intro to Custom Fields',
+            'user-guide/5day.io Features/Custom Fields/Add Custom Field',
+            'user-guide/5day.io Features/Custom Fields/Custom Field Types',
+            'user-guide/5day.io Features/Custom Fields/List of Custom Fields',
+            'user-guide/5day.io Features/Custom Fields/Edit Custom Field',
+            'user-guide/5day.io Features/Custom Fields/Delete Custom Field',
+          ]
+        }
+      ]
+    },
     {
       type: 'category',
       label: 'Views',
@@ -144,6 +187,33 @@ const sidebars = {
             'user-guide/Views/File View/Delete File'
           ]
         },
+        {
+          type: 'category',
+          label: 'Activity Stream',
+          items: [
+            'user-guide/Views/Activity Stream/Intro to Activity Stream',
+            'user-guide/Views/Activity Stream/Project Activity Stream',
+            'user-guide/Views/Activity Stream/Section Activity Stream',
+            'user-guide/Views/Activity Stream/Task Activity Stream',
+          ]
+        }
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Integrations',
+      items: [
+        'user-guide/Integrations/Microsoft Teams/Intro to Integration with Microsoft Teams',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'My Space',
+      items: [
+        'user-guide/My Space/My Work',
+        'user-guide/My Space/My Timesheet',
+        'user-guide/My Space/My Reminder',
+        'user-guide/My Space/My Calendar',
       ],
     },
     {

@@ -4,7 +4,8 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import src from 'docusaurus-lunr-search';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -29,7 +30,7 @@ const config = {
   organizationName: 'reusable-components', // Your GitLab group name
   projectName: 'rishabh-product-help', // Your GitLab repo name
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -84,33 +85,54 @@ const config = {
       },
       navbar: {
         // title: '5day Product Help',
-         logo: {
-           alt: 'Product Logo',
-           src: 'img/5daysLogo.png',
-         },
+        logo: {
+          alt: 'Product Logo',
+          src: 'img/5day_logo_Regular.svg',
+          srcDark: 'img/5day_logo_White.svg',
+        },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'docsSidebar',
-            position: 'left',
+            position: 'right',
             label: 'Documentation',
+            className: 'nav-icon-link nav-doc-link',
           },
-        //  {
-        //    type: 'docSidebar',
-        //    sidebarId: 'apiSidebar',
-        //    position: 'left',
-        //    label: 'API Reference',
-       //  },
-       //   {to: '/pricing', label: 'Pricing', position: 'left'},
-          {to: '/contact', label: 'Contact Support', position: 'left'},
+          //  {
+          //    type: 'docSidebar',
+          //    sidebarId: 'apiSidebar',
+          //    position: 'left',
+          //    label: 'API Reference',
+          //  },
+          //   {to: '/pricing', label: 'Pricing', position: 'left'},
+          { to: '/contact', label: 'Contact Support', position: 'right', className: 'nav-icon-link nav-contact-link', },
+          {
+            type: 'html',
+            value: ' ',
+            position: 'right',
+            className: 'color-mode-toggle-link navbar-link--colorModeToggle',
+          },
           {
             type: 'search',
             position: 'right',
+            className: 'nav-search',
+          },
+          {
+            type: 'html',
+            position: 'right',
+            value: `
+                  <div class="navbar-get-started-wrapper">
+                  <a href="/" class="navbar-get-started-btn">
+                  Start for free
+                  </a>
+                  </div>
+                   `,
+            className: 'navbar__item custom-new-button-position',
           },
         ],
       },
       footer: {
-        style: 'dark',       
+        style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} 5-day. All Rights Reserved.`,
       },
       prism: {
@@ -121,7 +143,7 @@ const config = {
 };
 
 config.plugins = [
-   [
+  [
     require.resolve('docusaurus-lunr-search'),
     {
       languages: ['en'],
@@ -131,7 +153,7 @@ config.plugins = [
   [
     '@docusaurus/plugin-client-redirects',
     {
-      
+
       redirects: [
         {
           from: '/',

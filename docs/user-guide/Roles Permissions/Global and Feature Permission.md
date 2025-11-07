@@ -30,8 +30,7 @@ Feature permissions control access to **work management areas** like Workspaces,
 <tr><td colspan="1" rowspan="2">Discussion Permissions </td><td colspan="1" valign="bottom">View</td><td colspan="1" valign="bottom">Allows the user to view the Discussion panel and read comments.</td></tr>
 <tr><td colspan="1" valign="bottom">Add</td><td colspan="1" valign="bottom">Allows the user to add new comments, edit and delete their own comments, and reply to any existing comments.</td></tr>
 <tr><td colspan="1" rowspan="2">Files Permissions </td><td colspan="1" valign="bottom">View </td><td colspan="1" valign="bottom">Allows the user to view the Files and see uploaded files.</td></tr>
-<tr><td colspan="1" valign="bottom">Upload </td><td colspan="1" valign="bottom">Allows the user to upload new files and delete files they uploaded. Project Owners and Account Owners can delete any uploaded files.</td></tr>
-</table>
+<tr><td colspan="1" valign="bottom">Upload </td><td colspan="1" valign="bottom">Allows the user to upload new files and delete files they uploaded. Project Owners and Account Owners can delete any uploaded files.</td></tr></table>
 
 ✅ **Note**:
 - Some features like Projects and Tasks have an "Other" category (Move permission).

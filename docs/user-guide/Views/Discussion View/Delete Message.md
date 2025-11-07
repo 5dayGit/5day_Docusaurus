@@ -16,7 +16,7 @@ Only the **Message owner** (the person who originally added the message) can del
 
 ## Other References
 
-To access Discussion View, refer  [Discussion View](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Discussion%20View.md)
+To access Discussion View, refer  [Discussion View](/docs/user-guide/Views/Discussion%20View)
 
-To add a message, refer  [Add Message](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Add%20Message.md)
-To edit a message, refer  [Edit Message](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Edit%20Message.md)
+To add a message, refer  [Add Message](/docs/user-guide/Views/Discussion%20View/Add%20Message)
+To edit a message, refer  [Edit Message](/docs/user-guide/Views/Discussion%20View/Edit%20Message)

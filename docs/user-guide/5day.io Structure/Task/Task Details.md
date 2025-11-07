@@ -1,4 +1,4 @@
-# Task Details View
+# Task Details
 Once the user accesses a task in 5day.io, a detailed panel opens on the right side of the screen. This panel contains complete information about the task/subtask and allows users to view and edit details depending on their permission level.
 
 Please [Roles and Permission](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Roles%20and%20Permission%20of%20Task.md) to Edit Task & Subtask

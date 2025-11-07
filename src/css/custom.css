@@ -5,7 +5,17 @@
  */
 
 /* You can override the default Infima variables here. */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
 :root {
+
+  --ifm-font-family-base: 'Manrope', sans-serif;
+  --ifm-font-family-monospace: 'Manrope', monospace;
+  --ifm-font-family-headings: 'Manrope', sans-serif;
   /* --- Brand Palette (Light Theme) --- */
   --ifm-color-primary: #ff8a00; /* bright orange accent */
   --ifm-color-primary-dark: #e67e00;
@@ -49,6 +59,7 @@
   --ifm-navbar-background-color: #1e1e1e;
   --ifm-footer-background-color: #252525;
 
+  --ifm-color-emphasis-700: #dbd4d4;
   --ifm-font-color-base: #a19e9e;
   --ifm-link-color: var(--ifm-color-primary);
   --ifm-link-hover-color: #ff940d;
@@ -82,6 +93,202 @@
   background-color: var(--ifm-color-primary-dark);
 }
 
+.navbar__search-input {
+    border-radius: 8px;
+}
+
 [data-theme='dark'] .navbar__search-input {
     color: #f5e9e9 !important;
+}
+
+.navbar__logo img {
+    height: 45px !important;
+    margin-right: 10px !important;
+    margin-top: -7px !important;
+}
+
+.nav-icon-link {
+  display: flex;
+  align-items: center;
+}
+
+.nav-icon-link::before {
+  content: '';
+  display: inline-block;
+  height: 20px; 
+  width: 20px; 
+  margin-right: 8px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.nav-doc-link::before {
+  mask: url('/img/documentation.svg') no-repeat center / contain;
+  background-color: currentColor;
+}
+
+.nav-contact-link::before {
+  mask: url('/img/contact_support.svg') no-repeat center / contain;
+  background-color: currentColor;
+}
+
+.navbar__items--right {
+  display: flex;
+  align-items: center;
+}
+
+.navbar__items--right > .color-mode-toggle-link.navbar-link--colorModeToggle {
+  order: 2 ;
+}
+
+.navbar__items--right > .nav-search {
+  order: 4 ;
+}
+
+.navbar__items--right > .custom-new-button-position{
+  order: 5 !important;
+}
+
+/* --- Button Styling --- */
+.navbar-get-started-btn {
+  display: inline-flex;
+  align-items: center;
+  background-color: #000;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 8px;
+  padding: 2px 16px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+[data-theme='dark'] .navbar-get-started-btn{
+  background-color: #fff;
+  color: #000;
+}
+
+.navbar-get-started-btn:hover {
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+}
+
+.theme-doc-sidebar-menu {
+    background-color: var(--ifm-background-surface-color); 
+    color: var(--ifm-color-content-secondary);
+    border-radius: 10px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+}
+
+.docPage_docSidebarContainer_35_k {
+    background: transparent;
+}
+
+.tableOfContents_bqdL
+ {
+    max-height: calc(100vh - (var(--ifm-navbar-height) + 2rem));
+    overflow-y: auto;
+    position: sticky;
+    top: calc(var(--ifm-navbar-height) + 1rem);
+    border-radius: 10px;
+    background-color: var(--ifm-background-surface-color); 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.center-block {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+@media (min-width: 997px) {
+    @supports (scrollbar-gutter: stable) {
+        .menu_SIkG {
+            padding: 0.5rem 0 0.5rem 0.5rem !important;
+            scrollbar-gutter: revert-layer !important;
+        }
+    }
+}
+
+h1.hero__title,
+.main-page-title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 72px;
+}
+
+.markdown h1 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.markdown h2 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+}
+
+.markdown h3 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px; 
+}
+
+p, .markdown p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.button, 
+.button--primary {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.container {
+    min-width: 85%;
+}
+
+.navbar--fixed-top{
+    border-bottom: none;
+    background: var(--ifm-background-surface-color);
+}
+
+.theme-doc-sidebar-container {
+  border-right: none !important;
+}
+
+.support-icon {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  background-color: currentColor;
+}
+
+.support-icon-email {
+  mask-image: url('/img/email.svg');
+}
+.support-icon-call {
+  mask-image: url('/img/contact_support.svg');
+}
+
+[data-theme='dark'] .support-icon-email {
+  background-color: white;
+}
+
+[data-theme='dark'] .support-icon-call {
+  background-color: white;
+}
+
+img {
+  width: 100%;
+  height: 100%;
 }
