@@ -1,6 +1,9 @@
 # List of Workflows
 **List of Workflows** shows every automation rule you’ve created inside the your project - all in one clean screen so you can see what’s running, pause anything, or jump straight to edits.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/1a19cfd2-26e6-4bea-88f5-7afadecdb1b5" />
+
+
 ## Permission Set
 You need **Edit Project** permission to view and manage the full list.
 
