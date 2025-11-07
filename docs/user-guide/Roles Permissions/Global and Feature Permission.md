@@ -21,10 +21,11 @@ Feature permissions control access to **work management areas** like Workspaces,
 <tr><td colspan="1" valign="bottom">Edit Related</td><td colspan="1" valign="bottom">Allows the user to edit items where they are assigned.</td></tr>
 <tr><td colspan="1" valign="bottom">None</td><td colspan="1" valign="bottom">The user cannot edit any items.</td></tr>
 <tr><td colspan="1" rowspan="4">Delete (All / Owned / Related / None) </td><td colspan="1" valign="bottom">Delete All </td><td colspan="1" valign="bottom">Allows the user to delete any item across the workspace.</td></tr>
-<tr><td colspan="1" valign="bottom">Delete Owned </td><td colspan="1" valign="bottom">Allows the user to delete items they have created.</td></tr>
+<tr><td colspan="1" valign="bottom">Delete Owned </td><td colspan="1" valign="bottom">Allows the user to delete any item where they are assigned as the Owner of that item.</td></tr>
 <tr><td colspan="1" valign="bottom">Delete Related </td><td colspan="1" valign="bottom">Allows the user to delete items where they are assigned.</td></tr>
 <tr><td colspan="1" valign="bottom">None </td><td colspan="1" valign="bottom">The user cannot delete any items.</td></tr>
-<tr><td colspan="1" rowspan="2">Other (Specific to certain features) </td><td colspan="1" valign="bottom">Move (for Projects and Tasks) </td><td colspan="1" valign="bottom">Allows the user to move items between projects or sections.</td></tr>
+<tr><td colspan="1" rowspan="2">Other (Specific to certain features) </td><td colspan="1" valign="bottom">Move (for Projects and Tasks) </td><td colspan="1" valign="bottom">
+  Allows the user to move a Project between Spaces and a Task between Projects or Sections.</td></tr>
 <tr><td colspan="1" valign="bottom">Approve Timesheet (for Timesheets) </td><td colspan="1" valign="bottom">Allows the user to approve or reject submitted timesheets.</td></tr>
 <tr><td colspan="1" rowspan="2">Discussion Permissions </td><td colspan="1" valign="bottom">View</td><td colspan="1" valign="bottom">Allows the user to view the Discussion panel and read comments.</td></tr>
 <tr><td colspan="1" valign="bottom">Add</td><td colspan="1" valign="bottom">Allows the user to add new comments, edit and delete their own comments, and reply to any existing comments.</td></tr>
