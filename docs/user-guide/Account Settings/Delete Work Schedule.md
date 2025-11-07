@@ -4,6 +4,7 @@
 1. **Find the Work Schedule to Delete:**\
    In the list of work schedules, locate the one you want to remove.
 1. **Click the Three-Dot Menu (⋮):**\
+      ### IMAGE
    Next to the work schedule name, click on the three-dot menu icon.
 1. **Select Delete:**\
    From the dropdown menu, click on the **Delete** option.
