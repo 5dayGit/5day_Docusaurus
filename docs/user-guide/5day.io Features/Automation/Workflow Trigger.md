@@ -2,6 +2,8 @@
 
 **Triggers** are the starting point of every automation rule. They watch your project 24/7 and shout “GO!” the second something you care about happens.
 
+<img width="3572" height="2419" alt="image" src="https://github.com/user-attachments/assets/2e60fff5-80f6-425c-b425-de5d3c90d3a2" />
+
 ## **How Triggers work**
 
 1.  You pick **what** to watch: Task only / Subtask only / Any (both)
