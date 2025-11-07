@@ -2,6 +2,7 @@
 1. **Go to Work Schedule:**\
    Navigate to **Account Settings → General → Work Schedule**.
 1. **Select the Work Schedule to Edit:**\
+      ### IMAGE
    From the list of work schedules, click on the name of the work schedule you want to update.
 1. **Make Your Changes:**\
    Inside the selected work schedule, you will find two sections:
