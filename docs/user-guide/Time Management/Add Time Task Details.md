@@ -10,7 +10,7 @@ Within the task, you’ll find two main ways to track your time:
 Both options are available at the bottom bar of the task details interface.
 
 ## **Option 1: Add Time Manually**
-    ### IMAGE
+### IMAGE
 You can log your time manually by clicking the **➕ Add Time** icon in the task details view. This will open the standard **Time Entry Form** in the **Task** tab.
 
 From here, you can:
