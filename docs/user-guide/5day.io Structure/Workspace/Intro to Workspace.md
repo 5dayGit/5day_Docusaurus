@@ -14,7 +14,7 @@ Then, depending on your subscription plan, permissions you can manage workspaces
 
 Note: Every workspace is independent and separate from others, so viewing or transferring information between them is not possible.
 
-## **Why is a Workspace Important?**
+## **Why is Workspace Important?**
 
 A workspace can help you:
 
