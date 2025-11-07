@@ -1,4 +1,4 @@
-# **Clients**
+# Clients
 ## **Overview**
 In 5day.io, the **Clients** feature allows you to manage and track the companies or organizations you are working with.\
 Clients are maintained at the **tenant level**, meaning they are available across all projects within your account.

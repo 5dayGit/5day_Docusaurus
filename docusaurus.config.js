@@ -133,7 +133,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} 5-day. All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 5day.io All Rights Reserved.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -19,36 +19,10 @@ const sidebars = {
   docsSidebar: [
     {
       type: 'category',
-      label: 'Getting Started',
+      label: 'Onboarding',
       items: [
-        'getting-started/introduction',
-        'getting-started/installation',
-        'getting-started/quick-start',
-        'getting-started/first-project',
+        'user-guide/Onboarding/Intro to Onboarding',
       ]
-    },
-    {
-      type: 'category',
-      label: 'Dashboard',
-      items: [
-        'user-guide/Analytics/Overview of Dashboard',
-        'user-guide/Analytics/Dashboard View',
-        'user-guide/Analytics/Overview of Widgets',
-        'user-guide/Analytics/Add Widget',
-        'user-guide/Analytics/Edit Widget',
-        'user-guide/Analytics/Delete Widget',
-        'user-guide/Analytics/Refresh Dashboard',
-        'user-guide/Analytics/Resize Widget',
-        'user-guide/Analytics/Move Widget',
-        'user-guide/Analytics/Widget Types',
-        'user-guide/Analytics/Chart Types - Bar Chart',
-        'user-guide/Analytics/Chart Types - Line Chart',
-        'user-guide/Analytics/Chart Types - Pie Chart',
-        'user-guide/Analytics/Chart Types - Doughnut Chart',
-        'user-guide/Analytics/Chart Types - Number Chart',
-        'user-guide/Analytics/Chart Types - Table Chart',
-        'user-guide/Analytics/Widget Filters'
-      ],
     },
     {
       type: 'category',
@@ -101,7 +75,7 @@ const sidebars = {
             'user-guide/5day.io Structure/Task/Delete Task',
             'user-guide/5day.io Structure/Task/Move Task',
             'user-guide/5day.io Structure/Task/Duplicate Task',
-         'user-guide/5day.io Structure/Task/Task Link',
+            'user-guide/5day.io Structure/Task/Task Link',
             'user-guide/5day.io Structure/Task/Intro to Subtask',
             'user-guide/5day.io Structure/Task/Add Subtask',
             'user-guide/5day.io Structure/Task/Edit Subtask',
@@ -117,9 +91,23 @@ const sidebars = {
             'user-guide/5day.io Structure/Task/Task Priority',
             'user-guide/5day.io Structure/Task/Task Tags',
             'user-guide/5day.io Structure/Task/Task Status',
-             'user-guide/5day.io Structure/Task/Bulk Update',
-             'user-guide/5day.io Structure/Task/Task Reminder',
-             'user-guide/5day.io Structure/Task/Task Recurrence',
+            'user-guide/5day.io Structure/Task/Bulk Update',
+            'user-guide/5day.io Structure/Task/Task Reminder',
+            'user-guide/5day.io Structure/Task/Task Recurrence',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Project',
+          items: [
+            'user-guide/5day.io Structure/project/Templates'
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Section',
+          items: [
+            'user-guide/5day.io Structure/section/Section'
           ],
         },
       ],
@@ -147,6 +135,13 @@ const sidebars = {
         },
         {
           type: 'category',
+          label: 'Clients',
+          items: [
+            'user-guide/5day.io Features/Clients/Intro to Clients',
+          ]
+        },
+        {
+          type: 'category',
           label: 'Custom Fields',
           items: [
             'user-guide/5day.io Features/Custom Fields/Intro to Custom Fields',
@@ -156,13 +151,81 @@ const sidebars = {
             'user-guide/5day.io Features/Custom Fields/Edit Custom Field',
             'user-guide/5day.io Features/Custom Fields/Delete Custom Field',
           ]
-        }
+        },
+        {
+          type: 'category',
+          label: 'Import',
+          items: [
+            'user-guide/5day.io Features/Import/Intro to Import',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Sprint Management',
+          items: [
+            'user-guide/5day.io Features/Sprint Management/Intro to Sprint Management',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Status Workflows',
+          items: [
+            'user-guide/5day.io Features/Status Workflows/Intro to Status Workflows',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Task Types',
+          items: [
+            'user-guide/5day.io Features/Task Types/Intro to Task Types',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Templates',
+          items: [
+            'user-guide/5day.io Features/Templates/Intro to Templates',
+          ]
+        },
       ]
     },
-    {
+     {
       type: 'category',
       label: 'Views',
       items: [
+        {
+          type: 'category',
+          label: 'List View',
+          items: [
+            'user-guide/Views/List View/Intro of List View',
+            // 'user-guide/Views/List View/Customize List View',
+            // 'user-guide/Views/List View/Sort in List View',
+            // 'user-guide/Views/List View/Filter in List View',
+            // 'user-guide/Views/List View/Intro of List View',
+            // 'user-guide/Views/List View/Intro of List View',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Board View',
+          items: [
+            'user-guide/Views/Board View/Intro of Board View',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Timeline View',
+          items: [
+            'user-guide/Views/Timeline View/Intro of Timeline View',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Timesheet View',
+          items: [
+            'user-guide/Views/Timesheet View/Timesheet View',
+          ]
+        },
         {
           type: 'category',
           label: 'Discussion View',
@@ -201,9 +264,25 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Integrations',
+      label: 'Dashboard',
       items: [
-        'user-guide/Integrations/Microsoft Teams/Intro to Integration with Microsoft Teams',
+        'user-guide/Analytics/Overview of Dashboard',
+        'user-guide/Analytics/Dashboard View',
+        'user-guide/Analytics/Overview of Widgets',
+        'user-guide/Analytics/Add Widget',
+        'user-guide/Analytics/Edit Widget',
+        'user-guide/Analytics/Delete Widget',
+        'user-guide/Analytics/Refresh Dashboard',
+        'user-guide/Analytics/Resize Widget',
+        'user-guide/Analytics/Move Widget',
+        'user-guide/Analytics/Widget Types',
+        'user-guide/Analytics/Chart Types - Bar Chart',
+        'user-guide/Analytics/Chart Types - Line Chart',
+        'user-guide/Analytics/Chart Types - Pie Chart',
+        'user-guide/Analytics/Chart Types - Doughnut Chart',
+        'user-guide/Analytics/Chart Types - Number Chart',
+        'user-guide/Analytics/Chart Types - Table Chart',
+        'user-guide/Analytics/Widget Filters'
       ],
     },
     {
@@ -218,66 +297,62 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Features',
+      label: 'General',
       items: [
-        'features/collaboration',
-        'features/notifications',
-        'features/integrations',
-        'features/automation',
-        'features/test01'
+        'user-guide/General/General'
+      ],
+    },  
+    {
+      type: 'category',
+      label: 'Integrations',
+      items: [
+        {
+          type: 'category',
+          label: 'Microsoft Teams',
+          items: [
+            'user-guide/Integrations/Microsoft Teams/Intro to Integration with Microsoft Teams',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Slack',
+          items: [
+            'user-guide/Integrations/Slack/Intro to Integration with Slack',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Zapier',
+          items: [
+            'user-guide/Integrations/Zapier/Intro to Integration with Zapier',
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Google Calendar',
+          items: [
+            'user-guide/Integrations/Calendar/Google Calendar/Intro to Google Calendar Integration',
+          ]
+        }
       ],
     },
     {
       type: 'category',
-      label: 'Advanced',
+      label: 'Use Cases',
       items: [
-        'advanced/security',
-        'advanced/performance',
-        'advanced/customization',
+        'user-guide/Use Cases/Intro to Use Cases',
       ],
     },
     {
       type: 'category',
-      label: 'FAQ',
+      label: 'Videos',
       items: [
-        'faq/general',
-        'faq/billing',
-        'faq/technical',
+        'user-guide/Videos/Videos',
       ],
-    },
-    {
-      type: 'category',
-      label: 'Troubleshooting',
-      items: [
-        'troubleshooting/common-issues',
-        'troubleshooting/error-messages',
-      ],
-    },
+    }
   ],
 
-  // API Reference sidebar
-  apiSidebar: [
-    'api/overview',
-    {
-      type: 'category',
-      label: 'Authentication',
-      items: [
-        'api/authentication/api-keys',
-        'api/authentication/oauth',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Endpoints',
-      items: [
-        'api/endpoints/projects',
-        'api/endpoints/tasks',
-        'api/endpoints/users',
-      ],
-    },
-    'api/rate-limits',
-    'api/webhooks',
-  ],
+
 };
 
 export default sidebars;
