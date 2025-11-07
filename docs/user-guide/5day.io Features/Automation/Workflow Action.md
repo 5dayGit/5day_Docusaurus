@@ -9,6 +9,9 @@ Actions comes with two categories:
 
  1. Field-update Actions
  2. Email Actions
+<img width="3572" height="2407" alt="image" src="https://github.com/user-attachments/assets/45f8a7ef-b9ec-4b2a-93fc-a1f1cb0cd34e" />
+
+
 
 ### Field-update Actions (set any field automatically)
 You can set every single field that exists on tasks/subtasks
