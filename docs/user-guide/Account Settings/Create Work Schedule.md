@@ -2,10 +2,12 @@
 In 5day.io, you can create custom work schedules to define working hours, hybrid work models, and holidays for your team. You can either **create a new schedule from scratch** or **duplicate an existing one** to save time.
 ### **1. Create a New Work Schedule**
 1. **Go to Work Schedule:**\
+      ### IMAGE
    Navigate to **Account Settings → General → Work Schedule**.
 1. **Click on Add:**\
    Inside the Work Schedule section, click the **Add** button next to the list of existing work schedules to start creating a new one.
 1. **Enter Work Schedule Name:**\
+      ### IMAGE
    Give your new work schedule a meaningful name (e.g., *"Regular Working Hours"* or *"US Hybrid Team"*).
 1. **Set as Default (Optional):**\
    Enable this option if you want this schedule to become the organization's default working schedule.
@@ -37,6 +39,7 @@ Here’s how:
 1. **Find the Schedule to Duplicate:**\
    Locate the existing work schedule you want to copy.
 1. **Click the Three-Dot Menu (⋮):**\
+   ### IMAGE
    Next to the schedule name, click on the three dots.
 1. **Select Duplicate:**\
    Click on the **Duplicate** option from the menu.
