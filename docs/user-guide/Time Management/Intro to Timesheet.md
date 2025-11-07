@@ -1,4 +1,3 @@
-## **Timesheet View**
 **Overview**
 
 The **Timesheet View** in 5day.io provides a clear, calendar-based overview of all time logged within a project. It helps members and project managers monitor, manage, and analyze time entries across tasks, internal work, and time-off – making time tracking transparent and efficient.
