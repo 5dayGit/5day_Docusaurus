@@ -26,7 +26,7 @@ body {
   --ifm-color-primary-lightest: #ffcc80;
 
   /* Background + Surface tones */
-  --ifm-background-color: #fff9f2; /* soft cream background */
+  --ifm-background-color: #fffdfa; /* soft cream background */
   --ifm-background-surface-color: #ffffff;
   --ifm-navbar-background-color: #fff9f2;
   --ifm-footer-background-color: #fff5e6;
