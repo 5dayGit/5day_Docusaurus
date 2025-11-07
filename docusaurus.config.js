@@ -157,7 +157,7 @@ config.plugins = [
       redirects: [
         {
           from: '/',
-          to: '/docs/getting-started/introduction',
+          to: '/docs/user-guide/Onboarding/Intro%20to%20Onboarding',
         },
       ],
     },
