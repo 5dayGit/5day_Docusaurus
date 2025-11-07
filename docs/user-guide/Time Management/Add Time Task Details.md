@@ -25,7 +25,7 @@ From here, you can:
 
 ## **Option 2: Start Timer**
 If you'd rather let the system track time for you:
-    ### IMAGE
+### IMAGE
 1. Click the **▶ Start Timer** icon at the bottom of the task
 1. The timer begins immediately and will keep running in the background
 1. Continue working on your task — the timer remains active as long as the tab is open
