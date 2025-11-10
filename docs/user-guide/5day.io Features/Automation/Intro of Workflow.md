@@ -9,6 +9,9 @@ A **Workflow** in 5day.io is the smart rule that powers your Automation. It’s 
 -   Keeps every project consistent - even when different people work on it.
 -   Turns chaos into clockwork, every single time.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/aa9a9f26-873f-4435-9ed7-642fdfa01599" />
+
+
 ## **Key Features of Workflow**
 
 -   Lives inside one project (keeps things clean and safe).
