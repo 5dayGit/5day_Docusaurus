@@ -17,6 +17,9 @@ These permissions ensure the right people have the right level of access, from v
 
 Each of these permissions has granular levels like `All`, `Own`, `Related`, or `None` depending on how much access a user should have.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/1f069ac3-b04e-412b-a2e8-70226e851947" />
+
+
 ### Permission Levels
 |Permission Level  | Description |
 |--|--|
