@@ -14,6 +14,11 @@ There are two main ways to initiate the deletion of a Space
 | Workspace Settings | Workspace -> Spaces -> List of Spaces -> More Menu -> Delete| Delete from the central list of all Spaces within a Workspace |
 | Space View | Space List or Board View -> More Menu (⋮) beside Space name -> Delete | Quick access for directly deleting a specific Space. |
 
+<img width="1618" height="1029" alt="image" src="https://github.com/user-attachments/assets/cc83da5e-0f9c-4a25-8dcc-35fc6bf85009" />
+
+<img width="1618" height="1029" alt="image" src="https://github.com/user-attachments/assets/d4566f5d-7609-44e8-a515-0ba39e067ffe" />
+
+
 ### Deletion Process
 
 When you select the Delete option, the following steps occur:
@@ -23,6 +28,8 @@ When you select the Delete option, the following steps occur:
 **Permission Check**: Only users with ‘Delete permissions’ for the Space can delete it.
 
 **Data Removal**: All associated Projects, Sections, Tasks, and Subtasks within the Space are permanently deleted.
+
+<img width="1618" height="1029" alt="image" src="https://github.com/user-attachments/assets/532e8293-f01c-4420-ba1b-8f8d1a912f97" />
 
 **Quick Note**
 Deleting a Space is irreversible. Ensure you back up any critical data before proceeding. 
