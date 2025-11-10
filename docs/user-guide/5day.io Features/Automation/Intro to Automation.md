@@ -9,6 +9,9 @@ Automation in 5day.io is your team's silent superhero that handles repetitive wo
 -   Keeps everyone in sync without endless “hey, did you…?” messages.
 -   Makes sure nothing gets missed when people are busy or on leave.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/4c85afd8-072b-434d-8381-49e8b74188fb" />
+
+
 ## **Key Features of Automation**
 
 -   Works only inside the project where you create it.
