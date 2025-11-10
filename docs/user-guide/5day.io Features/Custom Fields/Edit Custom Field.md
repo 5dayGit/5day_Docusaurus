@@ -13,6 +13,9 @@ Changes sync instantly across all linked tasks, subtasks, and views, ensuring da
  4. Edit details of Custom Fields.
  5. Click ‘Save’ to update all details.
 
+ <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/9c723eba-8a45-49fd-ab1a-766ab4cdfd8a" />
+
+
 ## Edit Custom Field via Workspace Settings
 
  1. Go to Workspace -> Workspace Settings -> Customization -> Task Type -> Custom Fields.
@@ -23,6 +26,10 @@ Changes sync instantly across all linked tasks, subtasks, and views, ensuring da
  4. Edit details of Custom Fields.
  5. Click ‘Save’ to update all details.
 
+ <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/a44d4166-63c8-46ab-9652-a3a48e17e224" />
+
+
+
 ## Edit Custom Field via Project Settings
 
  1. Go to Project -> Project Settings -> Customization -> Task Type -> Custom Fields.
@@ -32,6 +39,9 @@ Changes sync instantly across all linked tasks, subtasks, and views, ensuring da
 	 - Hover over a Custom Field in the list and click the **Edit** icon.
  4. Edit details of Custom Fields.
  5. Click ‘Save’ to update all details.
+
+ <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/d1f1d65e-24bb-4b94-a656-69902bfe4455" />
+
 
 **Warning**
 
