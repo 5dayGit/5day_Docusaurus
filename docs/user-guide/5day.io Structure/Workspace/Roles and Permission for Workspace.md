@@ -34,8 +34,7 @@ Each of these permissions has granular levels like `All`, `Own`, `Related`, or `
 
 **Note**: “Workspace Edit” permission grants access to modify the core settings of a workspace, including timesheets, workflows, and task types.
 
-<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/a869ed3e-8f05-441a-82ee-b5c989c77624" />
-
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/12aec9b0-385f-4a95-96d9-3a532843a175" />
 
 ### Best Practices
 
