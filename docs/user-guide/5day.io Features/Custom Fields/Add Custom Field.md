@@ -34,6 +34,9 @@ Workspace/Project Level: Custom Fields can be created at workspace & project lev
 	6. Click ‘Add Field’ button to create configured custom field in account.
 4.  The new Custom Field is automatically added in your List of Custom Fields.
 
+<img width="1618" height="1060" alt="image" src="https://github.com/user-attachments/assets/a4c51df3-cdba-4c7b-a3d5-eb08c084a6c8" />
+
+
 ### Add custom field at Project
 
  1. Click on Project where custom field needs to be added as one of the fields of project.
@@ -44,6 +47,9 @@ Workspace/Project Level: Custom Fields can be created at workspace & project lev
 	 6. Type: Select type of custom field; other details will vary as per type of custom field.
 	 7. Click ‘Add Field’ button to create custom field in Project.
 5. The new Custom Field will automatically added in ‘Custom Field Library’ at account level; and it will be associated to the project.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/eab89b93-e977-45c1-b0a8-0c413a2df428" />
+
 
 ###  Add custom field at Workspace -> Task Type
 
@@ -65,12 +71,15 @@ To add custom field at task type of workspace,
 
 The added custom field will appear under all tasks/subtasks of workspace where this task type has been used.
 
+https://github.com/user-attachments/assets/7d7fc384-0009-4df9-a95b-f18d45b4df9e
+
 The added Custom Field can be viewed at
 
  - Task List View
  - Task Board View
  - Under Customize of ‘List View’ & ‘Board View’
  - Under Filters & Group By in all views.
+
 
 ### Add custom field at Project -> Task Type
 
@@ -89,6 +98,8 @@ To add custom field at task type of project,
 6. The new Custom Field will automatically added in ‘Custom Field Library’ at account level.
 
 The added custom field will appear under all tasks/subtasks of project where this task type has been used.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/9908f503-b3cd-41b2-b1df-756680b57502" />
 
 The added Custom Field can be viewed at
 
@@ -110,6 +121,9 @@ To add custom field at task type of project,
 	8. Task Type: Select the task type for which the custom field should be associated.
 	9. Click ‘Add Field’ button to create custom field for Task Type.
 6. The new Custom Field will automatically added in ‘Custom Field Library’ at account level.
+
+<img width="3560" height="2449" alt="image" src="https://github.com/user-attachments/assets/8572bba5-ac39-4d69-a9c2-d00cf0eb94cf" />
+
 
 The added custom field will appear under all tasks/subtasks of project where this task type has been used.
 
