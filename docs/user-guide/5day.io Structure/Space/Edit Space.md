@@ -14,6 +14,9 @@
 | Name | Provide a clear and meaningful name of your  space.|
 | Count of Projects| Provides total count of projects associated to space.|
 
+<img width="3560" height="787" alt="image" src="https://github.com/user-attachments/assets/3cce1cf1-d2db-4a93-87b2-b96661a9ef0d" />
+
+
 ### Quick actions on List
 
 -   Drag-and-drop to reorder (visual hierarchy matters!)
