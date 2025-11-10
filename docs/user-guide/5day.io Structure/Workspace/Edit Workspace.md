@@ -31,14 +31,14 @@ When you access the Edit option, you can perform the following actions depending
 
 | Pages | Description |
 |--|--|
-| **General Info** | **Manage workspace's identity and ownership** |
+| General Info | Manage workspace's identity and ownership |
 | Icon & Color | Choose a visual icon and color theme for easy identification. |
 | Name | The display name of your workspace. |
 | Description | A short explanation about the purpose or scope of the workspace. |
 | Owner | The current owner responsible for workspace administration. |
-| **Spaces & Projects** | View and manage all spaces and projects under this workspace. Change their order, navigate, and access related settings. |
-| **Timesheet Settings** | Configure time tracking rules, settings, and behavior for this workspace. Refer: _Timesheet Module_ for more. |
-| **Customization** |  |
+| Spaces & Projects | View and manage all spaces and projects under this workspace. Change their order, navigate, and access related settings. |
+| Timesheet Settings | Configure time tracking rules, settings, and behavior for this workspace. Refer: _Timesheet Module_ for more. |
+| Customization |  |
 | Status Workflow | Define the workflow stages of tasks. Refer: _Status Workflow Guide_ |
 | Task Types | Create and manage types of tasks for better categorization. Refer: _Task Types Guide_ |
 | Priorities | Define and manage priority levels for tasks. Refer: _Priority Settings Guide_ |
