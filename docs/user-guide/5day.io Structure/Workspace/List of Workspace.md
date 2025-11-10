@@ -15,7 +15,7 @@
 ### Quick actions on List
 
 -  Drag-and-drop to reorder (visual hierarchy matters!)
--  Click any workspace name → instantly load its **Workspace View** (List or Board)
+-  Click any workspace name -> instantly load its **Workspace View** (List or Board)
 -  Search bar -> To search a specific workspace.
 -  Settings -> To manage the workspace settings.
 -  More -> To perform certain actions on workspace like Add Space, Add Project , Add People, Invite People etc..
