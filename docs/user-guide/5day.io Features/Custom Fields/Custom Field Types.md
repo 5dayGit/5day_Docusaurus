@@ -22,5 +22,8 @@ The availability of custom field types may vary based on your subscription.
 | Time | Capture time, which can be useful for tracking durations, deadlines, or scheduled time intervals. |
 | URL | To include and link external web addresses or URLs. |
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/dd193b04-169f-4f53-b141-6239eec679f7" />
+
+
 ## Other References
 
