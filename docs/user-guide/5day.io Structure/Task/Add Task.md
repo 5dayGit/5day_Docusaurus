@@ -32,7 +32,10 @@ Quick Add is a fast-access creation method available from the **primary navigati
  2. Select **Task**.
  3. Fill in the required fields: Task Name and Location
  4. Fill optional details if needed (Priority, Tags, Assignees, etc.).
- 5. Click on Save.
+ 5. Click on Add.
+
+ <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/2b43ca1b-52c2-4d9d-bb10-66c8c3a680a9" />
+
 
 ### List View - Add Task
 
@@ -40,6 +43,9 @@ Quick Add is a fast-access creation method available from the **primary navigati
  2. Click **Add Task** at the top or within a group.
  3. Provide a **Task Title** and press **Enter** or **Save**.
  4. Task is created immediately.
+
+ <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/84243d98-d69b-41ed-bb10-4139d9ec2023" />
+
 
 ### Board View - Add Task
 
@@ -49,10 +55,16 @@ Quick Add is a fast-access creation method available from the **primary navigati
  4. Provide a **Task Title** and press **Enter** or **Save**.
  5. Task is created immediately.
 
+ <img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/32598486-607a-4d50-87fe-f2e251d0f7e6" />
+
+
 ### Add Button from Project/Section
 
  1. Within a project or section page, use the standard **Add** button.
  2. This method works the same way as **Quick Add**.
+
+ <img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/0fbad0bd-23dc-4fbd-9811-7e96538c2b60" />
+
 
 ### Import Tasks
 
@@ -61,10 +73,16 @@ Quick Add is a fast-access creation method available from the **primary navigati
  3. Upload the formatted file and map fields as needed.
  4. Refer to the **Import Task Help Guide** for step-by-step instructions.
 
+ <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/7eb51ce0-3280-4db0-a2b1-59c460d7dc3a" />
+
+
 ### My Work
 
  1. Tasks can also be created directly from the **My Work** page.
  2. Click **Add Button** and follow the same steps (Title, Location).
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/bfdd1244-c909-48f9-9acb-b90d752f094c" />
+
 
 ## Other References
 
