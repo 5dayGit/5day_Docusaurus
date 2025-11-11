@@ -42,6 +42,9 @@ Task/Subtask Details
 4.  Select one or multiple people (based on feature availability).
 5.  Once selected, they will be assigned and notified.
 
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/192e84ca-69a7-4cb2-8520-abb59956c4b2" />
+
+
 #### List View / Board View
 
 1.  Make sure the view is not grouped by **Assignee**.
@@ -49,6 +52,9 @@ Task/Subtask Details
 3.  Save the view.
 4.  Click on **Assignee/Add Assignee** field against the task/subtask.
 5.  Select users to assign.
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/34896114-7c04-4b9a-81d2-c9cc6fe67b09" />
+
+
 
 #### My Work
 
@@ -56,6 +62,8 @@ Task/Subtask Details
 2.  Click on a task to open the **Task Details** page.
 3.  Click on the **Assignee** field to select users.
 4.  Assigned users will be notified accordingly.
+
+
 
 #### Bulk Update
 
@@ -65,11 +73,17 @@ Task/Subtask Details
 4.  Select the users from the list.
 5.  Update assignees for all selected tasks/subtasks in one go.
 
+<img width="3360" height="1009" alt="image" src="https://github.com/user-attachments/assets/b0c139a0-f309-4e2c-949c-19232d6cc636" />
+
+
 #### Quick Add (While Creating a Task)
 
 1.  During task creation via **Quick Add**, after filling **Name** and **Location**, you can assign users immediately.
 2.  Select from the list of available people.
 3.  Assigned users will be notified once the task is created.
+
+<img width="3360" height="1753" alt="image" src="https://github.com/user-attachments/assets/73180d31-019f-4fe7-8aaa-73cf545e6d76" />
+
 
 ### Remove Assignee
 
@@ -79,17 +93,18 @@ Task/Subtask Details
 2.  A **Remove** icon will appear at the top right corner.
 3.  Click to remove the assigned user.
 
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/8b4cb469-3f7d-4759-8745-2cde13ea0cc2" />
+
+
 #### List View / Board View
 
 1.  Click on the **Assignee** field for the task/subtask.
 2.  A list of assigned users with a **Remove** option will appear.
 3.  Remove users one by one or all at once.
 
-#### My Work
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/0abf11c9-0e33-4260-950a-890bcd25412b" />
 
- -  Open a task from **My Work**.
- -  Click on the **Assignee** field.
- -  Remove the users individually or remove all in one go.
+ 
 
 **Quick Note**
 
