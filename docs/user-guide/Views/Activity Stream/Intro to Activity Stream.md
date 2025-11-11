@@ -27,5 +27,5 @@ Itâ€™s like a project diary that auto-updates, so you never miss a beat on whatâ
 
 To explore about project history , refer to the [Project Activity Stream](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Activity%20Stream/Project%20Activity%20Stream.md).
 
-To explore about task history , refer to the[ \[Task Activity Stream\]](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Activity%20Stream/Task%20Activity%20Stream.md).
+To explore about task history , refer to the[Task Activity Stream](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Activity%20Stream/Task%20Activity%20Stream.md).
 
