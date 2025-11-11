@@ -36,6 +36,9 @@ Below are the ways to access Budget Type for Task & Subtasks:
 2.  Locate the **Budget Type** field.
 3.  Click the field and select the desired value (**Billable** or **Non-billable**).
 
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/2a328886-0f49-4db8-9148-0552568999d8" />
+
+
 ### List View / Board View
 
 1.  Make sure **Group By** is **not** set to Budget Type.
@@ -48,23 +51,24 @@ Below are the ways to access Budget Type for Task & Subtasks:
 4.  Once added, the field will appear in the view. You can click and update the value directly.
 5.  Save the view to retain settings.
 
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/ebac79ea-6595-43f2-80bd-159d9bb4a38a" />
+
+
 ### My Work
 
 1.  Go to **My Work**.
 2.  Open the required task/subtask.
 3.  Locate and update the **Budget Type** field.
 
-### Bulk Update
 
-1.  Select multiple tasks/subtasks.
-2.  Click on the **Bulk Update** option that appears.
-3.  Choose **Budget Type**, and set the desired value.
-4.  This will apply the selection to all selected tasks/subtasks.
 
 ### Quick Add
 While using the **Quick Add** function to create a new task:
 1. After entering the task name and location, access the **Budget Type** field.
 2. Select **Billable** or **Non-billable** as required.
+
+<img width="3360" height="1753" alt="image" src="https://github.com/user-attachments/assets/9c5abe9c-c585-4732-a764-9fb655bddcae" />
+
 
 ## Other References
 
