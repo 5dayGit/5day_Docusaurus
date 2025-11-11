@@ -17,6 +17,8 @@ You need **Edit task permission** in the source Project and **Add task permissio
 
 -   Open Task -> **Task Details** panel (right side) -> click **three dots** (top-right) -> **Duplicate**
 
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/932c50a4-7b13-476b-b334-0f027b9c10c4" />
+
 ### My Work
 
  -   Go to **My Work** -> find your Task -> click **three dots** -> **Duplicate**
@@ -36,6 +38,8 @@ On clicking Duplicate, a smart panel opens:
 | Location | Choose: Same Project & Section (default) OR Any other Section OR Any other Project in the Workspace |
 | Copy Options | Check on/off exactly what to bring over: Subtasks, assignee, priority, tags, discussions, dates, attachments, links |
 
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/8106b146-803e-4aa8-b907-fdaa413dbd9f" />
+
 -   **Instant**: New duplicated task appears immediately — no refresh.
 -   **Full fidelity**: All copied data stays linked (e.g., file attachments, discussion threads).
 -   **History not copied**: Activity Stream starts fresh on the duplicate task.
@@ -47,12 +51,3 @@ On clicking Duplicate, a smart panel opens:
 To create a new task, refer [Add Task](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Task.md).
 
 To create a new subtask, refer [Add Subtask](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Subtask.md).
-
-
-
-<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/8106b146-803e-4aa8-b907-fdaa413dbd9f" />
-
-<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/932c50a4-7b13-476b-b334-0f027b9c10c4" />
-
-<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/195e6917-56d4-4af0-8056-ee7fbc8f9b63" />
-
