@@ -34,7 +34,7 @@ You need **Edit Workspace** permission to invite, add, or remove people.
 
 ## Other References
 
-To get more details about change ownership , refer to the [Change Owner](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Workspace/Workspace%20Owner.md).
+To get more details about workspace owner , refer to the [Workspace Owner](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Workspace/Workspace%20Owner.md).
 
 To explore about workspace details , refer to the [Workspace Details](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Workspace/Workspace%20Details.md).
 
