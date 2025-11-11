@@ -8,6 +8,9 @@ When a task is linked to another, the connection is **visible in both directions
 ## Subscription Association
 Task Linking is available under the **Growth Plan**.
 
+![Uploading image.png…]()
+
+
 ## Roles and Permission
 
 The ability to link tasks depends on the **Task Edit** permission assigned to your role. 
@@ -26,6 +29,9 @@ You can add links to tasks through several interfaces in 5day.io. Here's how:
  4. Select one or more tasks to link.
  5. The selected tasks will now be linked and reflected in both task views.
 
+ <img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/2963f123-68e9-4d0a-92f2-106ddf8b8ccb" />
+
+
 ### From List View / Board View / Task Details More Menu
 | View | Access Method |
 |--|--|
@@ -34,6 +40,9 @@ You can add links to tasks through several interfaces in 5day.io. Here's how:
 | **Task Details View** | Click on the **More (****⋮)** icon at the top-right of the task detail panel |
 
 Once you click **Add Link**, the system will show all linkable tasks and subtasks within the same project. You can select one or multiple to create the link.
+
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/b2636f07-b73f-43d8-a058-d20422e2e2a3" />
+
 
 ### My Work
 
@@ -49,12 +58,18 @@ Once you click **Add Link**, the system will show all linkable tasks and subtask
 4. Select one or more tasks/subtasks to link.
 5. The selected links will apply to all selected tasks.
 
+<img width="3360" height="1012" alt="image" src="https://github.com/user-attachments/assets/0cbb3123-1f0a-496b-9bf5-2818db14724d" />
+
+
 ### Quick Add (While Creating Task)
 
 1. While using the **Quick Add** option to create a task, enter the task name and select its location.
 2. Select the **Link** field during creation.
 3. Choose from the list of available tasks or subtasks in the same project.
 4. Upon selection, tasks will be linked immediately after creation.
+
+<img width="3360" height="1753" alt="image" src="https://github.com/user-attachments/assets/15eb8520-779b-4dec-a6a0-7a52b1f1b7c6" />
+
 
 ### Mutual Visibility of Links
 
