@@ -1,4 +1,4 @@
-# Intro to Project Activity Stream
+# Project Activity Stream
 Project Activity Stream is the complete timeline of every change made directly to your Project - from settings tweaks to team updates - giving you an instant snapshot of who did what, when.
 
 ## Subscription
