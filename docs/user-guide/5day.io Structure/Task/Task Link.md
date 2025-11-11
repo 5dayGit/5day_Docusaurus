@@ -8,7 +8,7 @@ When a task is linked to another, the connection is **visible in both directions
 ## Subscription Association
 Task Linking is available under the **Growth Plan**.
 
-![Uploading image.png…]()
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/0bd8e39f-96e1-46d2-ad13-4f0ffa651a4d" />
 
 
 ## Roles and Permission
