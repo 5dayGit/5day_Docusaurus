@@ -26,12 +26,18 @@ There are multiple ways to delete a **task**:
  4. Click **Delete** from the menu.
  5. Confirm deletion to permanently remove the task.
 
+ <img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/1fea7904-40f5-41d7-a26e-4cc569ca675f" />
+
+
 ### From task Details Page
 
  1. Open the task you want to delete.
  2. On the **top-right corner** of the task Details page, click the **three dots (More menu)**.
  3. Select **Delete** from the options.
  4. Confirm deletion to complete the action.
+
+ <img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/9cd75559-3b46-4214-988a-9a0baf2f80a8" />
+
 
 **Quick Note**
 Always double-check before deleting, as this action is irreversible.
