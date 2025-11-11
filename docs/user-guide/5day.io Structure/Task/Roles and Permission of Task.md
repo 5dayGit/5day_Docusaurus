@@ -36,6 +36,9 @@ Each of these permissions has granular levels like `All`, `Own`, `Related`, or `
 
 **Note**: “Task Edit” permission grants access to modify all the details associated to task and subtask.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/ac90679c-30f1-441f-8b7b-9cb0fe70157f" />
+
+
 ## Best Practices
 
 **Account Owner or Admins** should have **All** permissions for full control.
