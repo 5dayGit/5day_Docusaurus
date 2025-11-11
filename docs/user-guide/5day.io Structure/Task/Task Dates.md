@@ -42,6 +42,8 @@ Dates are validated automatically:
 1.  Open a **Task or Subtask** Details.
 2.  Locate the **Start Date** and **Due Date** fields.
 3.  Select dates using the system calendar and save the task.
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/11aa7ea0-6b05-4688-9aec-8e2902491170" />
+
 
 ### List View / Board View
 
@@ -49,6 +51,9 @@ Dates are validated automatically:
 2.  Enable **Start Date** and **Due Date** from the list of fields.
 3.  Reorder fields using drag and drop, then save the view.
 4.  Click into the field to select and assign a date.
+
+<img width="3360" height="1228" alt="image" src="https://github.com/user-attachments/assets/a5f48b24-4938-4a7e-9fd9-16d2303f382b" />
+
 
 ### My Work
 
@@ -63,11 +68,17 @@ Dates are validated automatically:
 3.  Choose either **Start Date** or **Due Date** as required.
 4.  Apply the date; all selected tasks/subtasks will be updated with that value.
 
+<img width="3360" height="1014" alt="image" src="https://github.com/user-attachments/assets/0e9a5dfc-8a74-456f-952e-1a2132e2133a" />
+
+
 ### Quick Add (During Task Creation)
 
 1.  While creating a new task, after adding **name** and **location**,  
     locate the **Date** field.
 2.  Select the **Start Date** and **Due Date** from the date picker.
+
+<img width="3360" height="1753" alt="image" src="https://github.com/user-attachments/assets/a22bba0f-d810-45d1-a50d-1f03d7c57d7d" />
+
 
 ## Remove Dates
 
