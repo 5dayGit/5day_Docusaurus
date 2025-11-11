@@ -66,6 +66,9 @@ This provides complete flexibility to manage estimations either collectively or 
 2.  Locate the **Estimation** field.
 3.  Add a value as per your selected duration format.
 
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/7e2a58cb-dc67-47bc-a584-bc1a9a44fa5e" />
+
+
 ### List View / Board View
 
 1.  If the **Estimation** field is not visible, click on **Customize**.
@@ -73,6 +76,9 @@ This provides complete flexibility to manage estimations either collectively or 
 3.  Save the view.
 4.  Click on the **Estimation** field for the task/subtask.
 5.  Add a value as per the selected format.
+
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/ffc3df6e-a640-4623-ad2c-5fb2de84c412" />
+
 
 ### My Work
 
@@ -88,10 +94,16 @@ This provides complete flexibility to manage estimations either collectively or 
 4.  Enter the desired estimation value.
 5.  The value will be applied to all selected tasks and subtasks.
 
+<img width="3360" height="1016" alt="image" src="https://github.com/user-attachments/assets/fef2f7f3-57bc-4b0a-936a-a7d465a16646" />
+
+
 ### Quick Add (While Creating a Task)
 
 1.  While using **Quick Add** for task creation, after entering the **Name** and **Location**, you can assign an estimation immediately.
 2.  Add the value based on your preferred duration format.
+
+<img width="3360" height="1753" alt="image" src="https://github.com/user-attachments/assets/58c4e959-3aef-4887-8547-9fd96abb9741" />
+
 
 ### Assignee Wise Estimation
 
@@ -100,6 +112,9 @@ Applicable only for **tasks** where multiple assignees are available.
 During estimation entry, enable the flag **Estimates by Person**.
 
 Assign individual estimation values separately for each assigned user.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/831ed548-eeb9-4f3b-abba-5ddc23fb0565" />
+
 
 ## Remove Estimation
 
