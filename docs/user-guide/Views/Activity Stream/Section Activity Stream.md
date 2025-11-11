@@ -1,4 +1,5 @@
-# Intro to Project Activity Stream
+# Section Activity Stream
+
 **Section Activity Stream** is the full timeline of every change made to a specific Section - from name tweaks to status shifts - so you always know who touched what and when inside this bucket of tasks.
 
 ## Subscription
@@ -46,3 +47,4 @@ Activity Stream auto-groups entries to keep it scannable:
 To explore about project history , refer to the [Project Activity Stream](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Activity%20Stream/Project%20Activity%20Stream.md).
 
 To explore about task history , refer to the [Task Activity Stream](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Activity%20Stream/Task%20Activity%20Stream.md).
+
