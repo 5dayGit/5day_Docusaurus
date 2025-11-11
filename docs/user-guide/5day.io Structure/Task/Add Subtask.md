@@ -43,6 +43,9 @@ If a task **already have** subtasks:
 
 Subtask creation follows the same flow as creating a main task (Title mandatory; optional fields can be filled as needed).
 
+<img width="3560" height="787" alt="image" src="https://github.com/user-attachments/assets/1a7364ce-1d62-438e-9e61-a5335df63087" />
+
+
 ### From Task Details Panel
 
 Two ways are available inside the Task Details panel:
@@ -54,6 +57,8 @@ Through **More Menu**
 3.  You will be redirected to the Subtask list view.
 4.  Enter the **title** for the subtask and it will be created.
 
+<img width="3360" height="2100" alt="image" src="https://github.com/user-attachments/assets/e2d38fa3-a12f-48b6-a965-01db302beb9f" />
+
 Through **Subtask Tab**
 
 1.  Open the **Task Details** panel.
@@ -62,6 +67,8 @@ Through **Subtask Tab**
 4.  Enter the **title** and create the subtask seamlessly.
 
 Both options offer an easy and fast way to manage your subtasks within the parent task structure.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/72f9d323-0dca-4e33-8143-f6ee9f9083a8" />
 
 ## Subtask Fields
 
