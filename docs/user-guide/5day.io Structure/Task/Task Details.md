@@ -50,6 +50,10 @@ Task Fields let you define every detail of task - all editable based on permissi
 | Link | A system-generated direct link to share the task. Refer ‘Link’ for more details. |
 
 
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/c94e322f-6b92-462a-8731-606078554d0e" />
+
+
+
 ## Other References
 
 To add new task, refer  [Add Task](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Task.md)
