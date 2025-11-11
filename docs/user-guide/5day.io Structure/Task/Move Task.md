@@ -17,10 +17,16 @@ Below are further details on Edit permission.
 
 -   Select a Task → click **three dots** → **Move**
 -   To move multiple tasks -> Select tasks -> **Bulk Action Bar** -> Move, All selected Tasks move together in one click.
+  
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/887b1a70-981f-418a-8758-fb8a32a32eea" />
+
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/9142d40a-db08-4b67-8a72-d203b8f5f0af" />
 
 ### Task Details
 
 -   Open Task -> **Task Details** panel (right side) -> click **three dots** (top-right) -> **Move**
+
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/8cfac612-f945-4017-bd7a-4cdee67f987c" />
 
 ### My Work
 
@@ -40,8 +46,4 @@ To create a new subtask, refer [Add Subtask](https://github.com/5dayGit/5day_Doc
 
 
 
-<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/9142d40a-db08-4b67-8a72-d203b8f5f0af" />
 
-<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/887b1a70-981f-418a-8758-fb8a32a32eea" />
-
-<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/8cfac612-f945-4017-bd7a-4cdee67f987c" />
