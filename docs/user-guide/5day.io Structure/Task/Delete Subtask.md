@@ -25,6 +25,8 @@ There are multiple ways to delete a **Subtask**:
  3. A dropdown menu will appear.
  4. Click **Delete** from the menu.
  5. Confirm deletion to permanently remove the subtask.
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/628d054e-256e-440e-ac7a-597605ece56c" />
+
 
 ### From Subtask Details Page
 
@@ -32,6 +34,9 @@ There are multiple ways to delete a **Subtask**:
  2. On the **top-right corner** of the Subtask Details page, click the **three dots (More menu)**.
  3. Select **Delete** from the options.
  4. Confirm deletion to complete the action.
+ <img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/169f2098-1773-490b-a714-5532e07120f3" />
+
+ 
 
 ### From Subtask List Page
 
@@ -40,6 +45,10 @@ There are multiple ways to delete a **Subtask**:
  3. Click the **More option (three dots)** beside the subtask.
  4. Select **Delete Subtask**.
  5. Confirm deletion to remove the subtask permanently.
+
+ <img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/5da05228-44a7-4f83-9cee-9135cf3efe1a" />
+
+ 
 
 **Quick Note**
 Always double-check before deleting, as this action is irreversible.
