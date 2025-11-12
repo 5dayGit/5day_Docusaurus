@@ -20,11 +20,12 @@ To enable or disable timesheet-related features for a project:
 
 1. Go to the **Project** where you want to configure timesheet settings.
 1. Click on the **three-dot menu (⋮)** next to the project name and select **Project Settings**.
-      ### IMAGE
 1. In the left sidebar, click on **Features**.
 1. Scroll to see all available features such as:
    1. Time-related features like **Time Tracking**, **Time Estimates**, **Time Approval**, **Overtime**, **Assignee Wise Estimation**, etc.
 1. Use the toggle switches next to each feature to turn them **on** or **off**.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/bff4cbf6-37bd-4b5e-b881-25be2e6e0c76" />
 
 
 ## **Configure Timesheet Features in a Project**
