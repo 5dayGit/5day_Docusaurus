@@ -15,7 +15,7 @@ There are two main ways to initiate the deletion of a workspace
 | Workspace View | Workspace List or Board View → More Menu (⋮) beside Workspace name → Delete | Quick access for directly deleting a specific Workspace. |
 
 Method 1 
-<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/7d7e1ffc-33d8-4c40-b08a-d84e769b517e" />
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/a86f78fd-7154-4e89-b96e-bfbebbbc5be0" />
 
 
 Method 2
