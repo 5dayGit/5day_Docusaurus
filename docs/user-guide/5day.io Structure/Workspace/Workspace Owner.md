@@ -10,6 +10,9 @@ Only the **current Workspace Owner** or **account-level admins** can change owne
 1.  Go to your Workspace -> More icon (three dots) -> **Workspace Settings** -> **General**
 2.  Scroll to **Workspace Owner** section -> you’re now in the owner panel
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/8506d8c6-0c3a-441c-b182-08a487e8a48f" />
+
+
 ## Actions can be performed
 
 | Action | Details |
