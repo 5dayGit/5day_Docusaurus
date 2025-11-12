@@ -15,6 +15,14 @@ There are two main ways to open the Edit workspace
 | Account Settings | Account Settings -> List of Workspaces -> Edit | Edit from the central list of all workspaces |
 | Workspace View | Workspace List or Board View → More Menu (⋮) beside workspace name | Quick access for directly editing a specific workspace |
 
+Method 1 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/f8e170ff-b923-427f-9d2e-90d6e601b115" />
+
+
+Method 2 
+<img width="3360" height="1798" alt="image" src="https://github.com/user-attachments/assets/09c03582-4a02-4ca0-9c31-153e5458ff9c" />
+
+
 ## Workspace Settings
 
 When you access the Edit option, you can perform the following actions depending on your permissions:
