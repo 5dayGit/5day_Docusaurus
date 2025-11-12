@@ -12,6 +12,9 @@
 | Name | A clear and meaningful name of your workspace.|
 | Owner | Represents the owner of workspace. |
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/aeda91fd-0468-4a16-8f97-8612684187ab" />
+
+
 ### Quick actions on List
 
 -  Drag-and-drop to reorder (visual hierarchy matters!)
