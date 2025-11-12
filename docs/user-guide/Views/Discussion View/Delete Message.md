@@ -11,6 +11,9 @@ However, only the person who added the message can delete it. Other users, even 
 2.  Click on the **Delete** icon (usually represented by a trash can).
 3.  Confirm the deletion when prompted.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/b2474676-bc11-4798-ad9b-0a06332fa0d4" />
+
+
 **Quick Note**
 Only the **Message owner** (the person who originally added the message) can delete the message.
 
