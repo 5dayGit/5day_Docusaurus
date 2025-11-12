@@ -98,13 +98,6 @@ const config = {
             label: 'Documentation',
             className: 'nav-icon-link nav-doc-link',
           },
-          //  {
-          //    type: 'docSidebar',
-          //    sidebarId: 'apiSidebar',
-          //    position: 'left',
-          //    label: 'API Reference',
-          //  },
-          //   {to: '/pricing', label: 'Pricing', position: 'left'},
           { to: '/contact', label: 'Contact Support', position: 'right', className: 'nav-icon-link nav-contact-link', },
           {
             type: 'html',
@@ -150,18 +143,18 @@ config.plugins = [
       indexBaseUrl: true,
     },
   ],
-  [
-    '@docusaurus/plugin-client-redirects',
-    {
+  // [
+  //   '@docusaurus/plugin-client-redirects',
+  //   {
 
-      redirects: [
-        {
-          from: '/',
-          to: '/docs/user-guide/Onboarding/Intro%20to%20Onboarding',
-        },
-      ],
-    },
-  ],
+  //     redirects: [
+  //       {
+  //         from: '/',
+  //         to: '/docs/user-guide/Onboarding/Intro%20to%20Onboarding',
+  //       },
+  //     ],
+  //   },
+  // ],
 ];
 
 export default config;

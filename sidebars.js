@@ -17,13 +17,13 @@
 const sidebars = {
   // Main documentation sidebar
   docsSidebar: [
-    {
-      type: 'category',
-      label: 'Onboarding',
-      items: [
-        'user-guide/Onboarding/Intro to Onboarding',
-      ]
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Onboarding',
+    //   items: [
+    //     'user-guide/Onboarding/Intro to Onboarding',
+    //   ]
+    // },
     {
       type: 'category',
       label: '5day.io Structure',

@@ -3,11 +3,110 @@
  * and scoped locally.
  */
 
+ .outerHeaderContainer {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+@media (max-width: 768px) {
+  .outerHeaderContainer {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+  background: linear-gradient(135deg, #fef6f0 0%, #f9f2ff 100%);
+  border-radius: 12px;
+  padding: 2rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  margin-top: 20px;
+}
+
+.heroContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 2rem;
+}
+
+.heroImage {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.girlImage {
+  width: 100%;
+  max-width: 380px;
+  height: auto;
+  object-fit: contain;
+}
+
+.heroText {
+  flex: 1;
+  text-align: left;
+}
+
+.heroText h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: #1e1e1e;
+}
+
+.heroText p {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.searchBox {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.searchInput {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.searchButton {
+  background: #000;
+  color: #fff;
+  border: none;
+  padding: 0.75rem 1.2rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.searchButton:hover {
+  background: #333;
+}
+
+@media (max-width: 900px) {
+  .heroContent {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .heroImage {
+    order: 1;
+  }
+
+  .heroText {
+    order: 2;
+  }
 }
 
 @media screen and (max-width: 996px) {

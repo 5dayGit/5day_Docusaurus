@@ -26,7 +26,7 @@ body {
   --ifm-color-primary-lightest: #ffcc80;
 
   /* Background + Surface tones */
-  --ifm-background-color: #fffdfa; /* soft cream background */
+  --ifm-background-color: #ffffff; 
   --ifm-background-surface-color: #ffffff;
   --ifm-navbar-background-color: #fff9f2;
   --ifm-footer-background-color: #fff5e6;
@@ -177,9 +177,13 @@ body {
 .theme-doc-sidebar-menu {
     background-color: var(--ifm-background-surface-color); 
     color: var(--ifm-color-content-secondary);
-    border-radius: 10px; 
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 16px; 
+    box-shadow: 0 0px 12px rgba(0, 0, 0, 0.2);
     margin-bottom: 10px;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
 }
 
 .docPage_docSidebarContainer_35_k {
@@ -192,9 +196,9 @@ body {
     overflow-y: auto;
     position: sticky;
     top: calc(var(--ifm-navbar-height) + 1rem);
-    border-radius: 10px;
+    border-radius: 16px;
     background-color: var(--ifm-background-surface-color); 
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 12px rgba(0, 0, 0, 0.2);
 }
 
 .center-block {
@@ -291,4 +295,12 @@ p, .markdown p {
 img {
   width: 100%;
   height: 100%;
+}
+
+.table-of-contents {
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    border-radius: 16px;
 }
