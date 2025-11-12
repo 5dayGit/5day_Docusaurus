@@ -28,6 +28,9 @@ All users with Project access (View permission or higher) can see the Activity S
 | Workflows | Workflows created/edited/deleted |
 | Integration | Connections to Slack, teams, etc. added/updated |
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/d768ee43-4652-44e2-99fc-a8c77ed2ed7d" />
+
+
 
 
 ### Filter by Person
