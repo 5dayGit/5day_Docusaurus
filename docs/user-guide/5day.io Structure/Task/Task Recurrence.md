@@ -40,7 +40,7 @@ When you open Set Recurrence, a powerful yet simple panel appears:
 | Ends On | Never / On specific date / After X occurrences. Stop forever, on a fixed date, or after a set count. |
 | Skip Holidays and Weekoffs | Auto-shift to next valid workday — no Tasks on closed days. |
 
-<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/4aff3388-cb0b-4070-9d4f-60020c9d2b9e" />
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/ca1b49c5-a3f4-45ee-bf74-e551ece88f71" />
 
 
 ### Show Recurred Tasks via Icon
@@ -72,4 +72,5 @@ Every recurred Task displays a **🔄 recurrence icon** in List, Board, and Task
 To create a new task, refer [Add Task](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Task.md).
 
 To create a new subtask, refer [Add Subtask](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Subtask.md).
+
 
