@@ -1,5 +1,5 @@
-## **How to Rename a Section**
-You can rename a section in 5day.io using two simple methods:
+## **How to Edit a Section**
+You can edit a section in 5day.io using two simple methods:
 ### **Option 1: Direct Click to Edit**
 1. **Open the Project**: Click on the project where the section is located.
 1. **View Section List**: You’ll see a list of all sections within the project.
