@@ -17,6 +17,9 @@ You need **Edit Workspace** permission to invite, add, or remove people.
 1.  Go to Workspace -> More Icon (three dots) -> **Workspace Settings** -> **People**
 2.  You’ll see the **full list of everyone** in this Workspace.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/912d8bc4-c38f-463b-99f8-e70e9692c2c5" />
+
+
 ## Available Actions
 
  - Invite People - Type email -> pick role -> Send Invite
