@@ -11,3 +11,4 @@ The **Week View** allows users to see a breakdown of their time entries across a
 - **Search & Filter**:
   - Search: Look up time entries using task or subtask names, task or subtask IDs, or by people.
   - Filter entries by **Budget Type** (e.g., Billable / Non-Billable) to refine the view.
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/f290d668-13b8-4a71-b315-ab9328b95dfa" />
