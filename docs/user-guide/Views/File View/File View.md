@@ -40,6 +40,8 @@ View Permission: Users with view access to the files can view them at all views 
 
 1.  Go to the specific Project or Section.
 2.  Change the view to ‘Files’ to view all the uploaded files for that entity.
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/f69a7f7a-7636-4e0a-8b51-771c75eefab8" />
+
 
 **For Task/Subtask:**
 
@@ -47,6 +49,9 @@ View Permission: Users with view access to the files can view them at all views 
 2.  Select the Task or Subtask.
 3.  On the task details page, click on ‘Files’ under Task/Subtask details.
 4.  All uploaded files related to that task or subtask will be visible here.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/03338a72-9c54-43c2-8531-89b423dab872" />
+
 
 ## Other References
 
