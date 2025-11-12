@@ -14,6 +14,8 @@ To download a file
 1.  Access the file by navigating to the Files View in the relevant section.
 2.  Click on the file.
 3.  The file will be automatically downloaded to your local machine.
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/e00de580-1a56-41b9-9549-ba9653ed887c" />
+
 
 ## Other References
 
