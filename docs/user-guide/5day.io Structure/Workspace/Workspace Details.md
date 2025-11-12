@@ -11,6 +11,8 @@ You must have **Edit Workspace** permission to make changes here.
 1.  Go to you workspace -> click on more icon (three dots) → **Workspace Settings** → **General**
 2.  You’re now inside **Workspace Details**
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/3d1a7384-3442-4734-b5a1-8a32afb66093" />
+
 ## Workspace Details
 
 | Field	 | Description |
