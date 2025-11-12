@@ -25,7 +25,8 @@ A file can be uploaded in three different ways:
 **Upload via OneDrive**
     Upload files from OneDrive by connecting your OneDrive account. Select the file from OneDrive, and it will be uploaded to 5day.io.
 
-    <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/b9064fb2-283a-46b6-b586-16b3d839b7c8" />
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/472daf28-08ac-4461-9357-84786cbabbe8" />
+
 
 
 ## Other References
