@@ -26,6 +26,9 @@ All users with Project access (View permission or higher) can see the Activity S
 | Status & Dates | Status (New/In Progress/Done), Start Date, Due Date updates |
 | Order & Visibility | Drag-and-drop reordering, Hide/Show in hierarchy |
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/7e856b18-f790-410f-92ed-5e7dbd8c8704" />
+
+
 ### Filter by Person
 Want to see only specific person's changes?
 
@@ -47,4 +50,5 @@ Activity Stream auto-groups entries to keep it scannable:
 To explore about project history , refer to the [Project Activity Stream](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Activity%20Stream/Project%20Activity%20Stream.md).
 
 To explore about task history , refer to the [Task Activity Stream](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Activity%20Stream/Task%20Activity%20Stream.md).
+
 
