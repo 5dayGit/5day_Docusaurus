@@ -32,7 +32,8 @@ Below are further details on Edit permission.
 -   Set the new value → **Apply to All**
 -   **Instant**: All selected Tasks update simultaneously - no refresh needed
 
-<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/2734f54f-2a4f-4d61-8661-cfdbdcecc633" />
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/2b81c332-1a74-4086-a431-0b550e40aa39" />
+
 
 ### Supported Fields for Bulk Update
 | Field | Description |
@@ -55,6 +56,7 @@ Below are further details on Edit permission.
 To create a new task, refer [Add Task](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Task.md).
 
 To create a new subtask, refer [Add Subtask](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Subtask.md).
+
 
 
 
