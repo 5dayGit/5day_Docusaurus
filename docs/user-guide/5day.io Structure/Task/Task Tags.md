@@ -40,6 +40,10 @@ Once enabled, tags can be added and managed across tasks and subtasks.
 4.  Select an existing tag or create a new tag.
 5.  The selected tag will be added to the respective task or subtask.
 
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/d289c2dc-1e31-4aa0-8722-16f1655dc33b" />
+
+
+
 #### List View / Board View
 
 1.  Ensure the view is not grouped by **Tags**.
@@ -47,6 +51,9 @@ Once enabled, tags can be added and managed across tasks and subtasks.
 3.  Save the view once customized.
 4.  Click on the **Tags** field for the task/subtask.
 5.  Select an existing tag or create a new tag to assign.
+
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/cb48ab83-fc1a-43b6-b8ba-3ba8be9dd236" />
+
 
 #### My Work
 
@@ -62,11 +69,17 @@ Once enabled, tags can be added and managed across tasks and subtasks.
 4.  Select from existing tags or create a new tag.
 5.  Apply tags to all selected tasks or subtasks simultaneously.
 
+<img width="3360" height="1012" alt="image" src="https://github.com/user-attachments/assets/aefaa12f-976e-4d71-a031-5dc1a11e98a3" />
+
+
 #### Quick Add (While Creating a Task)
 
 1.  During task creation via **Quick Add**, after entering the **Name** and **Location**, you can assign a tag immediately.
 2.  Select an existing tag from the list or create a new one.
 3.  The selected tag(s) will be assigned as part of the task creation process.
+
+<img width="3360" height="1753" alt="image" src="https://github.com/user-attachments/assets/ebbacab4-10b6-411c-83b6-10ee412228f0" />
+
 
 ### Remove Tags
 
