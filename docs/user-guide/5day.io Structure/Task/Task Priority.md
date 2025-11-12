@@ -23,6 +23,9 @@ The ability to assign or edit **Priority** values depends on the **Task Edit Per
 -   These priorities will automatically apply to new projects created in the workspace.
 -   Users can **rename**, **enable/disable**, or **set a default** priority.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/017392e1-7c3c-4118-82ab-998f9bcfc645" />
+
+
 2.  To enable Priority within a specific project:
 
 -   Go to: **Project Settings → Features → Enable 'Priority'**
@@ -33,6 +36,8 @@ The ability to assign or edit **Priority** values depends on the **Task Edit Per
 	- Enable/disable individual priorities (only **enabled priorities** will be selectable in tasks/subtasks).
 	- Set a **default priority**, which will auto-assign to all newly created tasks/subtasks.
 
+
+
 ## Access Priority
 
 ### Task/Subtask Details
@@ -41,6 +46,9 @@ The ability to assign or edit **Priority** values depends on the **Task Edit Per
 2.  Locate the **Priority** field.
 3.  Click the field to view all available priority options.
 4.  Select the desired value to update.
+
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/9a52f197-46ef-4ff9-bb38-32eb7b673270" />
+
 
 ### List View / Board View
 
@@ -54,11 +62,15 @@ The ability to assign or edit **Priority** values depends on the **Task Edit Per
 4.  Click on it to assign or change the priority value.
 5.  Save the customized view for reuse.
 
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/03bc88da-d9de-4c71-98cd-d905a3bd347e" />
+
+
 ### My Work
 
 1.  Navigate to **My Work**.
 2.  Click on the desired task or subtask to open its details.
 3.  Update the **Priority** field as needed.
+
 
 ### Bulk Update
 
@@ -66,11 +78,17 @@ The ability to assign or edit **Priority** values depends on the **Task Edit Per
 2.  A **Bulk Update** option will appear.
 3.  Choose **Priority** and assign a new value to apply it across all selected items.
 
+<img width="3360" height="1012" alt="image" src="https://github.com/user-attachments/assets/87057cc0-13ee-4254-a2d2-2f0933fc51d0" />
+
+
 ### Quick Add
 
 1.  While using **Quick Add** to create a task:
 
 -   After entering the task name and location, access the **Priority** field.
 - Select the appropriate priority level before saving.
+
+<img width="3360" height="1753" alt="image" src="https://github.com/user-attachments/assets/73f69f85-ac58-4645-9b9f-9d77de3422ff" />
+
 
 ## Other References
