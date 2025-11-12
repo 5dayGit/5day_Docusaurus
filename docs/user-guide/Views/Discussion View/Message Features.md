@@ -13,6 +13,9 @@ Mentions allow you to tag other users in your message, notifying them directly a
 3.  A list of people will appear, allowing you to select the correct user by clicking on their name.
 4.  Once the person is tagged, they will receive a **notification** that includes a link to the message, allowing them to directly access the conversation.
 
+<img width="1618" height="1029" alt="image" src="https://github.com/user-attachments/assets/baa5541d-403e-4eb0-96da-11780f5d217a" />
+
+
 **Quick Note**
 Users tagged in message will also be able to reply directly from the notification.
 
@@ -26,6 +29,9 @@ Tagging of task/subtask allow a quick access from a message and also shows the r
 2.  Start typing the ID/title of task/subtask.
 3.  A list of tasks/subtasks will appear as per your searched criteria.
 4.  Select the task/subtask.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/88b7517a-de06-4f13-b590-2d530507d605" />
+
 
 ## **Attach File**
 
@@ -41,6 +47,9 @@ The **Attach File** feature allows you to add files to your message. This can in
 -   **Upload via OneDrive:** Select a file from your OneDrive to upload.
 
 4.  After the file is uploaded, it will appear as an attachment under your message.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/4c0be6bd-0cb5-403b-b0a8-71d8aae572e4" />
+
 
 ## **Rich Text Editor**
 
@@ -59,6 +68,9 @@ The editor supports both basic and advanced editing needs, making collaboration 
 1.  Whenever you are editing a text field (like Task Description or Discussion), the Rich Text Editor toolbar will be available on top.
 2.  To access advanced features, click on the dropdown (`...`) to open the **Rich Text Menu**.
 3.  Hover over each option to view a tooltip describing its functionality.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/bed9a71c-743f-4ad1-b0dd-58760a796b9c" />
+
 
 ### List of Features
 
