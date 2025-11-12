@@ -1,4 +1,4 @@
-<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/0be51f62-021b-4ced-92e9-d3353c12124e" /># **How to Edit Time Entries for a Task**
+**How to Edit Time Entries for a Task**
 You can edit your own time entries directly from the **Task Details** view. Admins, Project Managers, or users with edit permissions can also update time entries logged by other members.
 ## **Steps to Edit a Time Entry:**
 1. Go to the **List View** or **Board View** of your project.
