@@ -22,6 +22,9 @@ Users who have the **permission to add message** can participate in discussions 
 
 Your message will be immediately visible to everyone who has access to that discussion.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/4eb6beb7-164f-4218-8f30-7360bcfb42c3" />
+
+
 ## Other References
 
 To access Discussion View, refer  [Discussion View](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Discussion%20View.md)
