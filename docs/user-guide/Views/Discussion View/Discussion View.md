@@ -39,6 +39,9 @@ By default, in all projects & section; discussion view is enable. Follow these s
 2.  Select the view **Discussion** from project's top bar.
 3.  You will be able to view all comments.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/8f87eb24-5d97-4ce1-9e1e-c15c775f822b" />
+
+
 **For Task/Subtask:**
 
 1.  Go to the specific **Project/Section**.
@@ -46,6 +49,9 @@ By default, in all projects & section; discussion view is enable. Follow these s
 3.  The task details page will open.
 4.  Click on **Discussion** under the Task/Subtask details.
 5.  You will be able to view all comments.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/b7e1cf73-945f-4c96-8839-eb01dcbf8355" />
+
 
 ## Other References
 
