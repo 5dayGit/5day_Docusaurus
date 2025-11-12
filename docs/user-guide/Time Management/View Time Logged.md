@@ -9,8 +9,10 @@ To access time entries from Task Details:
 
 1. Open the task from any project view (List, Board, etc.)
 1. Scroll to the **bottom bar** of the task card
-    ### IMAGE
 1. Click on the **Time Logged** section to open the **Time Entries panel**
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/c7b20d21-c9d1-4263-ba73-6d1be2c62d9b" />
+
 
 ## **What You’ll See**
 The Time Entries panel displays the following:
