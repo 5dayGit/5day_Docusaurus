@@ -10,7 +10,7 @@ Within the task, you’ll find two main ways to track your time:
 Both options are available at the bottom bar of the task details interface.
 
 ## **Option 1: Add Time Manually**
-### IMAGE
+
 You can log your time manually by clicking the **➕ Add Time** icon in the task details view. This will open the standard **Time Entry Form** in the **Task** tab.
 
 From here, you can:
@@ -21,16 +21,22 @@ From here, you can:
 - Add any relevant **Notes**
 - Click **Add** to save the time entry
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/217868e3-17c0-4bf9-82d6-f46079a2e657" />
+
+
 📎 Want to know more about the Time Entry Form?
 
 ## **Option 2: Start Timer**
 If you'd rather let the system track time for you:
-### IMAGE
+
 1. Click the **▶ Start Timer** icon at the bottom of the task
 1. The timer begins immediately and will keep running in the background
 1. Continue working on your task — the timer remains active as long as the tab is open
 1. Once finished, return to the task and click the **■ Stop Timer** button
 1. The tracked time will be automatically logged under your name for that task
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/6b9c7a88-752e-4eb2-af98-451d8e6a467c" />
+
 
 ## **Viewing Logged Time**
 After time is logged (whether manually or via timer), you can view all related entries by clicking the **Time Logged** field beside the task’s timer bar. This provides a breakdown of all time tracked for that task, including:
@@ -39,3 +45,6 @@ After time is logged (whether manually or via timer), you can view all related e
 - Hours and minutes logged
 - User who logged the time
 - Billable or non-billable time entry
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/0b440d83-aa1e-4465-82fe-e50905f8b87d" />
+
