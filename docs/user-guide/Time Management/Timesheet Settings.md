@@ -1,4 +1,4 @@
-### Timesheet Settings
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/1324e9fa-f610-4cab-9b3d-58c11cf18e03" />### Timesheet Settings
 **Overview**
 
 In 5day.io, all timesheet configuration is managed from the workspace level. Admins can fine-tune how time entries are logged, what’s allowed for past and future dates, and enable key features like overtime tracking or timesheet approval.
@@ -6,12 +6,15 @@ In 5day.io, all timesheet configuration is managed from the workspace level. Adm
 To access Timesheet Settings:
 
 1. Go to **Workspace Settings**
-   ### IMAGE
 1. Click on **Timesheet Settings** from the left sidebar
 1. Under Timesheet Settings, you will find three tabs:
    1. **Basic Settings**
    1. **Reminders**
    1. **Categories**
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/6e0b1085-7165-47b1-9c0c-a7cb84800101" />
+
+   
 ## **Basic Settings (Timesheet Settings)**
 ### **Overview**
 The **Basic Settings** tab in Timesheet Settings allows workspace admins to define key preferences for how time logging works across the organization. These settings govern logging behavior for closed projects, tasks, weekends, and holidays, and offer flexibility in handling past and future entries.
@@ -56,6 +59,8 @@ The **Reminders** tab under Timesheet Settings allows workspace admins to send a
 ✅ **Who receives Pending Approvals reminders?**\
 Users with project manager roles or those granted **timesheet approval rights** in project settings will get these notifications.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/d1ea24b2-3544-45de-947d-0a0f781ee940" />
+
 
 ## **Categories (Timesheet Settings)**
 ### Overview
@@ -76,6 +81,9 @@ You can add custom categories for both Internal Time and Time Off:
 |**Post-Creation Options**|Once created, each category can be further customized:|
 |→ **Color**|A default color is assigned automatically, but you user can update it using the color picker.|
 |→ **Icon**|Choose from a predefined set of icons to visually represent the category.|
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/6d2e2a37-0dfe-4fe0-880c-3e36caf253e8" />
+
 
 ###  Managing Categories
 Each category entry includes a three-dot menu (⋮) where you can manage it:
