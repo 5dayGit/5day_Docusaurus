@@ -22,7 +22,7 @@ Users who have the **permission to add message** can participate in discussions 
 
 Your message will be immediately visible to everyone who has access to that discussion.
 
-<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/4eb6beb7-164f-4218-8f30-7360bcfb42c3" />
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/a3560e9d-5cda-4b67-b5e0-49b271d8c47f" />
 
 
 ## Other References
