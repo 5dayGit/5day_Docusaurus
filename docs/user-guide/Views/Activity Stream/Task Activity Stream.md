@@ -16,6 +16,9 @@ All users with View Task permission can open the Activity History for both Tasks
  1. Open any Task → **Task Details** panel (right side)
  2. Click the **Activity Stream** tab - you’re now in the full history
 
+ <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/46047932-7bfb-4ead-b68b-e0d4c416d247" />
+
+
 ## Activity Stream Features
 
 ### Activity Types
@@ -46,3 +49,4 @@ Activity Stream auto-groups entries to keep it scannable:
 ## Other References
 
 To explore about project history , refer to the [Project Activity Stream](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Activity%20Stream/Project%20Activity%20Stream.md).
+
