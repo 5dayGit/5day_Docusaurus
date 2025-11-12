@@ -39,7 +39,10 @@ Story Points are independent between tasks and subtasks, and changes in one do n
 
 1.  Open the **Task or Subtask Details** panel.
 2.  Locate the **Story Points** field.
-3.  Enter a numeric value as per your sizing convention (e.g., 3, 5, 8, etc.).
+3.  Enter a numeric value as per your sizing convention (e.g., 3, 5, 8, etc.)."
+
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/dc46c55e-0028-4bbb-a6e8-52f666b88f64" />
+
 
 #### List View / Board View
 
@@ -47,6 +50,9 @@ Story Points are independent between tasks and subtasks, and changes in one do n
 2.  Enable the **Story Points** field and adjust display order if necessary using drag and drop.
 3.  Save the view.
 4.  Locate the **Story Points** field for a task or subtask and enter the desired value.
+
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/617e77dd-f019-4d43-bd14-e4f7cd57006d" />
+
 
 #### My Work
 
@@ -62,12 +68,18 @@ Story Points are independent between tasks and subtasks, and changes in one do n
 4.  Enter a numeric value.
 5.  All selected tasks/subtasks will be updated with the entered story point value.
 
+<img width="3360" height="1012" alt="image" src="https://github.com/user-attachments/assets/32ea8f95-39b5-44e8-a20a-6aca5180a424" />
+
+
 ## Quick Add (While Creating a Task)
 
 1.  While creating a task using the **Quick Add** method, after entering the **Name** and **Location**,  
     navigate to the **Story Points** field.
 2.  Enter the numeric value.
 3.  The story points will be saved along with the task.
+
+<img width="3360" height="1753" alt="image" src="https://github.com/user-attachments/assets/03fe06eb-8e55-4e3a-a146-7bec057eadcf" />
+
 
 ### Remove Story Points
 
