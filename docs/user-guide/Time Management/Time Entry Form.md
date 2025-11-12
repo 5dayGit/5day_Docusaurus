@@ -26,6 +26,8 @@ There are two ways to log time under the Task tab:
 #### **1. Duration Mode**
 - Use the slider to drag and select the number of hours worked.
 - The **Time Logged** field will auto-calculate based on the slider position.
+
+
 #### **2. Time Range Mode**
 - Enter a specific **Start Time** and **End Time** using hours and minutes.
 - **Time Logged** is automatically calculated based on the entered range.
@@ -55,9 +57,16 @@ You can log internal time in two ways:
 1. **Duration Mode**
    1. Drag the slider to set how much time was spent.
    1. The **Time Logged** field will update automatically.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/e7090506-36f4-4e40-848f-a9942f7c51e7" />
+
+   
 1. **Time Range Mode**
    1. Manually input the **Start Time** and **End Time** in hours and minutes.
    1. Time Logged is auto-calculated based on the entered values.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/5fc2ca65-1054-447c-b9fa-ffc1481a7307" />
+
 
 Use the **Duration** or **Time Range** toggle to switch between modes.
 
