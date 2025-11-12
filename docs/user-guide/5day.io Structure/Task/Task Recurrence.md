@@ -10,10 +10,14 @@ You need **Edit task permission** in the source task and **Add task permission**
 ### List View / Board View
 
 -   Select a Task → click **three dots** → **Set Recurrence**
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/6a2b081e-eb63-4dc8-a3fa-35f917474f53" />
+
 
 ### Task Details
 
 -   Open Task -> **Task Details** panel (right side) -> click **three dots** (top-right) -> **Set Recurrence**
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/24b743a7-6767-4b9d-af89-cb7ea95819b4" />
+
 
 ### My Work
 
@@ -36,9 +40,15 @@ When you open Set Recurrence, a powerful yet simple panel appears:
 | Ends On | Never / On specific date / After X occurrences. Stop forever, on a fixed date, or after a set count. |
 | Skip Holidays and Weekoffs | Auto-shift to next valid workday — no Tasks on closed days. |
 
+<img width="3360" height="2300" alt="image" src="https://github.com/user-attachments/assets/4aff3388-cb0b-4070-9d4f-60020c9d2b9e" />
+
+
 ### Show Recurred Tasks via Icon
 
 Every recurred Task displays a **🔄 recurrence icon** in List, Board, and Task Details views. 
+
+<img width="3360" height="808" alt="image" src="https://github.com/user-attachments/assets/466f33f2-0e73-4006-b499-a7dfda123228" />
+
 
 ## Edit Recurred Task (Updates All Future Tasks)
 
@@ -54,8 +64,12 @@ Every recurred Task displays a **🔄 recurrence icon** in List, Board, and Task
 -   **All future Tasks are deleted**.
 -   **Past Tasks stay** with full history and data.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/639444d8-1197-4792-b563-1e5255056ac4" />
+
+
 ## Other References
 
 To create a new task, refer [Add Task](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Task.md).
 
 To create a new subtask, refer [Add Subtask](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Subtask.md).
+
