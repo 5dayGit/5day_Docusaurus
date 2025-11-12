@@ -1,4 +1,4 @@
-<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/1324e9fa-f610-4cab-9b3d-58c11cf18e03" />### Timesheet Settings
+### Timesheet Settings
 **Overview**
 
 In 5day.io, all timesheet configuration is managed from the workspace level. Admins can fine-tune how time entries are logged, what’s allowed for past and future dates, and enable key features like overtime tracking or timesheet approval.
