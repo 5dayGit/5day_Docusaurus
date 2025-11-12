@@ -13,6 +13,9 @@ To reply to a message, users must have permission to add message.
 4.  Type your reply in the input box.
 5.  Click on the **Save** button to add your reply.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/9ebf1653-d539-4f8e-a131-1b8405bdd7b4" />
+
+
 The reply will appear below the original message, creating a thread for easy tracking of conversations.
 
 ## Other References
