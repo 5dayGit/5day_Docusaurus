@@ -23,6 +23,9 @@ To create a new widget in your project or section dashboard:
 6.  A **preview** of the widget will be available after completing the configuration.
 7.  Once satisfied, click on **‘Create Widget’**.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/e43c1b88-d5d5-4263-b717-5db328244ef5" />
+
+
 ✅ The newly created widget will appear at the **last position** of the Dashboard page.
 
 **Quick Notes**
