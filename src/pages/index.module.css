@@ -3,9 +3,10 @@
  * and scoped locally.
  */
 
- .outerHeaderContainer {
+.outerHeaderContainer {
   padding-left: 4rem;
   padding-right: 4rem;
+  background-color: var(--ifm-background-surface-color);
 }
 
 @media (max-width: 768px) {
@@ -15,7 +16,12 @@
   }
 }
 .heroBanner {
-  background: linear-gradient(135deg, #fef6f0 0%, #f9f2ff 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(235, 245, 255, 0.6) 18.27%,
+    rgba(238, 223, 255, 0.6) 53.37%,
+    rgba(255, 228, 194, 0.6) 100%
+  );
   border-radius: 12px;
   padding: 2rem 2rem;
   display: flex;
@@ -126,6 +132,11 @@
 .quickLinks {
   padding: 4rem 0;
   background-color: var(--ifm-background-surface-color);
+  box-shadow: -1px 3px 7px 0px #c4c4c41a;
+  box-shadow: -3px 12px 13px 0px #c4c4c417;
+  box-shadow: -7px 27px 17px 0px #c4c4c40d;
+  box-shadow: -13px 49px 20px 0px #c4c4c403;
+  box-shadow: -20px 76px 22px 0px #c4c4c400;
 }
 
 .quickLinkCard {
@@ -184,4 +195,81 @@
 .topicList a:hover {
   text-decoration: underline;
   color: var(--ifm-color-primary-dark);
+}
+
+.cardsGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-top: 2rem;
+  padding: 0 1rem;
+  align-items: stretch;
+}
+
+.quickLinkCard {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  box-shadow: 0 20px 35px rgba(10, 7, 7, 0.13);
+  text-decoration: none;
+  transition: all 0.25s ease-in-out;
+  width: 340.6666564941406;
+  height: 203;
+  gap: 12px;
+  opacity: 1;
+  border-radius: 21px;
+  padding-top: 37px;
+  padding-right: 31px;
+  padding-bottom: 37px;
+  padding-left: 31px;
+  border-width: 1px;
+  border-color: #E5E5E5;
+}
+
+.quickLinkCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.quickLinkCard h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0.8rem 0 0.5rem 0;
+  color: #222;
+}
+
+.quickLinkCard p {
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1.5;
+}
+
+.cardIcon {
+  font-size: 1.8rem;
+  color: #f47b20;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .cardsGrid {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+  }
+
+  .quickLinkCard {
+    padding: 1rem;
+  }
+}
+@media (max-width: 1024px) {
+  .cardsGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 1 card per row for small screens (mobile) */
+@media (max-width: 640px) {
+  .cardsGrid {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }

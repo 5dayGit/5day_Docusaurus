@@ -9,13 +9,20 @@ export default function HomepageSearch() {
   const [results, setResults] = useState([]);
   const containerRef = useRef(null);
 
-  // Load Lunr index and docs
+  const suggestions = [
+    'How to setup a project?',
+    'Make custom status',
+    'Create custom fields',
+    'Invite teammates',
+    'Track progress',
+  ];
+
   useEffect(() => {
     async function loadIndex() {
       try {
         const [indexRes, docsRes] = await Promise.all([
           fetch('/lunr-index.json'),
-          fetch('/search-doc.json')
+          fetch('/search-doc.json'),
         ]);
         const indexJson = await indexRes.json();
         const docJson = await docsRes.json();
@@ -28,7 +35,6 @@ export default function HomepageSearch() {
     }
     loadIndex();
 
-    // Close dropdown on outside click
     const handleClickOutside = (e) => {
       if (containerRef.current && !containerRef.current.contains(e.target)) {
         setResults([]);
@@ -38,28 +44,27 @@ export default function HomepageSearch() {
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
-  // Handle search input
-  const handleChange = (e) => {
-    const value = e.target.value;
-    setQuery(value);
-
+  const performSearch = (value) => {
     if (!index || value.trim().length < 2) {
       setResults([]);
       return;
     }
-
     const found = index.search(value).map((r) => ({
       ...docs.find((d) => d.id === r.ref),
       score: r.score,
     }));
-
-    setResults(found.slice(0, 6)); // top 6 results
+    setResults(found.slice(0, 6));
   };
 
-  // Handle result click
-  const handleResultClick = () => {
-    setQuery('');
-    setResults([]);
+  const handleChange = (e) => {
+    const value = e.target.value;
+    setQuery(value);
+    performSearch(value);
+  };
+
+  const handleSuggestionClick = (suggestion) => {
+    setQuery(suggestion);
+    performSearch(suggestion);
   };
 
   return (
@@ -67,12 +72,29 @@ export default function HomepageSearch() {
       <div className={styles.searchBox}>
         <input
           type="search"
-          placeholder="Search documentation..."
+          placeholder=" "
           className={styles.searchInput}
           value={query}
           onChange={handleChange}
         />
-        <button className={styles.searchButton}>Search</button>
+        <button
+          className={styles.searchButton}
+          onClick={() => performSearch(query)}
+        >
+          Search
+        </button>
+      </div>
+
+      <div className={styles.suggestions}>
+        {suggestions.map((text, idx) => (
+          <button
+            key={idx}
+            className={styles.suggestionChip}
+            onClick={() => handleSuggestionClick(text)}
+          >
+            {text}
+          </button>
+        ))}
       </div>
 
       {results.length > 0 && (
@@ -82,7 +104,7 @@ export default function HomepageSearch() {
               key={idx}
               href={item.url}
               className={styles.dropdownItem}
-              onClick={handleResultClick}
+              onClick={() => setResults([])}
             >
               <h4>{item.title}</h4>
               <p>{item.content.slice(0, 100)}...</p>

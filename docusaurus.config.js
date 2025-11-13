@@ -143,18 +143,6 @@ config.plugins = [
       indexBaseUrl: true,
     },
   ],
-  // [
-  //   '@docusaurus/plugin-client-redirects',
-  //   {
-
-  //     redirects: [
-  //       {
-  //         from: '/',
-  //         to: '/docs/user-guide/Onboarding/Intro%20to%20Onboarding',
-  //       },
-  //     ],
-  //   },
-  // ],
 ];
 
 export default config;

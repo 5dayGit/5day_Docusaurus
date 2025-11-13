@@ -12,9 +12,9 @@ import styles from './index.module.css';
 import HomePageSearch from '@site/src/components/HomepageFeatures/HomePageSearch';
 
 function HomepageHeader() {
-  
 
-  
+
+
   return (
     <div className={styles.outerHeaderContainer}>
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
@@ -82,11 +82,11 @@ function QuickLinks() {
       description: 'Watch quick tutorials and demos to learn 5day.io features in actions.',
       to: '/docs/user-guide/Videos'
     },
-    {
-      title: 'Use Cases',
-      description: '',
-      to: '/docs/user-guide/Use%20Cases/Intro%20to%20Use%20Cases'
-    }
+    // {
+    //   title: 'Use Cases',
+    //   description: '',
+    //   to: '/docs/user-guide/Use%20Cases/Intro%20to%20Use%20Cases'
+    // }
   ];
   return (
     <section className={styles.quickLinks}>
@@ -95,14 +95,13 @@ function QuickLinks() {
           Start exploring Yourself
         </Heading>
         <p className="hero__subtitle">Dive into the sections you want to explore.</p>
-        <div className="row">
+        <div className={styles.cardsGrid}>
           {links.map((link, idx) => (
-            <div key={idx} className="col col--4 margin-bottom--lg">
-              <Link to={link.to} className={styles.quickLinkCard}>
-                <h3>{link.title}</h3>
-                <p>{link.description}</p>
-              </Link>
-            </div>
+            <Link key={idx} to={link.to} className={styles.quickLinkCard}>
+              <div className={styles.cardIcon}>{link.icon}</div>
+              <h3>{link.title}</h3>
+              <p>{link.description}</p>
+            </Link>
           ))}
         </div>
       </div>

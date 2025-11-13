@@ -100,14 +100,30 @@ const sidebars = {
           type: 'category',
           label: 'Project',
           items: [
-            'user-guide/5day.io Structure/project/Templates'
+            "user-guide/5day.io Structure/project/Intro to Project",
+            "user-guide/5day.io Structure/project/Create Project",
+            "user-guide/5day.io Structure/project/Edit Project",
+            "user-guide/5day.io Structure/project/Delete Project",
+            "user-guide/5day.io Structure/project/Add People to a Project",
+            "user-guide/5day.io Structure/project/Duplicate Project",
+            "user-guide/5day.io Structure/project/Rename Project",
+            "user-guide/5day.io Structure/project/Move Project",
+            "user-guide/5day.io Structure/project/Manage Project Features",
+            "user-guide/5day.io Structure/project/Manage Project Views",
+            "user-guide/5day.io Structure/project/Project Settings",
+            "user-guide/5day.io Structure/project/Import Tasks into a Project"
           ],
         },
         {
           type: 'category',
           label: 'Section',
           items: [
-            'user-guide/5day.io Structure/section/Section'
+            "user-guide/5day.io Structure/section/Intro to Section",
+            "user-guide/5day.io Structure/section/Section Details",
+            "user-guide/5day.io Structure/section/Create Section",
+            "user-guide/5day.io Structure/section/Edit Section",
+            "user-guide/5day.io Structure/section/Delete Section",
+            "user-guide/5day.io Structure/section/Manage Section",
           ],
         },
       ],
@@ -137,8 +153,11 @@ const sidebars = {
           type: 'category',
           label: 'Clients',
           items: [
-            'user-guide/5day.io Features/Clients/Intro to Clients',
-          ]
+            "user-guide/5day.io Features/Clients/Clients",
+            "user-guide/5day.io Features/Clients/Create Client",
+            "user-guide/5day.io Features/Clients/Edit Client",
+            "user-guide/5day.io Features/Clients/Delete Client",
+          ],
         },
         {
           type: 'category',
@@ -156,14 +175,17 @@ const sidebars = {
           type: 'category',
           label: 'Import',
           items: [
-            'user-guide/5day.io Features/Import/Intro to Import',
+            "user-guide/5day.io Features/Import/Data Import",
+            "user-guide/5day.io Features/Import/Import People",
+            "user-guide/5day.io Features/Import/Import Tasks",
           ]
         },
         {
           type: 'category',
           label: 'Sprint Management',
           items: [
-            'user-guide/5day.io Features/Sprint Management/Intro to Sprint Management',
+            'user-guide/5day.io Features/Sprint Management/Sprint Management',
+            'user-guide/5day.io Features/Sprint Management/Managing Sprint Management',
           ]
         },
         {
@@ -171,6 +193,10 @@ const sidebars = {
           label: 'Status Workflows',
           items: [
             'user-guide/5day.io Features/Status Workflows/Intro to Status Workflows',
+            "user-guide/5day.io Features/Status Workflows/Add Status Workflow",
+            "user-guide/5day.io Features/Status Workflows/Edit Status Workflow",
+            "user-guide/5day.io Features/Status Workflows/Delete Status Workflow",
+            "user-guide/5day.io Features/Status Workflows/Assign Status Workflow to Task Types",
           ]
         },
         {
@@ -178,18 +204,25 @@ const sidebars = {
           label: 'Task Types',
           items: [
             'user-guide/5day.io Features/Task Types/Intro to Task Types',
+            "user-guide/5day.io Features/Task Types/Create Task Type",
+            "user-guide/5day.io Features/Task Types/Edit Task Type",
+            "user-guide/5day.io Features/Task Types/Delete Task Type",
+            "user-guide/5day.io Features/Task Types/Add Task Type",
           ]
         },
         {
           type: 'category',
           label: 'Templates',
           items: [
-            'user-guide/5day.io Features/Templates/Intro to Templates',
+            'user-guide/5day.io Features/Templates/Templates',
+            "user-guide/5day.io Features/Templates/Create Project Template",
+            "user-guide/5day.io Features/Templates/Edit Template",
+            "user-guide/5day.io Features/Templates/Delete Template",
           ]
         },
       ]
     },
-     {
+    {
       type: 'category',
       label: 'Views',
       items: [
@@ -197,33 +230,59 @@ const sidebars = {
           type: 'category',
           label: 'List View',
           items: [
-            'user-guide/Views/List View/Intro of List View',
-            // 'user-guide/Views/List View/Customize List View',
-            // 'user-guide/Views/List View/Sort in List View',
-            // 'user-guide/Views/List View/Filter in List View',
-            // 'user-guide/Views/List View/Intro of List View',
-            // 'user-guide/Views/List View/Intro of List View',
+            'user-guide/Views/List View/Intro to List View',
+            'user-guide/Views/List View/Customize List View',
+            'user-guide/Views/List View/Sort in List View',
+            'user-guide/Views/List View/Filter in List View',
+            'user-guide/Views/List View/Group By in List View',
+            'user-guide/Views/List View/List View Features',
           ]
         },
         {
           type: 'category',
           label: 'Board View',
           items: [
-            'user-guide/Views/Board View/Intro of Board View',
+            "user-guide/Views/Board View/Intro to Board View",
+            "user-guide/Views/Board View/Customize Board View",
+            "user-guide/Views/Board View/Sort in Board View",
+            "user-guide/Views/Board View/Filter in Board View",
+            "user-guide/Views/Board View/Group By in Board View",
+            "user-guide/Views/Board View/Board View Features",
           ]
         },
         {
           type: 'category',
           label: 'Timeline View',
           items: [
-            'user-guide/Views/Timeline View/Intro of Timeline View',
+            "user-guide/Views/Timeline View/Intro to Timeline View",
+            "user-guide/Views/Timeline View/Filter in Timeline View",
+            "user-guide/Views/Timeline View/Group By in Timeline View",
+            "user-guide/Views/Timeline View/Timeline View Date Range",
+            "user-guide/Views/Timeline View/Timeline View Zoom In-Zoom Out",
           ]
         },
         {
           type: 'category',
           label: 'Timesheet View',
           items: [
-            'user-guide/Views/Timesheet View/Timesheet View',
+            "user-guide/Views/Timesheet View/Intro to Timesheet",
+            "user-guide/Views/Timesheet View/Add Time Task Details",
+            "user-guide/Views/Timesheet View/Bulk Time Entry Form",
+            "user-guide/Views/Timesheet View/Time Entry Form",
+            "user-guide/Views/Timesheet View/List View Timesheet",
+            "user-guide/Views/Timesheet View/Day View Timesheet",
+            "user-guide/Views/Timesheet View/Week View Timesheet",
+            "user-guide/Views/Timesheet View/Month View Timesheet",
+            "user-guide/Views/Timesheet View/Edit Time Entry",
+            "user-guide/Views/Timesheet View/Delete Time Entry",
+            "user-guide/Views/Timesheet View/Timesheet Feature",
+            "user-guide/Views/Timesheet View/Timesheet Settings",
+            "user-guide/Views/Timesheet View/Timesheet Summary",
+            "user-guide/Views/Timesheet View/View Time Logged",
+            "user-guide/Views/Timesheet View/Managing Time Approvals",
+            "user-guide/Views/Timesheet View/Time Approval Settings",
+            "user-guide/Views/Timesheet View/Time Approval",
+            "user-guide/Views/Timesheet View/Time Entries Approval",
           ]
         },
         {
@@ -287,11 +346,53 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Account Management',
+      items: [
+        {
+          type: 'category',
+          label: 'Account Settings',
+          items: [
+            'user-guide/Account Management/Account Settings/Account Settings',
+            'user-guide/Account Management/Account Settings/Account Profile',
+            'user-guide/Account Management/Account Settings/Access Account Profile',
+            'user-guide/Account Management/Account Settings/Manage Account Profile',
+            'user-guide/Account Management/Account Settings/Work Schedule',
+            'user-guide/Account Management/Account Settings/Create Work Schedule',
+            'user-guide/Account Management/Account Settings/Edit Work Schedule',
+            'user-guide/Account Management/Account Settings/Delete Work Schedule',
+            'user-guide/Account Management/Account Settings/People Section',
+            'user-guide/Account Management/Account Settings/Invite New User',
+            'user-guide/Account Management/Account Settings/Remove User',
+            'user-guide/Account Management/Account Settings/Change Account Owner',
+            'user-guide/Account Management/Account Settings/Change Organization Logo',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Roles and Permissions',
+          items: [
+            'user-guide/Account Management/Roles Permissions/Intro to Security Permissions',
+            'user-guide/Account Management/Roles Permissions/Global and Feature Permission',
+            'user-guide/Account Management/Roles Permissions/Create Custom Roles',
+            'user-guide/Account Management/Roles Permissions/Account Admin Role',
+            'user-guide/Account Management/Roles Permissions/Account Owner Role',
+            'user-guide/Account Management/Roles Permissions/External Member Role',
+            'user-guide/Account Management/Roles Permissions/Guest Role',
+            'user-guide/Account Management/Roles Permissions/Manager Role',
+            'user-guide/Account Management/Roles Permissions/Member Role',
+            'user-guide/Account Management/Roles Permissions/Edit Roles',
+            'user-guide/Account Management/Roles Permissions/Delete Role',
+          ],
+        }
+      ],
+    },
+    {
+      type: 'category',
       label: 'My Space',
       items: [
         'user-guide/My Space/My Work',
         'user-guide/My Space/My Timesheet',
-        'user-guide/My Space/My Reminder',
+        'user-guide/My Space/My Reminders',
         'user-guide/My Space/My Calendar',
       ],
     },
@@ -299,9 +400,11 @@ const sidebars = {
       type: 'category',
       label: 'General',
       items: [
-        'user-guide/General/General'
+        "user-guide/General/Quick Add",
+        "user-guide/General/Notifications",
+        "user-guide/General/Global Search",
       ],
-    },  
+    },
     {
       type: 'category',
       label: 'Integrations',
@@ -310,39 +413,48 @@ const sidebars = {
           type: 'category',
           label: 'Microsoft Teams',
           items: [
-            'user-guide/Integrations/Microsoft Teams/Intro to Integration with Microsoft Teams',
+            "user-guide/Integrations/Microsoft Teams/Intro to Microsoft Teams Integration",
+            "user-guide/Integrations/Microsoft Teams/Connect an App",
+            "user-guide/Integrations/Microsoft Teams/Create Task via Teams",
+            "user-guide/Integrations/Microsoft Teams/List of Commands",
           ]
         },
         {
           type: 'category',
           label: 'Slack',
           items: [
-            'user-guide/Integrations/Slack/Intro to Integration with Slack',
+            "user-guide/Integrations/Slack/Intro to Slack Integration",
+            "user-guide/Integrations/Slack/Connect an App",
+            "user-guide/Integrations/Slack/Create Task via Slack",
+            "user-guide/Integrations/Slack/List of Commands",
           ]
         },
         {
           type: 'category',
           label: 'Zapier',
           items: [
-            'user-guide/Integrations/Zapier/Intro to Integration with Zapier',
+            "user-guide/Integrations/Zapier/Intro to Zapier Integration",
+            "user-guide/Integrations/Zapier/Triggers",
+            "user-guide/Integrations/Zapier/Actions",
           ]
         },
         {
           type: 'category',
           label: 'Google Calendar',
           items: [
-            'user-guide/Integrations/Calendar/Google Calendar/Intro to Google Calendar Integration',
+            "user-guide/Integrations/Google Calendar/Intro to Google Calendar Integration",
+            "user-guide/Integrations/Google Calendar/Sync Google Calendars",
           ]
         }
       ],
     },
-    {
-      type: 'category',
-      label: 'Use Cases',
-      items: [
-        'user-guide/Use Cases/Intro to Use Cases',
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Use Cases',
+    //   items: [
+    //     'user-guide/Use Cases/Intro to Use Cases',
+    //   ],
+    // },
     {
       type: 'category',
       label: 'Videos',
