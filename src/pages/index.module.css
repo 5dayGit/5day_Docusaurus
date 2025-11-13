@@ -6,7 +6,7 @@
 .outerHeaderContainer {
   padding-left: 4rem;
   padding-right: 4rem;
-  background-color: var(--ifm-background-surface-color);
+  background-color: var( --ifm-background-color);
 }
 
 @media (max-width: 768px) {
@@ -29,6 +29,7 @@
   justify-content: center;
   min-height: 400px;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .heroContent {
@@ -56,6 +57,7 @@
 .heroText {
   flex: 1;
   text-align: left;
+  color: var(--ifm-color-emphasis-700);
 }
 
 .heroText h1 {
@@ -77,13 +79,6 @@
   gap: 0.5rem;
 }
 
-.searchInput {
-  flex: 1;
-  padding: 0.75rem 1rem;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  font-size: 1rem;
-}
 
 .searchButton {
   background: #000;
@@ -224,13 +219,9 @@
   padding-bottom: 37px;
   padding-left: 31px;
   border-width: 1px;
-  border-color: #E5E5E5;
+  border-color: #e5e5e5;
 }
 
-.quickLinkCard:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
-}
 
 .quickLinkCard h3 {
   font-size: 1.1rem;
@@ -271,5 +262,83 @@
 @media (max-width: 640px) {
   .cardsGrid {
     grid-template-columns: repeat(1, 1fr);
+  }
+}
+/* -------------------------------------------------- */
+/* Dark Mode Styling for Homepage */
+/* -------------------------------------------------- */
+[data-theme="dark"] {
+  /* --- HERO BANNER --- */
+  /* .heroBanner {
+    background: linear-gradient(
+      180deg,
+      rgba(60, 60, 60, 0.6) 0%,
+      rgba(70, 70, 70, 0.6) 50%,
+      rgba(85, 85, 85, 0.6) 100%
+    );
+    border-radius: 12px;
+  } */
+
+  .heroText h1 {
+    color: #f5f5f5 !important;
+  }
+
+  .heroText p {
+    color: #ccc !important;
+  }
+
+  .searchButton {
+    background: #ff8a00;
+    color: #000;
+  }
+
+  .searchButton:hover {
+    background: #e67e00;
+  }
+
+  /* --- CARD GRID / QUICKLINK CARDS --- */
+  .cardsGrid {
+    background: transparent;
+  }
+
+  .quickLinkCard {
+    background-color: #2a2a2a !important;
+    border-color: #3a3a3a !important;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.35) !important;
+  }
+
+  .quickLinkCard:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.45) !important;
+    border-color: var(--ifm-color-primary) !important;
+  }
+
+  .quickLinkCard h3 {
+    color: #fff !important;
+  }
+
+  .quickLinkCard p {
+    color: #ccc !important;
+  }
+
+  .cardIcon {
+    color: #ffb84d !important;
+  }
+
+  /* --- POPULAR TOPICS --- */
+  .popularTopics h3 {
+    color: #f5f5f5 !important;
+  }
+
+  .topicList a {
+    color: #ffb84d !important;
+  }
+  .topicList a:hover {
+    color: #ffa733 !important;
+  }
+
+  /* --- OUTER HEADER BACKGROUND --- */
+  .outerHeaderContainer {
+    background-color: #2a2a2a !important;
   }
 }

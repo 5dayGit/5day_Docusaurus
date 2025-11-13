@@ -143,6 +143,7 @@ config.plugins = [
       indexBaseUrl: true,
     },
   ],
+  "./plugins/copyLunrIndex",
 ];
 
 export default config;

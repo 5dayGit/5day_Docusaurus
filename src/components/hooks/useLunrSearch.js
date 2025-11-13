@@ -10,8 +10,8 @@ export default function useLunrSearch() {
     async function loadIndex() {
       try {
         const [indexRes, docRes] = await Promise.all([
-          fetch('/lunr-index.json'),
-          fetch('/search-doc.json')
+          fetch('/lunr/lunr-index.json'),
+          fetch('/lunr/search-doc.json')
         ]);
 
         if (!indexRes.ok || !docRes.ok) {

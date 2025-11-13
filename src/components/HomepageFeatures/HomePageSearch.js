@@ -21,8 +21,8 @@ export default function HomepageSearch() {
     async function loadIndex() {
       try {
         const [indexRes, docsRes] = await Promise.all([
-          fetch('/lunr-index.json'),
-          fetch('/search-doc.json'),
+          fetch('/lunr/lunr-index.json'),
+          fetch('/lunr/search-doc.json'),
         ]);
         const indexJson = await indexRes.json();
         const docJson = await docsRes.json();

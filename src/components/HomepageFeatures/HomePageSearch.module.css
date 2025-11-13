@@ -93,3 +93,9 @@
   font-size: 0.85rem;
   color: #777;
 }
+
+[data-theme="dark"] .searchInput{
+    background-color: rgb(191 178 200) !important;
+    color: black !important;
+    border: 1px solid #444 !important;
+  }
