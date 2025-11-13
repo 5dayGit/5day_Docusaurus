@@ -19,3 +19,6 @@ You will now have two options:
   - Once they accept the invitation and join, you can select them as the new account owner.
 
 After selecting or inviting the new owner, confirm the change to complete the process.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/5dfe5374-0234-4d22-9d72-31858e462c9e" />
+
