@@ -6,6 +6,10 @@ You can edit a section in 5day.io using two simple methods:
 1. **Click the Section Name**: Click directly on the name of the section you want to rename.\
    The section name box will automatically become editable.
 1. **Rename the Section**: Enter the new name, and it will be updated automatically—no need to click a save button.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/bf3670a6-0748-402c-8e42-71ee00db7405" />
+
+
 ### **Option 2: Using the Three-Dot Menu**
 1. **Open the Project**: Click on the project where the section is located.
 1. **Expand the Section List**: Use the arrow icon beside the project name to expand and view all sections.
@@ -14,6 +18,6 @@ You can edit a section in 5day.io using two simple methods:
    The section name will become editable.
 1. **Enter the New Name**: Type the new section name. The change will be saved automatically without needing to click a save button.
 
-<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/bf3670a6-0748-402c-8e42-71ee00db7405" />
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/773fb543-69fb-4f42-b410-c000f969147f" />
 
 
