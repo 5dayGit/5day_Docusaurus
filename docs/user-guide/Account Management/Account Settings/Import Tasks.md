@@ -5,7 +5,6 @@ This feature is especially useful when migrating tasks from spreadsheets or othe
 ### **Steps to Import Tasks (Account Level)**
 1. **Go to Account Settings**
    1. Click on **Data Import History** from the sidebar.
-      ### IMAGE
 1. **Click + Import**
    1. A confirmation box will open.
 1. **Choose Import Type and Project**
@@ -20,6 +19,9 @@ This feature is especially useful when migrating tasks from spreadsheets or othe
    1. Open the file and input your tasks in the **Template** sheet.
    1. Use the **Guidelines** sheet for field formats and required values.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/cbffe5c6-2715-4175-a023-5229670eee96" />
+
+
 1. **Upload and Import the File**
    1. Once your file is ready, return to the import window in 5day.io.
    1. In the import popup, click **Upload from computer** and select your filled Excel file.
@@ -29,7 +31,6 @@ This feature is especially useful when migrating tasks from spreadsheets or othe
 Once the file is processed, you’ll see it listed in the **Data Import History** table.
 
 You’ll be able to view:
-   ### IMAGE
 - **Date and Time of import**
 - **File Name**
 - **Imported By**
