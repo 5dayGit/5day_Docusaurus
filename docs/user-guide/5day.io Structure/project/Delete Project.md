@@ -8,3 +8,6 @@ To delete a project in 5day.io, follow these steps:
 1. **Click on 'Delete'**: From the dropdown, select the **Delete** option.
 1. **Confirm Deletion**: A confirmation box will appear. Click **Yes** to confirm that you want to delete the project.
 1. **Project Deleted**: Once confirmed, the project will be permanently deleted from the system.
+
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/7a754767-3f05-464f-a799-e30a84f661d4" />
