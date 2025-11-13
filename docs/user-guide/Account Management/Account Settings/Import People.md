@@ -7,12 +7,15 @@ This is especially useful when onboarding an entire team or migrating users from
    1. Navigate to the top menu and click **Account Settings**.
 1. **Open Data Import History**
    1. From the sidebar, click on **Data Import History**.
-         ### IMAGE
 1. **Click + Import**
    1. In the top-right, click the **+ Import** button to start the import process.
 1. **Select 'People' as Import Type**
    1. A confirmation box will appear.
    1. Choose **People** as the data type you want to import.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/237edcf8-8cf6-47b1-be5d-f30384a6332d" />
+
+
 1. **Download the Sample Template**
    1. Click **Download Sample File**.
    1. The Excel file will contain:
@@ -27,7 +30,6 @@ This is especially useful when onboarding an entire team or migrating users from
 
 ### **After the Import**
 Once the import is complete, the import record will appear in the **Data Import History** table with key information such as:
-   ### IMAGE
 - **Date and Time**
 - **Imported By**
 - **Import Type** (People)
