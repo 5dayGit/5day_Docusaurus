@@ -30,6 +30,9 @@ Number Chart for Tasks: Highlights a key metric as a single, bold number — lik
 
 Table view for Tasks: Organizes task details in a structured table format for easy sorting, filtering, and comparison.
 
+<img width="1022" height="312" alt="image" src="https://github.com/user-attachments/assets/dc92ec9f-4344-4acc-82ed-67d394df20bf" />
+
+
 ## Time Entry Widgets
 
 Timesheet Widgets focus on time tracking and work hours logged by team members.  
@@ -63,6 +66,9 @@ Sprint Burn Up Chart: Shows completed work compared to the total scope.
 Sprint Burn Down Chart: Displays remaining work over the sprint timeline.
 
 Velocity Chart: Visualizes the amount of work completed sprint-over-sprint.
+
+<img width="273" height="44" alt="image" src="https://github.com/user-attachments/assets/d67d87cc-4f69-4624-8afc-58b45243d52b" />
+
 
 **Quick Note**
 Sprint charts are available at the **Project Dashboard** only and are **not available** at the **Section Dashboard**.
