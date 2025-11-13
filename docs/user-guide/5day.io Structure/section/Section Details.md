@@ -27,7 +27,7 @@ The **Section Details** in 5day.io provide a complete snapshot of a section’s 
 - **Description**\
   A free-text field where you can add notes, context, or any additional details about the section.
 
-  <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/18d82f83-48c7-4198-8e54-aaeeae518945" />
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/d0d0a284-1c7c-4336-bdad-0737409ac44f" />
 
 
 **Note:**
