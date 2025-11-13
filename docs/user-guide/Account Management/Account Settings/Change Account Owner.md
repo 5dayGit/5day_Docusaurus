@@ -5,7 +5,6 @@ To change the Account Owner in 5day.io, users must go to their **Account Profile
 Inside the Account Profile:
 
 1. Click on the **Profile** tab.
-  ### IMAGE
 1. Under the **Account Owner** section, you will see the current account owner's name along with the option to **Change Owner**.
 1. Click on the **Change Owner** button.
 
