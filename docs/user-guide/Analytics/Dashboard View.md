@@ -34,6 +34,9 @@ Follow these simple steps to manage the visibility of dashboard view in project/
  4. You can enable/disable view. 
  5. You can also change the order of the view to display in project views panel.
 
+ <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/40334951-42cd-4c99-9fa7-598d5ae77110" />
+
+
 ## Access Dashboard View
 
 Follow these simple steps to access and manage the Dashboard in 5day.io.
@@ -42,3 +45,6 @@ Follow these simple steps to access and manage the Dashboard in 5day.io.
 2.  Select the specific **Project/Section**  you want to open.
 3.  In the project/section views, **switch to "Dashboard" view** using the view selector.
 4.  You can now **add, edit, or delete widgets** within the project or section dashboard based on your permissions.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/f72c36c3-6f85-4b81-8872-8b309ce69f6d" />
+
