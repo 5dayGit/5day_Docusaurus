@@ -24,4 +24,7 @@ Filters are flexible and can be applied across all widgets - Bar Chart, Line Cha
 7.  To add more conditions, click **+ Add Filter** again.
 8.  After configuring the filters, click **Create Widget/Update Widget** to apply them to your widget.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/9066cedc-2d37-41a2-aa54-7f47758c7f3c" />
+
+
 The widget will now display the data according to the applied filters.
