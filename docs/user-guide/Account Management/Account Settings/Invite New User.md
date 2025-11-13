@@ -3,7 +3,6 @@
    Click on your **Profile Icon** and select **Account Settings**.
 1. **Open People Section:**\
    Inside Account Settings, click on the **People** tab to manage users.
-      ### IMAGE
 1. **Click on Invite New:**
    1. In the People section, click on the **Invite New** button.
 1. **Choose How to Invite:**\
