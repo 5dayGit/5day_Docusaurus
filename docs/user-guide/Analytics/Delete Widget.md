@@ -11,6 +11,9 @@ To delete an existing widget:
 5.  A **confirmation screen** will appear for you to confirm the deletion.
 6.  Upon confirmation, the widget will be **permanently deleted** from the Dashboard.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/92fc2be8-4111-4b09-bc0f-8842d90091d4" />
+
+
 ✅ Deleted widgets cannot be recovered once removed.
 
 ## Other References
