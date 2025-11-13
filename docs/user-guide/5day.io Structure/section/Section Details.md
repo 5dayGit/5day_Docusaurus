@@ -27,6 +27,9 @@ The **Section Details** in 5day.io provide a complete snapshot of a section’s 
 - **Description**\
   A free-text field where you can add notes, context, or any additional details about the section.
 
+  <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/18d82f83-48c7-4198-8e54-aaeeae518945" />
+
+
 **Note:**
 
 For Total Estimation, Remaining Work, and Completed Work, you’ll find icons that let you toggle between viewing data in hours (time) or story points. This flexibility helps teams monitor progress using the metric that best aligns with their workflow.
@@ -38,12 +41,16 @@ You can access **Section Details** in 5day.io in two simple ways:
 ### **Option 1: Using the 'Show Details' Button**
 1. **Open the Project**: Click on the project where the section is located.
 1. **View Section List**: You’ll see a list of all sections within the project.
-    ### IMAGE
 1. **Click 'Show Details'**: Next to each section name, there is a **Show Details** button.\
    Click this button to open and view the section details.
+
+   <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/5441b2f1-7c6a-45c4-af4d-5e10867de848" />
+
 ### **Option 2: Using the Three-Dot Menu**
 1. **Open the Project**: Click on the project where you want to view section details.
 1. **Expand the Section List**: Use the arrow icon beside the project name to expand and view all sections.
 1. **Access the Menu**: Next to each section, you’ll see a **three-dot menu** (⋮).
-    ### IMAGE
 1. **Click 'Section Details'**: From the menu, select **Section Details** to view detailed information for that section.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/a646ec58-0a85-45ff-bcfe-917e1f008b05" />
+
