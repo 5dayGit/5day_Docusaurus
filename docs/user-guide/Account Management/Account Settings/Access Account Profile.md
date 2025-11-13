@@ -13,4 +13,4 @@ To access your Account Profile:
    1. **Profile Settings** (Account Name, Country, Description, Logo, etc.)
    1. **Display Settings** (Time Zone, Language, Layout, Theme, etc.)
 
-<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/98173336-0588-451e-9bf2-93dd9b6d45be" />
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/e8182eb3-78a6-462c-8512-c85f5c1cea67" />
