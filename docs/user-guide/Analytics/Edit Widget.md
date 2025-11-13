@@ -12,6 +12,9 @@ To edit an existing widget:
 
 ✅ The widget will immediately update on the Dashboard based on the new settings.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/888dbc13-8b43-484c-9330-7ddbae3e1c6a" />
+
+
 ## Other References
 
 For more details about widget types, refer [Widget Type](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Widget%20Types.md)
