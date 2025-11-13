@@ -7,4 +7,7 @@ Refreshing ensures that your dashboard displays the most up-to-date information 
 
 **Individual Widget Refresh:** Hover over a specific widget to reveal the **Refresh** icon.  
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/40c9c2a0-bdda-425d-b21d-66a67eac29a2" />
+
+
 Clicking this icon will refresh only that widget, allowing you to update individual components without reloading the whole dashboard.
