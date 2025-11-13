@@ -1,7 +1,7 @@
 ## **Edit a Work Schedule**
 1. **Go to Work Schedule:**\
    Navigate to **Account Settings → General → Work Schedule**.
-1. **Select the Work Schedule to Edit:**\
+1. **Select the Work Schedule to Edit:**
       ### IMAGE
    From the list of work schedules, click on the name of the work schedule you want to update.
 1. **Make Your Changes:**\
@@ -14,6 +14,9 @@
       1. Add new holidays.
       1. Edit existing holidays (update name or date).
       1. Remove holidays if required.
+
 1. **Auto-Save:**\
-   All changes you make are **automatically saved** in real time.\
+   All changes you make are **automatically saved** in real time.
    You do not need to manually click any Save button.
+
+ <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/1d171d9f-2970-4c52-aa44-6d1f696e3890" />
