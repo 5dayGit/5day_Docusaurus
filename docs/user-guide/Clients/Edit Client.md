@@ -15,4 +15,7 @@ In 5day.io, you can easily edit client information, such as the client name and 
    1. Once removed, an **Upload Logo** option will appear.
    1. Upload the new logo.
 
+   <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/29300754-6b67-4047-8d74-5b6c23207114" />
+
+
 ✅ Changes to the client’s name or logo are automatically saved once updated.
