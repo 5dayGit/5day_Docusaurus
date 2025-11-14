@@ -1,4 +1,4 @@
-In 5day.io, **Workspace** serves as the highest level of organization within your account. It allows you to manage multiple departments, teams, or business units separately while keeping everything connected within the same ecosystem.
+In 5day.io, **Workspace** serves as the highest level of organization within your account. It allows you to manage multiple departments, teams, or business units separately while keeping everything connected within the same ecosystem. ----
 
 ## Subscription Association
 
