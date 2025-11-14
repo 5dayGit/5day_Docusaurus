@@ -52,7 +52,7 @@ function QuickLinks() {
     {
       title: 'Views',
       description: 'Discover different types to visualize your work-List, Board, Timeline and more.',
-      to: '/docs/user-guide/Views/List%20View/Intro%20of%20List%20View',
+      to: '/docs/user-guide/Views/List%20View/Intro%20to%20List%20View',
       icon: '/img/quicklinks/Views.svg'
     },
     {
@@ -70,21 +70,21 @@ function QuickLinks() {
     {
       title: 'General',
       description: 'Find answers to common questions, settings and overall platform guidance.',
-      to: '/docs/user-guide/General',
+      to: '/docs/user-guide/General/Quick%20Add',
       icon: '/img/quicklinks/General.svg'
     },
     {
       title: 'Integration',
       description: 'Learn how to connect 5day.io to your favourite tool for a seamless workflow.',
-      to: '/docs/user-guide/Integrations/Microsoft%20Teams/Intro%20to%20Integration%20with%20Microsoft%20Teams',
+      to: '/docs/user-guide/Integrations/Microsoft%20Teams/Intro%20to%20Microsoft%20Teams%20Integration',
       icon: '/img/quicklinks/Integration.svg'
     },
-    {
-      title: 'Videos',
-      description: 'Watch quick tutorials and demos to learn 5day.io features in actions.',
-      to: '/docs/user-guide/Videos',
-      icon: '/img/quicklinks/Video.svg'
-    },
+    // {
+    //   title: 'Videos',
+    //   description: 'Watch quick tutorials and demos to learn 5day.io features in actions.',
+    //   to: '/docs/user-guide/Videos',
+    //   icon: '/img/quicklinks/Video.svg'
+    // },
   ];
   return (
     <section className={styles.quickLinks}>

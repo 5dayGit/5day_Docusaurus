@@ -455,13 +455,13 @@ const sidebars = {
     //     'user-guide/Use Cases/Intro to Use Cases',
     //   ],
     // },
-    {
-      type: 'category',
-      label: 'Videos',
-      items: [
-        'user-guide/Videos/Videos',
-      ],
-    }
+    // {
+    //   type: 'category',
+    //   label: 'Videos',
+    //   items: [
+    //     'user-guide/Videos/Videos',
+    //   ],
+    // }
   ],
 
 
