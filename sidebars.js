@@ -414,7 +414,7 @@ const sidebars = {
           label: 'Microsoft Teams',
           items: [
             "user-guide/Integrations/Microsoft Teams/Intro to Microsoft Teams Integration",
-            "user-guide/Integrations/Microsoft Teams/Connect an App",
+            "user-guide/Integrations/Microsoft Teams/Connect your microsoft teams account",
             "user-guide/Integrations/Microsoft Teams/Create Task via Teams",
             "user-guide/Integrations/Microsoft Teams/List of Commands",
           ]
