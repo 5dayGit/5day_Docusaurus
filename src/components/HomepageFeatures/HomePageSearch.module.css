@@ -3,6 +3,7 @@
   max-width: 650px;
   width: 100%;
   margin: 0;
+  z-index: 50 !important;
 }
 
 .searchBox {
@@ -22,10 +23,11 @@
   background: #000;
   color: #fff;
   border: none;
-  border-radius: 10px;
   padding: 0.75rem 1.2rem;
+  border-radius: 8px;
   font-weight: 600;
   cursor: pointer;
+  transition: background 0.2s ease;
 }
 
 .suggestions {
@@ -34,6 +36,10 @@
   gap: 0.5rem;
   margin-top: 0.75rem;
   justify-content: flex-start;
+}
+
+.showingResults .suggestions {
+  display: none;
 }
 
 .suggestionChip {
@@ -56,7 +62,7 @@
 /* Dropdown Results */
 .dropdown {
   position: absolute;
-  top: 100%;
+  top: calc(100% + 4px);
   left: 0;
   right: 0;
   background: #fff;
@@ -64,7 +70,7 @@
   border: 1px solid #eee;
   margin-top: 0.4rem;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  z-index: 100;
+  z-index: 50 !important;
   max-height: 320px;
   overflow-y: auto;
 }

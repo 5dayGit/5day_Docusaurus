@@ -45,60 +45,63 @@ function QuickLinks() {
     {
       title: '5day.io Structure',
       description: 'Understand how spaces, and projects come together to organize the work.',
-      to: '/docs/user-guide/5day.io%20Structure/5day.io%20Structure/Intro%20to%205day.io%20Structure'
+      to: '/docs/user-guide/5day.io%20Structure/5day.io%20Structure/Intro%20to%205day.io%20Structure',
+      icon: '/img/quicklinks/Strucutre.svg'
     },
     {
       title: '5day.io Features',
       description: 'Explore all the tools and features that make 5day.io powerful and flexible.',
-      to: '/docs/user-guide/5day.io%20Features/Automation/Intro%20to%20Automation'
+      to: '/docs/user-guide/5day.io%20Features/Automation/Intro%20to%20Automation',
+      icon: '/img/quicklinks/Feature.svg'
     },
     {
       title: 'Views',
       description: 'Discover different types to visualize your work-List, Board, Timeline and more.',
-      to: '/docs/user-guide/Views/List%20View/Intro%20of%20List%20View'
+      to: '/docs/user-guide/Views/List%20View/Intro%20of%20List%20View',
+      icon: '/img/quicklinks/Views.svg'
     },
     {
       title: 'Dashboard',
       description: 'Track Progress, performance and key insights across your project in one place.',
-      to: '/docs/user-guide/Analytics/Overview%20of%20Dashboard'
+      to: '/docs/user-guide/Analytics/Overview%20of%20Dashboard',
+      icon: '/img/quicklinks/Dashboard.svg'
     },
     {
       title: 'My Space ',
       description: 'Customize your personal space to focus on what matters most to you.',
-      to: '/docs/user-guide/My%20Space/My%20Work'
+      to: '/docs/user-guide/My%20Space/My%20Work',
+      icon: '/img/quicklinks/My Space.svg'
     },
     {
       title: 'General',
       description: 'Find answers to common questions, settings and overall platform guidance.',
-      to: '/docs/user-guide/General'
+      to: '/docs/user-guide/General',
+      icon: '/img/quicklinks/General.svg'
     },
     {
       title: 'Integration',
       description: 'Learn how to connect 5day.io to your favourite tool for a seamless workflow.',
-      to: '/docs/user-guide/Integrations/Microsoft%20Teams/Intro%20to%20Integration%20with%20Microsoft%20Teams'
+      to: '/docs/user-guide/Integrations/Microsoft%20Teams/Intro%20to%20Integration%20with%20Microsoft%20Teams',
+      icon: '/img/quicklinks/Integration.svg'
     },
     {
       title: 'Videos',
       description: 'Watch quick tutorials and demos to learn 5day.io features in actions.',
-      to: '/docs/user-guide/Videos'
+      to: '/docs/user-guide/Videos',
+      icon: '/img/quicklinks/Video.svg'
     },
-    // {
-    //   title: 'Use Cases',
-    //   description: '',
-    //   to: '/docs/user-guide/Use%20Cases/Intro%20to%20Use%20Cases'
-    // }
   ];
   return (
     <section className={styles.quickLinks}>
       <div className="container">
-        <Heading as="h2" className="text--left margin-bottom--lg">
+        <Heading as="h1" className="text--left margin-bottom--lg">
           Start exploring Yourself
         </Heading>
         <p className="hero__subtitle">Dive into the sections you want to explore.</p>
         <div className={styles.cardsGrid}>
           {links.map((link, idx) => (
             <Link key={idx} to={link.to} className={styles.quickLinkCard}>
-              <div className={styles.cardIcon}>{link.icon}</div>
+              <div className={styles.cardIcon}><img src={link.icon} alt={link.title}/></div>
               <h3>{link.title}</h3>
               <p>{link.description}</p>
             </Link>

@@ -11,10 +11,7 @@ export default function HomepageSearch() {
 
   const suggestions = [
     'How to setup a project?',
-    'Make custom status',
-    'Create custom fields',
-    'Invite teammates',
-    'Track progress',
+    'Workspace Details',
   ];
 
   useEffect(() => {
@@ -24,24 +21,45 @@ export default function HomepageSearch() {
           fetch('/lunr/lunr-index.json'),
           fetch('/lunr/search-doc.json'),
         ]);
+
         const indexJson = await indexRes.json();
-        const docJson = await docsRes.json();
-        const idx = lunr.Index.load(indexJson);
-        setIndex(idx);
-        setDocs(docJson);
+        const docsJson = await docsRes.json();
+
+        const lunrIndex = lunr.Index.load(indexJson);
+
+        // Extract real docs array
+        const docList = docsJson.searchDocs;
+
+        // Map: lunr ref → actual document
+        const docsById = {};
+        docList.forEach((doc, idx) => {
+          docsById[idx] = doc;
+        });
+
+        setIndex(lunrIndex);
+        setDocs(docsById);
+
       } catch (err) {
         console.error('Failed to load Lunr index:', err);
       }
     }
     loadIndex();
+  }, []);
 
+  useEffect(() => {
     const handleClickOutside = (e) => {
       if (containerRef.current && !containerRef.current.contains(e.target)) {
         setResults([]);
       }
     };
-    document.addEventListener('mousedown', handleClickOutside);
-    return () => document.removeEventListener('mousedown', handleClickOutside);
+
+    document.addEventListener("mousedown", handleClickOutside);
+    document.addEventListener("touchstart", handleClickOutside);
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+      document.removeEventListener("touchstart", handleClickOutside);
+    };
   }, []);
 
   const performSearch = (value) => {
@@ -49,11 +67,13 @@ export default function HomepageSearch() {
       setResults([]);
       return;
     }
-    const found = index.search(value).map((r) => ({
-      ...docs.find((d) => d.id === r.ref),
-      score: r.score,
-    }));
-    setResults(found.slice(0, 6));
+
+    const found = index.search(value).map((r) => {
+      const doc = docs[r.ref]; // docs is now docsById
+      return doc ? { ...doc, score: r.score } : null;
+    }).filter(Boolean);
+
+    setResults(found.slice(0, 8));
   };
 
   const handleChange = (e) => {
