@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import lunr from 'lunr';
-import styles from './HomepageSearch.module.css';
+import styles from './HomePageSearch.module.css';
 
 export default function HomepageSearch() {
   const [index, setIndex] = useState(null);
