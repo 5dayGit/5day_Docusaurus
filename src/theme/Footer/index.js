@@ -27,13 +27,13 @@ export default function CustomFooter() {
       {/* RIGHT SIDE — social icons */}
       <div className={styles.rightBlock}>
         <a href="https://www.instagram.com/5day.io/" target="_blank" rel="noreferrer">
-          <img src="/img/icons/instagram.svg" alt="Instagram" />
+          <img src="/img/icons/Instagram.svg" alt="Instagram" />
         </a>
         <a href="https://www.linkedin.com/company/5day-io" target="_blank" rel="noreferrer">
-          <img src="/img/icons/linkedin.svg" alt="LinkedIn" />
+          <img src="/img/icons/Linkedin.svg" alt="LinkedIn" />
         </a>
         <a href="https://www.youtube.com/@5day-io" target="_blank" rel="noreferrer">
-          <img src="/img/icons/youtube.svg" alt="YouTube" />
+          <img src="/img/icons/Youtube.svg" alt="YouTube" />
         </a>
       </div>
 
