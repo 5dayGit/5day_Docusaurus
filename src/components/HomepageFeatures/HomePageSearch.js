@@ -1,121 +1,80 @@
 import React, { useState, useEffect, useRef } from 'react';
 import lunr from 'lunr';
 import styles from './HomePageSearch.module.css';
+import useLunrSearch from '../hooks/useLunrSearch';
 
 export default function HomepageSearch() {
-  const [index, setIndex] = useState(null);
-  const [docs, setDocs] = useState({});
-  const [query, setQuery] = useState('');
+  const { search } = useLunrSearch();
+
+  const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
   const containerRef = useRef(null);
 
   const suggestions = [
-    'How to setup a project?',
-    'Workspace Details',
+    { text: "Create automation workflow", url: "/docs/user-guide/5day.io%20Features/Automation/Add%20Workflow" },
+    { text: "What is Task type", url: "/docs/user-guide/5day.io%20Features/Task%20Types/Intro%20to%20Task%20Types" },
+    { text: "Manage Status Workflow", url: "/docs/user-guide/5day.io%20Features/Status%20Workflows/Intro%20to%20Status%20Workflows/" },
+    { text: "Manage Widget in Dashboard", url: "/docs/user-guide/Analytics/Overview%20of%20Widgets" },
   ];
-
-  useEffect(() => {
-    async function loadIndex() {
-      try {
-        const [indexRes, docsRes] = await Promise.all([
-          fetch('/search-index.json'),
-        ]);
-
-        const indexJson = await indexRes.json();
-        const docsJson = await docsRes.json();
-
-        const lunrIndex = lunr.Index.load(indexJson);
-
-        const docsById = {};
-        docsJson.forEach(doc => {
-          docsById[doc.i] = doc;
-        });
-
-        setIndex(lunrIndex);
-        setDocs(docsById);
-      } catch (err) {
-        console.error('Failed to load Lunr index:', err);
-      }
-    }
-
-    loadIndex();
-  }, []);
-
-  // Close dropdown on outside click
-  useEffect(() => {
-    const handleClickOutside = (e) => {
-      if (containerRef.current && !containerRef.current.contains(e.target)) {
-        setResults([]);
-      }
-    };
-
-    document.addEventListener("mousedown", handleClickOutside);
-    document.addEventListener("touchstart", handleClickOutside);
-
-    return () => {
-      document.removeEventListener("mousedown", handleClickOutside);
-      document.removeEventListener("touchstart", handleClickOutside);
-    };
-  }, []);
-
-  const performSearch = (value) => {
-    if (!index || value.trim().length < 2) {
-      setResults([]);
-      return;
-    }
-
-    const found = index.search(value).map((r) => {
-      const doc = docs[r.ref];
-      if (!doc) return null;
-
-      return {
-        title: doc.t,
-        url: doc.u,
-        breadcrumbs: doc.b,
-        score: r.score,
-      };
-    }).filter(Boolean);
-
-    setResults(found.slice(0, 8));
-  };
 
   const handleChange = (e) => {
     const value = e.target.value;
     setQuery(value);
-    performSearch(value);
+    setResults(search(value));
   };
 
-  const handleSuggestionClick = (suggestion) => {
-    setQuery(suggestion);
-    performSearch(suggestion);
+  const handleSuggestionClick = (value) => {
+    setQuery(value);
+    setResults(search(value));
   };
+
+  // Close dropdown when clicking outside
+  useEffect(() => {
+    function close(e) {
+      if (containerRef.current && !containerRef.current.contains(e.target)) {
+        setResults([]);
+      }
+    }
+
+    document.addEventListener("mousedown", close);
+    document.addEventListener("touchstart", close);
+
+    return () => {
+      document.removeEventListener("mousedown", close);
+      document.removeEventListener("touchstart", close);
+    };
+  }, []);
 
   return (
     <div className={styles.searchWrapper} ref={containerRef}>
-      <div className={styles.searchBox}>
+      {/* <div className={styles.searchBox}>
         <input
           type="search"
-          placeholder=" "
           className={styles.searchInput}
+          placeholder=" "
           value={query}
           onChange={handleChange}
         />
         <button
           className={styles.searchButton}
-          onClick={() => performSearch(query)}
+          onClick={() => setResults(search(query))}
         >
           Search
         </button>
-      </div>
+      </div> */}
 
       <div className={styles.suggestions}>
-        {suggestions.map((text, idx) => (
+        {suggestions.map((item, idx) => (
           <button
             key={idx}
             className={styles.suggestionChip}
-            onClick={() => handleSuggestionClick(text)}
+            onClick={() => {
+              setQuery(item.text);
+              setResults(search(item.text));
+              window.location.href = item.url;  // navigate to the doc
+            }}
           >
-            {text}
+            {item.text}
           </button>
         ))}
       </div>
@@ -130,7 +89,6 @@ export default function HomepageSearch() {
               onClick={() => setResults([])}
             >
               <h4>{item.title}</h4>
-
               {item.breadcrumbs?.length > 0 && (
                 <p className={styles.breadcrumbs}>
                   {item.breadcrumbs.join(" › ")}

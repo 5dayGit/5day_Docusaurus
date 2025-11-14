@@ -1,0 +1,64 @@
+.footerWrapper {
+  position: relative;
+  width: 100%;
+  padding: 20px 20px;
+  padding-left: 8rem;
+  padding-right: 8rem;
+  background: #ffffff;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footerWrapper::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 8rem;     /* start after 8rem */
+  right: 8rem;    /* end before 8rem */
+  height: 1px;
+  background-color: #e6e6e6;
+  /* margin-top: 50px; */
+}
+
+/* LEFT SIDE BLOCK: column layout */
+.leftBlock {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.links {
+  display: flex;
+  gap: 22px;
+}
+
+.links a {
+  color: #555;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+.copyright {
+  font-size: 16px;
+  color: #444;
+  font-weight: 500;
+}
+
+/* RIGHT SIDE BLOCK: social icons row */
+.rightBlock {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.rightBlock img {
+  width: 26px;
+  height: 26px;
+  cursor: pointer;
+}

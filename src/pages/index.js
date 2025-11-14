@@ -39,43 +39,43 @@ function QuickLinks() {
   const links = [
     {
       title: '5day.io Structure',
-      description: 'Understand how spaces, and projects come together to organize the work.',
+      description: 'Understand how workspaces, spaces, projects and sections come together to organize your work.',
       to: '/docs/user-guide/5day.io%20Structure/5day.io%20Structure/Intro%20to%205day.io%20Structure',
       icon: '/img/quicklinks/Strucutre.svg'
     },
     {
       title: '5day.io Features',
-      description: 'Explore all the tools and features that make 5day.io powerful and flexible.',
+      description: 'Explore all the features that make 5day.io powerful and flexible.',
       to: '/docs/user-guide/5day.io%20Features/Automation/Intro%20to%20Automation',
       icon: '/img/quicklinks/Feature.svg'
     },
     {
       title: 'Views',
-      description: 'Discover different types to visualize your work-List, Board, Timeline and more.',
+      description: 'Discover different ways to visualize your work with List, Board, Timeline, and more.',
       to: '/docs/user-guide/Views/List%20View/Intro%20to%20List%20View',
       icon: '/img/quicklinks/Views.svg'
     },
     {
       title: 'Dashboard',
-      description: 'Track Progress, performance and key insights across your project in one place.',
+      description: 'Track progress, performance, and key insights of your project in one place.',
       to: '/docs/user-guide/Analytics/Overview%20of%20Dashboard',
       icon: '/img/quicklinks/Dashboard.svg'
     },
     {
       title: 'My Space ',
-      description: 'Customize your personal space to focus on what matters most to you.',
+      description: 'Your personal space to focus on what matters most to you.',
       to: '/docs/user-guide/My%20Space/My%20Work',
       icon: '/img/quicklinks/My Space.svg'
     },
     {
       title: 'General',
-      description: 'Find answers to common questions, settings and overall platform guidance.',
+      description: 'Find answers to common questions, settings, and overall platform guidance.',
       to: '/docs/user-guide/General/Quick%20Add',
       icon: '/img/quicklinks/General.svg'
     },
     {
       title: 'Integration',
-      description: 'Learn how to connect 5day.io to your favourite tool for a seamless workflow.',
+      description: 'Learn how to connect 5day.io with your favorite tools for a seamless workflow.',
       to: '/docs/user-guide/Integrations/Microsoft%20Teams/Intro%20to%20Microsoft%20Teams%20Integration',
       icon: '/img/quicklinks/Integration.svg'
     },
