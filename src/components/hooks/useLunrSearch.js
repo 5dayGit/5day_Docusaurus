@@ -9,21 +9,24 @@ export default function useLunrSearch() {
   useEffect(() => {
     async function loadIndex() {
       try {
-        const [indexRes, docRes] = await Promise.all([
-          fetch('/lunr/lunr-index.json'),
-          fetch('/lunr/search-doc.json')
+        const [indexRes, docsRes] = await Promise.all([
+          fetch('/assets/search-index.json'),
+          fetch('/assets/search-index-docs.json'),
         ]);
 
-        if (!indexRes.ok || !docRes.ok) {
-          throw new Error('Failed to load Lunr index or search docs');
-        }
+        const indexJson = await indexRes.json();
+        const docsJson = await docsRes.json();
 
-        const indexData = await indexRes.json();
-        const docData = await docRes.json();
+        const lunrIndex = lunr.Index.load(indexJson);
 
-        const idx = lunr.Index.load(indexData);
-        setIndex(idx);
-        setDocuments(docData);
+        // docsJson is an array already
+        const docsById = {};
+        docsJson.forEach(doc => {
+          docsById[doc.i] = doc;   // map by numeric ID
+        });
+
+        setIndex(lunrIndex);
+        setDocs(docsById);
       } catch (err) {
         console.error('Failed to load Lunr index:', err);
       }
@@ -31,14 +34,20 @@ export default function useLunrSearch() {
     loadIndex();
   }, []);
 
-  const search = (query) => {
-    if (!index || !query) return [];
-    const results = index.search(query);
-    return results.map(r => ({
-      ...documents.find(d => d.id === r.ref),
-      score: r.score,
-    }));
-  };
+   const found = index.search(value).map((r) => {
+      const doc = docs[r.ref];
+      if (!doc) return null;
 
-  return { search };
+      return {
+        title: doc.t,
+        url: doc.u,
+        breadcrumbs: doc.b,
+        score: r.score,
+      };
+    }).filter(Boolean);
+
+    setResults(found.slice(0, 8));
+  
+
+  return { found };
 }

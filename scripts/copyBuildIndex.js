@@ -14,7 +14,7 @@ function copyLunrFiles() {
   }
 
   const files = fs.readdirSync(assetsDir)
-    .filter((f) => /^(lunr-index|search-doc).*\.json$/.test(f));
+    .filter((f) => /^(search-index).*\.json$/.test(f));
 
   if (files.length === 0) {
     console.log("⏳ Lunr files not created yet. Retrying...");

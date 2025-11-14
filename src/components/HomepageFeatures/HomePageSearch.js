@@ -4,7 +4,7 @@ import styles from './HomepageSearch.module.css';
 
 export default function HomepageSearch() {
   const [index, setIndex] = useState(null);
-  const [docs, setDocs] = useState([]);
+  const [docs, setDocs] = useState({});
   const [query, setQuery] = useState('');
   const [results, setResults] = useState([]);
   const containerRef = useRef(null);
@@ -18,8 +18,7 @@ export default function HomepageSearch() {
     async function loadIndex() {
       try {
         const [indexRes, docsRes] = await Promise.all([
-          fetch('/lunr/lunr-index.json'),
-          fetch('/lunr/search-doc.json'),
+          fetch('/search-index.json'),
         ]);
 
         const indexJson = await indexRes.json();
@@ -27,25 +26,22 @@ export default function HomepageSearch() {
 
         const lunrIndex = lunr.Index.load(indexJson);
 
-        // Extract real docs array
-        const docList = docsJson.searchDocs;
-
-        // Map: lunr ref → actual document
         const docsById = {};
-        docList.forEach((doc, idx) => {
-          docsById[idx] = doc;
+        docsJson.forEach(doc => {
+          docsById[doc.i] = doc;
         });
 
         setIndex(lunrIndex);
         setDocs(docsById);
-
       } catch (err) {
         console.error('Failed to load Lunr index:', err);
       }
     }
+
     loadIndex();
   }, []);
 
+  // Close dropdown on outside click
   useEffect(() => {
     const handleClickOutside = (e) => {
       if (containerRef.current && !containerRef.current.contains(e.target)) {
@@ -69,8 +65,15 @@ export default function HomepageSearch() {
     }
 
     const found = index.search(value).map((r) => {
-      const doc = docs[r.ref]; // docs is now docsById
-      return doc ? { ...doc, score: r.score } : null;
+      const doc = docs[r.ref];
+      if (!doc) return null;
+
+      return {
+        title: doc.t,
+        url: doc.u,
+        breadcrumbs: doc.b,
+        score: r.score,
+      };
     }).filter(Boolean);
 
     setResults(found.slice(0, 8));
@@ -127,7 +130,12 @@ export default function HomepageSearch() {
               onClick={() => setResults([])}
             >
               <h4>{item.title}</h4>
-              <p>{item.content.slice(0, 100)}...</p>
+
+              {item.breadcrumbs?.length > 0 && (
+                <p className={styles.breadcrumbs}>
+                  {item.breadcrumbs.join(" › ")}
+                </p>
+              )}
             </a>
           ))}
         </div>
