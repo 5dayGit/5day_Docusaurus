@@ -75,7 +75,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/5day_logo_Regular.svg',
       colorMode: {
         respectPrefersColorScheme: true,

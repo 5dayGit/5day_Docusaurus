@@ -30,10 +30,10 @@ export default function CustomFooter() {
           <img src="/img/icons/Instagram.svg" alt="Instagram" />
         </a>
         <a href="https://www.linkedin.com/company/5day-io" target="_blank" rel="noreferrer">
-          <img src="/img/icons/Linkedin.svg" alt="LinkedIn" />
+          <img src="/img/icons/LinkedIn.svg" alt="LinkedIn" />
         </a>
         <a href="https://www.youtube.com/@5day-io" target="_blank" rel="noreferrer">
-          <img src="/img/icons/Youtube.svg" alt="YouTube" />
+          <img src="/img/icons/YouTube.svg" alt="YouTube" />
         </a>
       </div>
 
