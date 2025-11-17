@@ -3,10 +3,18 @@
  * and scoped locally.
  */
 
+ .hero,
+.hero--primary {
+  overflow: visible !important;
+  position: relative !important;
+  z-index: 10 !important;
+}
+
 .outerHeaderContainer {
   padding-left: 4rem;
   padding-right: 4rem;
-  background-color: var( --ifm-background-color);
+  background-color: var( --ifm-background-surface-color);
+  overflow: visible !important;
 }
 
 .navbar {
@@ -329,7 +337,30 @@
   }
 
   /* --- OUTER HEADER BACKGROUND --- */
-  .outerHeaderContainer {
-    background-color: #2a2a2a !important;
-  }
+
+}
+  [data-theme="dark"] .dropdown {
+  background: #1e1e1e !important;
+  border: 1px solid #444 !important;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4) !important;
+}
+
+/* Each search result item */
+[data-theme="dark"] .dropdownItem {
+  color: #e6e6e6 !important;
+  border-bottom: 1px solid #333 !important;
+}
+
+[data-theme="dark"] .dropdownItem:hover {
+  background: #2a2a2a !important;
+}
+
+/* Title inside dropdown */
+[data-theme="dark"] .dropdownItem h4 {
+  color: #ffffff !important;
+}
+
+/* Breadcrumbs / subtitle */
+[data-theme="dark"] .breadcrumbs {
+  color: #bbbbbb !important;
 }

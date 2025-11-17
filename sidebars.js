@@ -233,7 +233,7 @@ const sidebars = {
             'user-guide/Views/List View/Intro to List View',
             'user-guide/Views/List View/Customize List View',
             'user-guide/Views/List View/Sort in List View',
-            'user-guide/Views/List View/Filter in List View',
+            'user-guide/Views/List View/Filters in List View',
             'user-guide/Views/List View/Group By in List View',
             'user-guide/Views/List View/List View Features',
           ]
@@ -245,7 +245,7 @@ const sidebars = {
             "user-guide/Views/Board View/Intro to Board View",
             "user-guide/Views/Board View/Customize Board View",
             "user-guide/Views/Board View/Sort in Board View",
-            "user-guide/Views/Board View/Filter in Board View",
+            "user-guide/Views/Board View/Filters in Board View",
             "user-guide/Views/Board View/Group By in Board View",
             "user-guide/Views/Board View/Board View Features",
           ]
@@ -255,7 +255,7 @@ const sidebars = {
           label: 'Timeline View',
           items: [
             "user-guide/Views/Timeline View/Intro to Timeline View",
-            "user-guide/Views/Timeline View/Filter in Timeline View",
+            "user-guide/Views/Timeline View/Filters in Timeline View",
             "user-guide/Views/Timeline View/Group By in Timeline View",
             "user-guide/Views/Timeline View/Timeline View Date Range",
             "user-guide/Views/Timeline View/Timeline View Zoom In-Zoom Out",
@@ -414,7 +414,7 @@ const sidebars = {
           label: 'Microsoft Teams',
           items: [
             "user-guide/Integrations/Microsoft Teams/Intro to Microsoft Teams Integration",
-            "user-guide/Integrations/Microsoft Teams/Connect Microsoft teams account",
+            "user-guide/Integrations/Microsoft Teams/Connect Microsoft Teams account",
             "user-guide/Integrations/Microsoft Teams/Create Task via Teams",
             "user-guide/Integrations/Microsoft Teams/List of Commands",
           ]

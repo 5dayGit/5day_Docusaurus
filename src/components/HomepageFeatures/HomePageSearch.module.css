@@ -62,7 +62,7 @@
 /* Dropdown Results */
 .dropdown {
   position: absolute;
-  top: calc(100% + 4px);
+  top: calc(30% + 4px);
   left: 0;
   right: 0;
   background: #fff;
@@ -70,7 +70,7 @@
   border: 1px solid #eee;
   margin-top: 0.4rem;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  z-index: 100 !important;
+  z-index: 4000 !important;
   max-height: 320px;
   overflow-y: auto;
 }
@@ -100,8 +100,83 @@
   color: #777;
 }
 
-[data-theme="dark"] .searchInput{
-    background-color: rgb(191 178 200) !important;
-    color: black !important;
-    border: 1px solid #444 !important;
-  }
+[data-theme="dark"] .searchInput {
+  background-color: rgb(191 178 200) !important;
+  color: black !important;
+  border: 1px solid #444 !important;
+}
+
+[data-theme="dark"] .dropdown {
+  background: #1e1e1e !important;
+  border: 1px solid #444 !important;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4) !important;
+}
+
+/* Each search result item */
+[data-theme="dark"] .dropdownItem {
+  color: #e6e6e6 !important;
+  border-bottom: 1px solid #333 !important;
+}
+
+[data-theme="dark"] .dropdownItem:hover {
+  background: #2a2a2a !important;
+}
+
+/* Title inside dropdown */
+[data-theme="dark"] .dropdownItem h4 {
+  color: #ffffff !important;
+}
+
+/* Breadcrumbs / subtitle */
+[data-theme="dark"] .breadcrumbs {
+  color: #bbbbbb !important;
+}
+
+.hideSuggestions {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+/* Scrollbar css for the dropdown list */
+
+/* Scrollbar for light mode */
+.dropdown::-webkit-scrollbar {
+  width: 10px;
+}
+
+.dropdown::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 8px;
+}
+
+.dropdown::-webkit-scrollbar-thumb {
+  background-color: #c7c7c7;
+  border-radius: 8px;
+  border: 2px solid #f1f1f1;
+}
+
+.dropdown::-webkit-scrollbar-thumb:hover {
+  background-color: #b0b0b0;
+}
+
+
+/* Scrollbar for dark mode */
+[data-theme="dark"] .dropdown::-webkit-scrollbar {
+  width: 10px;
+}
+
+[data-theme="dark"] .dropdown::-webkit-scrollbar-track {
+  background: #1b1b1b;
+}
+
+[data-theme="dark"] .dropdown::-webkit-scrollbar-thumb {
+  background-color: #555;
+  border-radius: 8px;
+  border: 2px solid #1b1b1b;
+}
+
+[data-theme="dark"] .dropdown::-webkit-scrollbar-thumb:hover {
+  background-color: #777;
+}

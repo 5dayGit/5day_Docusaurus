@@ -13,7 +13,7 @@ Key highlights:
 - **Option to reset**: Selecting **None** returns the Timeline View to an ungrouped layout.
 ## How to Access It
 1. Navigate to any Project and open it in **Timeline View**.
-1. At the top toolbar, click **Group By : <current-value>**.
+1. At the top toolbar, click **Group By : `<current-value>`**.
 1. A dropdown will appear showing all supported fields.
 1. Select the field you want to group by.
 1. Save the view when prompted.

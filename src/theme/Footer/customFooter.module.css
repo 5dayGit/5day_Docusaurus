@@ -4,7 +4,7 @@
   padding: 20px 20px;
   padding-left: 8rem;
   padding-right: 8rem;
-  background: #ffffff;
+  background: var(--ifm-background-color) !important;
   margin-top: 50px;
   display: flex;
   justify-content: space-between;
@@ -18,7 +18,8 @@
   left: 8rem;     /* start after 8rem */
   right: 8rem;    /* end before 8rem */
   height: 1px;
-  background-color: #e6e6e6;
+  background-color: var(--ifm-background-color) !important;
+  border-bottom: 1px solid var(--ifm-font-color-base);
   /* margin-top: 50px; */
 }
 
@@ -62,3 +63,41 @@
   height: 26px;
   cursor: pointer;
 }
+/* ============================
+   DARK MODE FOOTER STYLES
+   ============================ */
+/*    
+[data-theme="dark"] .footerWrapper {
+  background: #1c1c1c !important;   
+  border-top: 1px solid #333 !important;
+}
+
+[data-theme="dark"] .footerWrapper::before {
+  background-color: #333 !important;  
+} */
+
+
+/* Left block text */
+[data-theme="dark"] .links a {
+  color: #ccc !important;
+}
+
+[data-theme="dark"] .links a:hover {
+  color: #fff !important;
+  text-decoration: underline;
+}
+
+/* Copyright */
+[data-theme="dark"] .copyright {
+  color: #aaa !important;
+}
+
+/* Right block icons */
+/* [data-theme="dark"] .rightBlock img {
+  filter: brightness(0.85) invert(0.9);
+  transition: all 0.2s ease-in-out;
+}
+
+[data-theme="dark"] .rightBlock img:hover {
+  filter: brightness(1) invert(1);
+} */

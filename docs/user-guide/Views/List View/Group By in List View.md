@@ -13,7 +13,7 @@ Key highlights:
 
 ## How to Access It
 1. Navigate to any **Project** and open it in **List View**.
-1. At the top of the screen, click on **Group By : <current-value>**.
+1. At the top of the screen, click on **Group By : `<current-value>`**.
 1. A dropdown will appear showing all standard fields and supported custom fields.
 1. Select the field you want to group the tasks by.
 1. Save the view when prompted to apply the grouping.

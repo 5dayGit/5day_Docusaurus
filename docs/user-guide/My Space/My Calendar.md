@@ -58,8 +58,8 @@ Each Google event appears with:
 ### **Move Between Months**
 You can switch between months using:
 
-- **<** to view the previous month
-- **>** to view the next month
+- `<` to view the previous month
+- `>` to view the next month
 
 There is no limit — you can scroll infinitely into past and future months.
 ### **Jump to Today**

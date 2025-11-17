@@ -47,7 +47,7 @@ export default function HomepageSearch() {
 
   return (
     <div className={styles.searchWrapper} ref={containerRef}>
-      {/* <div className={styles.searchBox}>
+      <div className={styles.searchBox}>
         <input
           type="search"
           className={styles.searchInput}
@@ -61,9 +61,12 @@ export default function HomepageSearch() {
         >
           Search
         </button>
-      </div> */}
+      </div>
 
-      <div className={styles.suggestions}>
+      <div
+        className={`${styles.suggestions} ${results.length > 0 ? styles.hideSuggestions : ""
+          }`}
+      >
         {suggestions.map((item, idx) => (
           <button
             key={idx}

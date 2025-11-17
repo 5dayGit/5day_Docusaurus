@@ -14,7 +14,7 @@ Board View relies heavily on **Group By** for layout. By default, Board View is 
 
 ## How to Access Group By
 1. Open any Project in **Board View**.
-1. At the top of the board, click **Group By : <current-value>**.
+1. At the top of the board, click **Group By : `<current-value>`**.
 1. A dropdown appears showing all supported fields.
 1. Select the field you want to group tasks by.
 1. Save your view when prompted.
