@@ -1,21 +1,90 @@
-## Board View: 
-**Board View** in 5day.io helps you manage tasks visually in a **Kanban-style layout**, where each task appears as a card and columns represent different statuses or categories based on the **Group By** setting applied. 
-### What You Can Do in Board View: 
-* **View tasks as cards**   Each task appears as a card that displays key information including the **task title, assignee, due date, and task status**. 
-* **Drag and drop**   Move tasks across columns to reflect changes in status or progress — based on how you’ve grouped your board. 
-* **Group tasks visually**   Use **Group By** to organize your board by **status, assignee, priority, section, task type, tags, or none**. Each group shows up as a vertical column. 
-* **Use filters, search, and sort**   Just like in List View, you can: 
-* **Filter** tasks by assignee, priority, status, etc. 
-* **Search** by Name, Task ID, Task Type, Status, Priority and Custom Field Values 
-* **Sort** by attributes such as name, due date, created date, and more 
-* **Customize what you see**   Use the **Customize panel** to choose which task fields to show or hide in each task card.   ✅ If **Custom Fields** are enabled in the project settings, you’ll also see an option to create new custom fields directly from here. 
+# Board View 
+## Overview
+Board View in 5day.io provides a visual, Kanban-style way to manage tasks.\
+Each task appears as a card, and each column represents a group — such as Section, Status, Priority, Assignee, Task Type, Tags, Budget Type, or a supported Custom Field — based on the **Group By** selection you apply.
 
-⠀ 
-### Actions in Board View 
-Click the **three-dot menu (⋮)** in the top-right corner of the Board View to access the following options: 
-* **Show Completed Tasks** – Display all completed tasks 
-* **Show Completed Subtasks** – Include completed subtasks on the board 
-* **Save View Changes** – Save your current filter, sort, group, and layout preferences (applies only to you) 
-* **Reset to Default View** – Restore the original default board layout 
-* **Set as Default View** – Set your current layout as the default view for your account 
-* **Show Completed Sections** – Show or hide sections that have been marked as complete 
+Board View is ideal for teams who prefer a drag-and-drop workflow to track progress, update attributes, and quickly organize work. By default, Board View is grouped by **Section**.
+
+## Subscription Association
+Board View is available on all subscription plans.
+
+
+## Role & Permissions
+What a user sees or can modify in Board View depends entirely on the **roles and permissions** assigned to them in your account.
+
+Users can only view or modify the tasks and subtasks they have permission to access.\
+All task visibility rules and allowed actions in Board View follow the **Task Roles & Permissions** configuration.
+
+For complete details on task-level visibility and permissions, refer to the Task Roles & Permissions documentation:
+
+[**https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io**](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io) **Structure/Task/Roles and Permission of Task.md**
+
+
+
+## How to Access Board View
+1. Open any project.
+1. Click **Board** from the top view selector.
+1. Board View loads with cards organized by the currently selected **Group By** option (default: Section).
+
+## What You Can Do in Board View
+### 1\. View Tasks as Cards
+Each task is shown as a card that includes key information such as:
+
+- Task Name
+- Assignee
+- Status
+- Due Date / Start Date
+- Priority
+- Budget Type (if enabled)
+- Progress
+- Custom Field values (e.g., Rating, Dropdown, Number, Radio Button, etc.)
+
+If the task contains subtasks, a **subtask icon** appears on the card.\
+Clicking this opens the subtask list inside the card.
+
+Clicking the card opens the **Task Detail Panel**, where all information can be viewed and edited.
+
+### 2\. Drag and Drop Tasks
+You can drag a task card from one column to another to update values instantly.
+### **Important Behaviour**
+- Drag-and-drop is allowed across **all Group By fields**.
+- However, if **Group By = Status** and the task type uses a different workflow, you can drop visually but the system **reverts the move** and shows an error.
+- When Group By = Task Type, moving task from one task type to another type displays a **status mapping screen** to remap statuses.
+
+### 3\. Group Tasks Visually
+Board View is driven by **Group By**, which determines how columns are structured.
+#### Supported Group By Fields
+**Standard Fields**
+
+- Section
+- Assignee
+- Status
+- Priority
+- Task Type
+- Tags
+- Budget Type
+
+**Custom Fields (Supported Types Only):**
+
+- Dropdown (single-select)
+- Rating
+- Radio Button
+
+**Not Supported in Board Grouping:**
+
+- Multi-select dropdowns
+- Text fields
+- Number fields
+- Date or Date/Time
+- URL, Email, Checkbox, Time fields
+
+**None**
+
+- All tasks appear under a single column titled **“None”**.
+#### Additional Rules
+- Grouping is **user-specific** (does not affect others).
+- Grouping is **project-specific** when saved.
+#### Notes: 
+- Group By = None shows all tasks under a single column titled **“None”**.
+- Dragging a task into a tag’s column does **not** replace its existing tags. Instead, the system **adds the new tag** to the task while keeping the tags it already has.
+- Custom field grouping only supports **Dropdown**, **Rating**, and **Radio Button**.
