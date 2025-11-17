@@ -75,7 +75,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/5day_logo_Regular.svg',
+      image: 'img/5daysLogo.png',
       colorMode: {
         respectPrefersColorScheme: true,
       },
