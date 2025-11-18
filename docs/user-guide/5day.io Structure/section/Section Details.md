@@ -1,4 +1,4 @@
-## **Section Details**
+# Section Details
 The **Section Details** in 5day.io provide a complete snapshot of a section’s key metrics and information.\
 \
 **Key Attributes**
