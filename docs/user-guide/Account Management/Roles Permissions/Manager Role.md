@@ -1,4 +1,4 @@
-# **Manager Role — Permissions**
+# Manager Role — Permissions
 ## **Overview**
 In 5day.io, the **Manager** leads teams or projects with the ability to assign tasks, manage team workflows, and oversee project delivery.\
 Managers are empowered to collaborate and track work, but they do not have access to sensitive administrative settings or billing information.
