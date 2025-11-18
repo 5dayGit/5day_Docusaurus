@@ -1,4 +1,4 @@
-### How to Duplicate a Project 
+# Duplicate Project 
 If you want to create a similar project without saving it as a template, you can duplicate an existing project for temporary use. Here’s how: 
 1. **Select the Project**: Go to the project you want to duplicate. 
 2. **Click on the Three-Dot Menu**: Once inside the project, click on the three-dot menu next to the project name. 

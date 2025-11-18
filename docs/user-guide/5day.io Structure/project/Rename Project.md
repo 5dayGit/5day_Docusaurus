@@ -1,4 +1,4 @@
-### **How to Rename a Project**
+# Rename Project
 
 To rename a project in 5day.io, follow these simple steps:
 

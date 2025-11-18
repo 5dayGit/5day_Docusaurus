@@ -1,4 +1,4 @@
-### **How to Delete a Project at the Project Level**
+# Delete Project
 To delete a project in 5day.io, follow these steps:
 
 ### IMAGE

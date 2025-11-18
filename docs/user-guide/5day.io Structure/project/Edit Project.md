@@ -1,5 +1,5 @@
-### **How to Edit Project Information**
-To edit the project info in 5day.io, follow these steps:
+# Edit Project
+To edit the project information in 5day.io, follow these steps:
 
 1. **Go to Project Settings**: First, navigate to the **Project Settings** of the project you want to edit.
 

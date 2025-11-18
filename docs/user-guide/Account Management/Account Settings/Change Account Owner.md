@@ -1,4 +1,4 @@
-# **How to Change the Account Owner**
+# How to Change the Account Owner
 To change the Account Owner in 5day.io, users must go to their **Account Profile**.\
  ([*Learn how to access your Account Profile*]()
 

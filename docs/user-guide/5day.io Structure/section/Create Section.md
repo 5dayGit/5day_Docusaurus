@@ -1,4 +1,4 @@
-## **How to Create a Section**
+# Create Section
 You can create a Section in a project using two easy methods:
 ### **Option 1: Create via Project Menu**
 1. Go to the project where you want to create a section.

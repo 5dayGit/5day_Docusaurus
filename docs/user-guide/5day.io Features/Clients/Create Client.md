@@ -1,4 +1,4 @@
-## **How to Create a Client**
+# Create Client
 In 5day.io, you can easily create and manage clients at the account level to organize your projects better.
 ### **Steps to Create a Client:**
 1. Go to **Account Settings**.

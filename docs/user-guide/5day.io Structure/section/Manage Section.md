@@ -1,4 +1,4 @@
-## **How to Show or Hide a Section in Structure View**
+# Manage Section
 In 5day.io, you can easily hide or show sections in the structure view to keep your workspace organized and focused. Here’s how to manage section visibility:
 ### **Option 1: From the Project View**
 1. **Open the Project**: Click on the project where the section is located.

@@ -1,4 +1,4 @@
-### **How to Import Tasks into a Project (From the Project Level)**
+# Import Tasks into a Project
 
 You can import tasks into a project in 5day.io using two methods. Here's
 how:

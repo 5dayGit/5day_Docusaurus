@@ -1,4 +1,4 @@
-## **Section**
+# Intro to Section
 ### **Overview**
 Section in 5day.io are a flexible way to organize and group tasks within a project. Think of Section as **virtual containers** that help you categorize your work according to your team’s needs.
 

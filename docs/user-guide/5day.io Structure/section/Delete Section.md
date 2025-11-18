@@ -1,4 +1,4 @@
-## **How to Delete a Section**
+# Delete Section
 In 5day.io, sections can be deleted easily using two different methods. Here’s how you can do it:
 ### **Option 1: Via the Project View**
 1. **Open the Project**: Click on the project where the section is located.

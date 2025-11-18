@@ -1,4 +1,4 @@
-# Projects 
+# Intro to Project 
 
 ## Overview 
 Projects in 5day.io are how you organize and manage a group of tasks that are part of a larger goal, initiative, or deliverable. Every task you create belongs to a project, making it easier to group related work, assign responsibilities, and track progress in one central place. 

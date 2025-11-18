@@ -1,4 +1,4 @@
-### Ways to Create a Project
+# Create Project
 You can create a project in two ways in 5day.io:
 
 #### **1. Create From Scratch**
