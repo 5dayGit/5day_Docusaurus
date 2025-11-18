@@ -1,4 +1,4 @@
-### **How to Enable or Disable Views in a Project**
+# Manage Project Views
 In 5day.io, you can customize which views are available for your project, such as List, Board, Timesheet, Dashboard, Files, and more.
 
 #### ***Steps to Enable or Disable Views:***
