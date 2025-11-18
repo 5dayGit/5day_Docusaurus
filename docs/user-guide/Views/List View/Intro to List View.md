@@ -1,4 +1,4 @@
-# List View
+# Intro to List View
 ## Overview
 The **List View** provides a clean, table-style layout of all tasks within a project. It is ideal for teams that prefer a structured, spreadsheet-like interface for reviewing, organizing, and managing work.
 
