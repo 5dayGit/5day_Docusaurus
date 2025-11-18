@@ -1,4 +1,4 @@
-### **How to Enable and Disable Project Features**
+# Manage Project Features
 To enable or disable project features in 5day.io, follow these steps:
 
 1. **Go to Project Settings**: First, navigate to the **Project Settings** of the project you want to configure.
