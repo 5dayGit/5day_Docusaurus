@@ -29,7 +29,30 @@ The bot pushes **all web app notifications** into Slack:
 
 Use /5day.io in **any channel, group DM, or direct message** to create tasks on the fly. 
 Supports full task details: title, description, assignee, due date, priority, labels, and more.
+Access the Slack integration here:
 
+### Connect your slack account
+<div style={{ display: 'flex', alignItems: 'left' }}>
+<a
+  href="https://slack.com/oauth/v2/authorize?client_id=9682994149365.9680099983747&scope=channels:read"
+  target="_blank"
+  rel="noopener noreferrer"
+  style={{
+    display: 'inline-flex',
+    alignItems: 'center',
+    borderRadius: '6px',
+    color: '#ffffff',
+    textDecoration: 'none',
+    fontWeight: 600
+  }}>
+  <img
+    src="https://platform.slack-edge.com/img/add_to_slack.png"
+    srcSet="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"
+    alt="Add to Slack"
+    style={{
+      height: '3rem',
+    }}
+  /></a></div>
 ## Other References
 
 To connect your slack account with 5day.io, refer [Connect slack account](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Integrations/Slack/Connect%20slack%20account.md).
