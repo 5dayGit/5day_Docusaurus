@@ -1,4 +1,4 @@
-## **How to Edit a Client**
+# Edit Client
 In 5day.io, you can easily edit client information, such as the client name and logo, to keep your records up to date.
 ### **Steps to Edit a Client:**
 1. Go to **Account Settings**.
