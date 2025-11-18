@@ -1,4 +1,4 @@
-## **How to Delete a Client**
+# Delete Client
 In 5day.io, you can delete a client if it is no longer needed in your system.\
 \
 **Steps to Delete a Client:**
