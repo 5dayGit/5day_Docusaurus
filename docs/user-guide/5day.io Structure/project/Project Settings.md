@@ -1,4 +1,4 @@
-### **Project Settings**
+# Project Settings
 **Overview**\
 Project settings in 5day.io provide a central hub for managing and configuring all aspects of a project. From here, users can modify project information, sections, and configure important features, manage integrations, and access various other project-specific settings. 
 
