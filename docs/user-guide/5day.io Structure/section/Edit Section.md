@@ -1,4 +1,4 @@
-## **How to Edit a Section**
+# Edit Section
 You can edit a section in 5day.io using two simple methods:
 ### **Option 1: Direct Click to Edit**
 1. **Open the Project**: Click on the project where the section is located.
