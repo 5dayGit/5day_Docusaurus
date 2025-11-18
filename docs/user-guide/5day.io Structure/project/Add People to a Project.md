@@ -1,4 +1,4 @@
-## Add People to a Project
+# Add People to a Project
 You can easily add existing members of your 5day.io workspace to a project using one of two methods. This ensures the right people have access and visibility to collaborate on the project tasks.
 ### **Option 1: Add via Project Menu**
 1. Go to the project where you want to add members.
