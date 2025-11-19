@@ -9,18 +9,18 @@ Tasks include full context: message text, attachments, sender, and a link back t
 ## Create Task
 
 ### From a Channel
--   In any **channel**, click the **⚡ (Shortcuts)** icon in the message field.
+-   In any **channel**, click the " / "  (Shortcuts)** icon in the message field.
 -   Search for **5day.io** -> **Create Task**.
 -   Task form opens with **channel name** in context.
 -   Fill details and click **Create**.
 
 ### From a Group DM
--   In a **group DM**, click the **⚡ (Shortcuts)** icon.
+-   In a **group DM**, click the **" / "  (Shortcuts)** icon.
 -   Select **5day.io-create-task**.
 -   Click **Create**.
 
 ### From a Direct Message
--   In a **DM** (with bot or teammate), use **⚡ Shortcuts** -> **5day.io-create-task**.
+-   In a **DM** (with bot or teammate), use **" / "Shortcuts** -> **5day.io-create-task**.
 -   Fill data and create task.
 
 ### From Any Message (Right-Click)
@@ -51,3 +51,4 @@ Tasks include full context: message text, attachments, sender, and a link back t
 ## Other References
 
 To connect your slack account with 5day.io, refer [Connect slack account](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Integrations/Slack/Connect%20slack%20account.md).
+
