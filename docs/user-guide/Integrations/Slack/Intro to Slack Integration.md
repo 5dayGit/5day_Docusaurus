@@ -55,7 +55,7 @@ Access the Slack integration here:
   /></a></div>
 ## Other References
 
-To connect your slack account with 5day.io, refer [Connect slack account](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Integrations/Slack/Connect%20slack%20account.md).
+To connect your slack account with 5day.io, refer [Connect slack account](https://help.5day.io/docs/user-guide/Integrations/Slack/Connect%20slack%20account).
 
-To create task via Slack, refer [Create task via Slack](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Integrations/Slack/Create%20Task%20via%20Slack.md)
+To create task via Slack, refer [Create task via Slack](https://help.5day.io/docs/user-guide/Integrations/Slack/Create%20Task%20via%20Slack)
 
