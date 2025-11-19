@@ -50,9 +50,10 @@ Once enabled, any authorized user can connect their Slack account from 5day.io i
 ## Quick Notes
 
 - Receive all 5day.io notifications directly in Slack.  
-- Use commands like `/create-task` to add tasks from any Slack conversation.  
+- Use commands like `/5day.io-create-task` to add tasks from any Slack conversation.  
 - Convert Slack messages into tasks using message shortcuts.  
 - Stay in sync without switching apps.
+
 
 
 
