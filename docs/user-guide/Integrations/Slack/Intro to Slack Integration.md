@@ -34,7 +34,7 @@ Access the Slack integration here:
 ### Connect your slack account
 <div style={{ display: 'flex', alignItems: 'left' }}>
 <a
-  href="https://slack.com/oauth/v2/authorize?client_id=9682994149365.9680099983747&scope=channels:read"
+  href="https://slack.com/oauth/v2/authorize?client_id=9682994149365.9680099983747&scope=channels:read,chat:write,chat:write.public,commands,groups:read,links:read,links:write&user_scope=channels:read,chat:write,groups:read,im:read,mpim:read,reactions:read,users.profile:read,users:read"
   target="_blank"
   rel="noopener noreferrer"
   style={{
