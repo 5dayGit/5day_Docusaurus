@@ -112,7 +112,7 @@ const config = {
             position: 'right',
             value: `
                   <div class="navbar-get-started-wrapper">
-                  <a href="/" class="navbar-get-started-btn">
+                  <a href="https://selfregistration.5day.io/sign-up?plan=c62064f9-4311-4d7a-8f3f-0c0bdd86039b&price=Yearly&quant=5" class="navbar-get-started-btn" target="_blank" rel="noopener noreferrer">
                   Start for free
                   </a>
                   </div>

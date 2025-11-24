@@ -12,9 +12,9 @@ export default function HomepageSearch() {
 
   const suggestions = [
     { text: "Create automation workflow", url: "/docs/user-guide/5day.io%20Features/Automation/Add%20Workflow" },
-    { text: "What is Task type", url: "/docs/user-guide/5day.io%20Features/Task%20Types/Intro%20to%20Task%20Types" },
-    { text: "Manage Status Workflow", url: "/docs/user-guide/5day.io%20Features/Status%20Workflows/Intro%20to%20Status%20Workflows/" },
-    { text: "Manage Widget in Dashboard", url: "/docs/user-guide/Analytics/Overview%20of%20Widgets" },
+    { text: "What is task type", url: "/docs/user-guide/5day.io%20Features/Task%20Types/Intro%20to%20Task%20Types" },
+    { text: "Manage status workflow", url: "/docs/user-guide/5day.io%20Features/Status%20Workflows/Intro%20to%20Status%20Workflows/" },
+    { text: "Manage dashboard widget", url: "/docs/user-guide/Analytics/Overview%20of%20Widgets" },
   ];
 
   const handleChange = (e) => {

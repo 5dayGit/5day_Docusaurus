@@ -52,17 +52,17 @@ export default function Contact() {
               </p>
 
               <p style={{ marginBottom: '0.5rem' }}>
-                <strong>General Support:</strong> <a href="mailto:support@example.com">support@example.com</a>
+                <strong>General Support:</strong> <a href="mailto:support@5day.io">support@5day.io</a>
               </p>
               <p style={{ marginBottom: '0.5rem' }}>
-                <strong>Sales Inquiries:</strong> <a href="mailto:sales@example.com">sales@example.com</a>
+                <strong>Sales Inquiries:</strong> <a href="mailto:sales@5day.io">sales@5day.io</a>
               </p>
-              <p style={{ marginBottom: '0.5rem' }}>
+              {/* <p style={{ marginBottom: '0.5rem' }}>
                 <strong>Technical Assistance:</strong> <a href="mailto:techsupport@example.com">techsupport@example.com</a>
               </p>
               <p style={{ marginBottom: '0' }}>
                 <strong>Feedback and Suggestions:</strong> <a href="mailto:feedback@example.com">feedback@example.com</a>
-              </p>
+              </p> */}
             </div>
           </div>
 
@@ -85,13 +85,16 @@ export default function Contact() {
               </p>
 
               <p style={{ marginBottom: '0.5rem' }}>
-                <strong>United Kingdoms:</strong> <a href="tel:+442079460532">+44 20 7946 0532</a>
+                <strong>United Kingdoms:</strong> <a href="tel:+442080683967">+44 20 8068 3967</a>
               </p>
               <p style={{ marginBottom: '0.5rem' }}>
-                <strong>United States:</strong> <a href="tel:+16502530000">+1 650-253-0000</a>
+                <strong>United States:</strong> <a href="tel:+14157238242">+1 415 723 8242</a>
+              </p>
+              <p style={{ marginBottom: '0.5rem' }}>
+                <strong>Europe:</strong> <a href="tel:+442080683978">+44 20 8068 3978</a>
               </p>
               <p style={{ marginBottom: '0' }}>
-                <strong>India:</strong> <a href="tel:+914440421400">+91 44 4042 1400</a>
+                <strong>India:</strong> <a href="tel:+919205283329">+91 92052 83329</a>
               </p>
             </div>
           </div>
