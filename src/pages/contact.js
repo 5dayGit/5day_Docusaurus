@@ -85,13 +85,13 @@ export default function Contact() {
               </p>
 
               <p style={{ marginBottom: '0.5rem' }}>
-                <strong>United Kingdoms:</strong> <a href="tel:+442080683967">+44 20 8068 3967</a>
+                <strong>United Kingdoms:</strong> <a href="tel:+442080683967">+44 20 8068 3967  Ext:4773</a>
               </p>
               <p style={{ marginBottom: '0.5rem' }}>
-                <strong>United States:</strong> <a href="tel:+14157238242">+1 415 723 8242</a>
+                <strong>United States:</strong> <a href="tel:+14157238242">+1 415 723 8242  Ext:4771</a>
               </p>
               <p style={{ marginBottom: '0.5rem' }}>
-                <strong>Europe:</strong> <a href="tel:+442080683978">+44 20 8068 3978</a>
+                <strong>Europe:</strong> <a href="tel:+442080683978">+44 20 8068 3978  Ext:4775</a>
               </p>
               <p style={{ marginBottom: '0' }}>
                 <strong>India:</strong> <a href="tel:+919205283329">+91 92052 83329</a>
