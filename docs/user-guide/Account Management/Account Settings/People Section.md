@@ -25,7 +25,6 @@ To access and manage the People section in 5day.io:
 1. **Go to Account Settings:**\
    Click on your **Profile Icon** and select **Account Settings**.
 1. **Select People:**
-    ### IMAGE
    Inside Account Settings, click on the **People** option from the sidebar.
 1. **Manage Users:**\
    After entering the People section, you will be able to:
@@ -33,3 +32,6 @@ To access and manage the People section in 5day.io:
    1. View, edit, or deactivate user profiles
    1. Perform bulk imports
    1. Remove users if needed
+
+   <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/83db068f-50e1-4e60-bb6e-c0d062e71468" />
+
