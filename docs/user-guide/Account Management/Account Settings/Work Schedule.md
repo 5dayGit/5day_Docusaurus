@@ -33,3 +33,6 @@ To access the Work Schedule in 5day.io:
 1. In Account Settings, click on the **General** tab.
 1. Under General, you will see the option for **Work Schedule**.
 1. Click on **Work Schedule** to view, create, or manage work schedules for your organization.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/e387e9cc-8307-4d37-8fce-5bdebb1ed0d0" />
+
