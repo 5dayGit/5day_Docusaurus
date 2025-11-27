@@ -19,6 +19,9 @@ Board View relies heavily on **Group By** for layout. By default, Board View is 
 1. Select the field you want to group tasks by.
 1. Save your view when prompted.
 
+<img width="3560" height="1386" alt="image" src="https://github.com/user-attachments/assets/14d4ceaf-5fca-44f4-9b97-d8f27e854d6b" />
+
+
 ## What Happens When Grouping Is Applied
 - The board reorganizes into **vertical Kanban columns**, each representing one value of the selected field.
 - Tasks automatically move into their respective columns based on their current values.
