@@ -14,6 +14,9 @@ The Board View features menu helps every user tailor the Kanban board to match t
 1. Click the **three-dot menu (⋮)** located in the top-right corner.
 1. A menu will open showing all available Board View configuration options.
 
+<img width="3560" height="1126" alt="image" src="https://github.com/user-attachments/assets/f7fa7df2-ee19-4cf1-8d14-73bd9d768def" />
+
+
 ### Feature Details
 Below are detailed explanations of every option available in the three-dot menu.
 #### 1\. Show Completed Tasks
