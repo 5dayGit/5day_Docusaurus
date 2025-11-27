@@ -18,6 +18,10 @@ Key highlights:
 1. Select the field you want to group the tasks by.
 1. Save the view when prompted to apply the grouping.
 
+<img width="3560" height="1126" alt="image" src="https://github.com/user-attachments/assets/e5bbf91a-0a5a-428a-a583-075cb7cb7a02" />
+
+
+
 ## What Happens When Grouping Is Applied
 - The List View is reorganized into expandable sections, each representing the selected field’s values.
 - Tasks automatically move into their respective groups.
