@@ -5,6 +5,9 @@ The **Customize** option in List View lets you control exactly what fields you w
 1. Open any project (it opens in **List View** by default).
 1. Click on the **Customize** button at the top-right corner.
 1. The **Column Options** panel will appear, showing all available standard and custom fields.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/f69eef9e-ac9c-4bb1-98e9-c33c04f19371" />
+
 ### Column Types
 You’ll see two types of fields in the **Column Options** panel:
 #### 1\. Standard Fields
@@ -50,6 +53,10 @@ When you make any changes in the **Column Options** panel:
 #### User-Specific Customization
 - **Customize settings are user-specific.** Each user can choose which columns to show, hide, or reorder, and it will not affect how other users view the same project.
 - The customization is **saved per project**—so when a user returns to the project, their preferred column layout remains intact.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/d9926a84-4004-4582-8f81-c55047f0ed7c" />
+
+
 #### Notes
 - Some fields like **Budget Type**, **Tags**, **Estimation**, **Story Point**, and **Priority** will only appear if the corresponding features are enabled in **Project Settings**.
 - Custom fields, once added, can be reused across all tasks in the same project.
