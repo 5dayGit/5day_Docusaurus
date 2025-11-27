@@ -14,6 +14,9 @@ Filtered tasks appear on the timeline only if their **start date or due date** f
    1. “No filters applied yet” message (if none exist)
    1. The **+ Add** button to create new filter conditions
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/3fa5b322-3d0f-4d0f-9b98-edb216e1636f" />
+
+
 ### Default State (When No Filters Are Applied)
 When there are no filters applied:
 
@@ -131,6 +134,9 @@ When at least one filter is active:
 - The **Filter icon** becomes highlighted
 - A small dot or indicator will show that filters are in use
 - This helps users quickly identify that the view is filtered
+
+<img width="3560" height="1386" alt="image" src="https://github.com/user-attachments/assets/7a0ea931-24ac-4a79-8e3c-45dafe9f7c43" />
+
 
 #### Important Notes
 - Filters are **user-specific** — each user has their own filter preferences.
