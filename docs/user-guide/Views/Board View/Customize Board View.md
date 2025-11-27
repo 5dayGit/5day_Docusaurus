@@ -8,6 +8,11 @@ Customization helps you create a clear, compact, and meaningful card layout that
 1. Open any project in **Board View**.
 1. Click the **Customize** button at the top-right corner.
 1. The **Card Fields Panel** will open, showing all available standard and custom fields.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/c8d88b01-5c2a-4e77-9fe3-852884d5fd28" />
+
+
+
 ### Field Types
 Within the Customize panel, you will see two types of fields:
 #### 1\. Standard Fields
@@ -86,6 +91,9 @@ Customization in Board View is **user-specific**:
 - Customization applies only to the **current project**
 
 When you return to the project later, your preferred card layout remains intact.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/903cfa37-1423-477a-ad1a-e4cbd8aba473" />
+
 
 #### Notes
 - Feature-based fields (e.g., Tags, Budget Type, Estimation, Story Point) appear only if the related features are enabled in Project Settings.
