@@ -13,6 +13,9 @@ This menu ensures that each user can tailor the List View to match their working
 1. At the top-right corner, click the **three-dot menu** (⋯).
 1. A menu will open listing all available view-related options.
 
+<img width="3560" height="1126" alt="image" src="https://github.com/user-attachments/assets/d4d827a7-1f26-4468-ac5e-bc71897edc65" />
+
+
 ### Feature Details
 Below are detailed explanations of every option available in the three-dot menu.
 
