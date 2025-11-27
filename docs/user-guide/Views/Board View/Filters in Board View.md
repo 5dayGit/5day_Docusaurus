@@ -13,6 +13,9 @@ Filter configuration is **user-specific**, meaning each user can apply their own
 1. Open the project in **Board View**.
 1. Click on the **Filter** icon at the top of the screen.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/d5d34bbd-e1ab-4151-b289-1f134124bc48" />
+
+
 The Filter Panel opens in an expanded view and shows:
 
 - Currently applied filters (if any)
@@ -143,6 +146,9 @@ When at least one filter is active:
 - A small indicator dot shows filters are in use
 
 This helps users quickly identify that the board is filtered — even when scrolling across multiple columns.
+
+<img width="3560" height="1126" alt="image" src="https://github.com/user-attachments/assets/2c53e3ef-eb46-4bd1-85f3-cff61039aec5" />
+
 
 ### Important Notes
 - Filters are **user-specific** — your filters only affect your view.
