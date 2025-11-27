@@ -10,6 +10,9 @@ This helps you view tasks in a structured order—such as earliest due date firs
 1. Select the field you want to sort by
 1. Click the same field again to toggle between **ascending** and **descending**
 
+<img width="3560" height="1386" alt="image" src="https://github.com/user-attachments/assets/3540ae5b-d2d0-4eb4-bcae-22bef4c3763d" />
+
+
 Tasks inside each column will reorder instantly.
 
 ### Sortable Fields
