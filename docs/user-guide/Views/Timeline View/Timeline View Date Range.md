@@ -16,3 +16,6 @@ Each view adjusts the layout of tasks and subtasks on the timeline to give you a
 #### Today
 - Centers the timeline on **today’s date** and highlights it with a vertical line.
 - Useful when you have navigated far into the past or future dates.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/a9e8ce2a-7a2b-44a7-af16-491cde29a72b" />
+
