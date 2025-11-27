@@ -27,6 +27,9 @@ Tasks assigned to other team members will not appear in My Calendar.
 1. Click the **Home** icon from the navigation panel.
 1. Select **My Calendar** from the Home menu.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/aa6aa1f4-99cc-4392-ad22-39aef9e08c1b" />
+
+
 You will now be taken to the monthly calendar view.
 
 ## What You Will See in My Calendar
@@ -133,4 +136,5 @@ This uses the standard Add Task and Add Reminder flows.
 - Calendar is always in **Month View**.
 - Week numbers are not displayed.
 - My Calendar shows **only your own tasks and subtasks**.
+
 
