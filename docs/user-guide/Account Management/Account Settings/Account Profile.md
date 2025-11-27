@@ -31,6 +31,9 @@ In the **Profile** section, the Account Owner can manage the organization’s id
 - **View Account Owner Details** – See current account owner information.
 - **Change Account Owner** – Transfer ownership to another user if necessary.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/975a0ea8-08db-4f71-881f-48510faf5b76" />
+
+
 ## **Display Section**
 In the **Display** section, the Account Owner can configure how the 5day.io environment looks and behaves for all users across the organization.
 
@@ -52,5 +55,9 @@ In the **Display** section, the Account Owner can configure how the 5day.io envi
 - **Layout** – Select between:
   - **Left Navigation** (sidebar menu)
   - **Top Navigation** (horizontal top bar menu)
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/be745d63-4a35-44a4-9251-3856e8db5803" />
+
+  
 
 These display preferences apply **at the organizational level** and affect the overall experience for all users inside the account.
