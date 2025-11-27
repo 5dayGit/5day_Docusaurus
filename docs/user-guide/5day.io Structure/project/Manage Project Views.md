@@ -4,8 +4,6 @@ In 5day.io, you can customize which views are available for your project, such a
 #### ***Steps to Enable or Disable Views:***
 1. **Open the Project**\
    Navigate to the project where you want to update the views.
-
-   ### Image
    
 1. **Access Project Settings**\
    Click the **three-dot menu** (︙) in the top-right corner of the project.\
@@ -15,8 +13,6 @@ In 5day.io, you can customize which views are available for your project, such a
 
 1. **Go to the Views Tab**\
    Inside Project Settings, click on the **Views** tab.
-
-      ### Image
 
 1. **Configure Views**
    1. You’ll see a list of available views like:
@@ -32,3 +28,6 @@ In 5day.io, you can customize which views are available for your project, such a
    1. You can also **reorder views** to set the preferred navigation order by dragging them up or down.
 1. **Changes are Saved Automatically**\
    Once you make your selections, the settings are applied instantly—no need to click Save.
+
+   <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/437d3783-ec8f-4949-950d-3995ab9109e1" />
+
