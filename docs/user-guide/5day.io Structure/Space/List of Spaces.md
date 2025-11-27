@@ -6,6 +6,9 @@
  - Go to Workspace -> three dots -> **Spaces and Projects**  OR
  - Go to Workspace Views -> List/Board View -> List of Spaces and its associated projects will appear.
 
+ <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/f8c14a40-4c13-4846-9957-c2f2c98996c9" />
+
+
 ## List of Spaces
 | Field | Description |
 |--|--|
