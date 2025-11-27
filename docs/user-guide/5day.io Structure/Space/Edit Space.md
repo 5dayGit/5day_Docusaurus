@@ -14,6 +14,9 @@ There are two main ways to open the Edit Space panel
 | Space Settings | Workspace -> Spaces -> List of Spaces -> Edit | Edit from the central list of all Spaces within a Workspace |
 | Space View | Space List or Board View -> More Menu (⋮) beside Space name | Quick access for directly editing a specific Space |
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/1bf87de1-2f4b-4993-bb2d-24619ef78058" />
+
+
 ## Space Settings
 
 When you access the Edit option, you can perform the following actions depending on your permissions:
