@@ -11,6 +11,10 @@ This makes it easier to view tasks in a way that fits your workflow, such as vie
 1. Select the field you want to sort by.
 1. Click again on the same field to toggle between **ascending** and **descending** order.
 1. Tasks will automatically reorder based on the selected field and direction.
+
+
+<img width="3560" height="1126" alt="image" src="https://github.com/user-attachments/assets/afea3132-4349-47f4-997c-593730a2f5d6" />
+
 ### Sortable Fields
 #### 1\. Standard Fields
 You can apply sort on the following built-in fields:
