@@ -11,14 +11,11 @@ how:
 2.  **Click on the Three-Dot Menu**: Next to the project where you want
     to import tasks, click on the three-dot menu.
 
-### IMAGE
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/a4ddbe2c-d858-48cb-88a7-944e68d20566" />
 
 
 3.  **Select \'Import\'**: In the dropdown, select **Import**. This will
     open the task import dialog.
-
-
-### IMAGE
 
 4.  **Download the Sample File**: Once the import dialog appears, click
     on **Download Sample File**. This will download an Excel file with
@@ -47,8 +44,9 @@ how:
 1.  **Go to Project Settings**: Navigate to the project settings of the
     project you want to import tasks into.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/884272bd-18ec-426e-b131-7b292444e789" />
 
-### IMAGE
+
 
 2.  **View Data Import History**: In the settings, you will see an
     option for **Data Import History**.
@@ -57,7 +55,6 @@ how:
     on **Import** to begin the process.
 
 
-### IMAGE
 
 4.  **Download the Sample File**: Like in Method 1, you can download the
     **Sample File** from the import dialog.
@@ -72,8 +69,8 @@ how:
 
 #### **Data Import History**
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/781aa71f-59c3-4e9d-95b0-a69688249f71" />
 
-### IMAGE
 
 Once the tasks are imported, you can view the import details in the
 **Data Import History** section. Here, you will see:
