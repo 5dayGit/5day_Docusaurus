@@ -31,7 +31,8 @@ This makes it easy to schedule task-related nudges based on deadlines or key pro
 1. **Click 'Create'**\
    Once the details are entered, click **Create** to save the reminder.
 
-   ## IMAGE
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/3d3bfc1c-a442-4b84-8fe2-d82b929de435" />
+
    
 ## **Option 2: Create a Reminder from a Task or Subtask**
 In 5day.io, you can create reminders that are directly linked to tasks or subtasks. These reminders help ensure you stay aligned with deadlines and follow-ups across your project work.
@@ -44,15 +45,15 @@ You can create task or subtask reminders using three methods:
 1. Click the **three-dot menu (⋮)** next to the item.
 1. Select **Set Reminder** from the menu.
 
-   ## IMAGE
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/246cf158-c785-46e7-b37f-4c211d7410df" />
+
 
 ### Method B: From Inside the Task Panel
 1. Click on the task to open its detailed view.
 1. In the task header, click on the **three-dot menu (⋮)**.
 1. Select **Set Reminder** from the dropdown.
 
-     ## IMAGE
-
+  
 ### Method C: From the Reminder Icon in the Navigation Menu
 1. Click on the **Reminder (alarm clock)** icon from the left navigation bar.
 1. In the popup modal, select the **Type** as **Task** or **Subtask**.
@@ -61,7 +62,8 @@ You can create task or subtask reminders using three methods:
    1. Selected items will auto-fill the **Title** field.
    1. To remove any selection, click the **‘x’ icon** next to the task or subtask name.
 
-      ## IMAGE
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/8aef4015-c976-4c03-96f8-7c954718e67a" />
+
 
 **Note:**\
 For all three methods (A, B, and C), once a task or subtask is selected:
@@ -77,3 +79,4 @@ For all three methods (A, B, and C), once a task or subtask is selected:
 ### **🔔 Notifications**
 Users will receive in-app and/or web notifications at the scheduled reminder time.\
 **Note:** If a user does **not want** to receive reminder notifications, they can manage this in the **Notifications Settings Panel** by disabling reminders.
+
