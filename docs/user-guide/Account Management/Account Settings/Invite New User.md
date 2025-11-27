@@ -5,6 +5,10 @@
    Inside Account Settings, click on the **People** tab to manage users.
 1. **Click on Invite New:**
    1. In the People section, click on the **Invite New** button.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/78c40130-bd35-450e-af63-f8a851cc3cfd" />
+
+   
 1. **Choose How to Invite:**\
    You will see two fields to fill:
    1. **Invite by Email:**\
