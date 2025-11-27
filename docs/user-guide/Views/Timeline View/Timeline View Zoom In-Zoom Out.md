@@ -22,3 +22,7 @@ Zoom changes how much date is visible and the width of each date column:
 - **Level 3** – **1 month** visible.
 - **Level 4** – **1 quarter (3 months)** visible.
 - **Level 5** – **2 quarters (6 months)** visible (for example, Q3 and Q4).
+
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/2ae7e4eb-8563-4c0f-b626-a7be810ff73e" />
+
