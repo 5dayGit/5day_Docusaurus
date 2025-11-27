@@ -25,6 +25,10 @@ Below are further details on Edit permission.
 | Bulk Update | Go to Project/Section -> Select multiple subtasks -> Choose the field which you would like to edit -> type or pick new value |
 | My Work | Go to My Work -> Find your subtask in list view -> Go to the column which you want to edit or click on subtask -> type or pick new value -> hit Enter |
 
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/a6d01786-cb5e-4833-9562-72e757790c9d" />
+
+
 **Quick Notes**
 **Auto sync:** All updates will be saved instantly; no manual Save required.
 
