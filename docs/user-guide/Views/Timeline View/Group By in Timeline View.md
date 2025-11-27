@@ -17,6 +17,10 @@ Key highlights:
 1. A dropdown will appear showing all supported fields.
 1. Select the field you want to group by.
 1. Save the view when prompted.
+
+<img width="3560" height="1386" alt="image" src="https://github.com/user-attachments/assets/dec3925f-5d96-4bcc-b109-6ec0dfcc7ae3" />
+
+
 ## What Happens When Grouping Is Applied
 - The Timeline View is reorganized into groups displayed in the **left panel**.
 - Each group represents one value of the selected Group By field (e.g., each Assignee, each Status).
