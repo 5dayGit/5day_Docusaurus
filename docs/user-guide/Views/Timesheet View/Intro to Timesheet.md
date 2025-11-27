@@ -18,11 +18,13 @@ Users can log hours using two simple options:
 - **Add Bulk Time:** Allows entering time entries for multiple days in one go.
 ### **Timesheet**
 Users can switch between four distinct views to manage and analyze logged time:
-  ### IMAGE
 - **Day View:** Displays a detailed, hour-by-hour breakdown of all entries for a single day.
 - **Week View:** Provides a summary of time logged for each day of the week.
 - **Month View:** Shows total time logged across the entire month.
 - **List View:** Presents a detailed table with all logged hours for members within the project.
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/d25386bb-5861-4b7e-9e8f-97853694d676" />
+
 
 Each view adapts to different use cases — from daily time tracking to long-term utilization review.
 ### **Calendar Widget**
@@ -57,7 +59,6 @@ These insights help users and managers evaluate productivity and ensure balanced
 If time approval is enabled, the **Time Approval** tab allows managers or authorized users to review and approve timesheets.
 
 Key features include:
-  ### IMAGE
 - **Members List:** Displays all members who have logged time in the selected week.
 - **Calendar Widget:** Enables week selection for reviewing submissions.
 - **Showing For:** View all members or filter by a single member.
