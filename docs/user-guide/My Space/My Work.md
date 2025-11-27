@@ -21,6 +21,10 @@ Upon clicking, you will be automatically redirected to the **My Work** page.
 
 The Home icon serves as the fastest way to view your personal task dashboard.
 
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/e64067f1-aef5-4aa4-9799-3d85fcd3715c" />
+
+
 # My Work Categories
 
 Each task within _My Work_ is automatically categorized based on its due date.  
@@ -73,3 +77,4 @@ Arrange tasks or subtasks in ascending or descending order based on due dates, p
 
 ✅ **Pro Tip**:  
 Use _My Work_ as your daily starting point to stay organized, prioritize important tasks, and never miss a deadline.
+
