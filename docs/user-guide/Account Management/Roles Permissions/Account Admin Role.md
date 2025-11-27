@@ -46,6 +46,10 @@ In the **Account Admin** role, the **Subscription and Billing** permission is **
 |Discussion|✔️ (Checkbox)|✔️ (Checkbox)|||Not Applicable|
 |File|✔️ (Checkbox)|✔️ (Checkbox)|||Not Applicable|
 
+
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/0366d8ab-c724-49cd-92d4-a8cd610632d7" />
+
+
 Note: In Discussions and Files, Edit and Delete access are automatically included when Add permission is enabled.
 
 ✅ In **Discussions** and **Files**, the user has **only two options**: View and Add (both via checkbox). Add access implies permission to comment, reply, edit own comments (in Discussions), and upload/manage own files (in Files).
