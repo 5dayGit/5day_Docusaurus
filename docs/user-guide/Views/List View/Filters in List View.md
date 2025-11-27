@@ -24,6 +24,9 @@ When there are no filters applied:
 
 You may start adding conditions immediately.
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/d3aa234e-87ae-4300-935d-304a1ad4c176" />
+
+
 ## Applying Filters
 When you click **+ Add**, a new filter row appears.\
 Each filter consists of **three parts**:
@@ -132,6 +135,10 @@ When at least one filter is active:
 - The **Filter icon** becomes highlighted
 - A small dot or indicator will show that filters are in use
 - This helps users quickly identify that the view is filtered
+
+
+<img width="3560" height="962" alt="image" src="https://github.com/user-attachments/assets/d76d9510-9e98-4e2b-9ae7-fb6143817508" />
+
 
 ### Important Notes
 - Filters are **user-specific** — each user has their own filter preferences.
