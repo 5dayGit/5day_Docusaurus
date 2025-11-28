@@ -1,4 +1,4 @@
-# **Account Owner Role — Permissions**
+# Account Owner Role — Permissions
 ## **Overview**
 In 5day.io, the **Account Owner** holds the highest level of authority across the platform.\
 They have full control over account settings, workspace operations, user management, billing, security, and permissions.
