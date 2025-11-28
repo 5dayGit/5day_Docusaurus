@@ -57,6 +57,9 @@ Once created, the task appears in your 5day.io workspace with a **link back to t
 | Due Date| Add due date for your task |
 | Assignee| Select an assignee whom you would like to assign a task. |
 
+<img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/d91567ce-2103-4b3f-8bfd-bd486fc825b4" />
+
+
 **Quick Notes**
 
 -   **Use message context**: Always create tasks **from the message** to auto-capture quotes.
@@ -65,3 +68,4 @@ Once created, the task appears in your 5day.io workspace with a **link back to t
 ## Other References
 
 To connect you Microsoft teams account with 5day.io, refer [Create your Microsoft Teams Account](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Integrations/Microsoft%20Teams/Connect%20your%20microsoft%20teams%20account.md).
+
