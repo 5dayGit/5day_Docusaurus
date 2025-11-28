@@ -1,4 +1,4 @@
-# **External Member Role — Permissions**
+# External Member Role — Permissions
 ## **Overview**
 An **External Member** in 5day.io is typically a **contractor, vendor, or freelancer** who is granted limited access to collaborate on specific tasks or projects.\
 They can view or work on items assigned to them, but do not have administrative access or broader visibility.
