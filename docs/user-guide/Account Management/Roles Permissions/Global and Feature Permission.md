@@ -1,4 +1,4 @@
-# **Understanding Global and Feature Permission Types**
+# Understanding Global and Feature Permission Types
 
 ## **Global Permissions — Options**
 Global permissions control access to **account-wide administrative areas** like Settings, People Management, Billing, Security, Integrations, and Custom Fields.
