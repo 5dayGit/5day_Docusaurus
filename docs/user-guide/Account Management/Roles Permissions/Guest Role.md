@@ -1,4 +1,4 @@
-# **Guest Role — Permissions**
+# Guest Role — Permissions
 ## **Overview**
 The **Guest** role in 5day.io is designed for **external users**, such as clients or consultants, who need limited access to specific projects or tasks they’ve been invited to.\
 Guests typically have **view-only access** and cannot create or edit work. They are ideal for stakeholders who only need to monitor progress.
