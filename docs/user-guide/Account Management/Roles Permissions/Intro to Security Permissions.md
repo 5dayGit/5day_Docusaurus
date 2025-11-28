@@ -1,4 +1,4 @@
-# **Overview**
+# Overview
 The **Security and Permissions** section in 5day.io allows organizations to **control access** and **manage user roles** across the platform.
 
 Through this section, users can:
