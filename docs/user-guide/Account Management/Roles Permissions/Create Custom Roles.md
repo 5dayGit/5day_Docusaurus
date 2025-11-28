@@ -1,4 +1,4 @@
-# **How to Create Custom Roles**
+# How to Create Custom Roles
 Custom Roles in 5day.io allow you to define tailored access levels for different types of users, beyond the system-provided default roles.\
 *Note: Custom Roles are available only on the Growth Plan.*
 
