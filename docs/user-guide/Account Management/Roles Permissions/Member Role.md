@@ -1,4 +1,4 @@
-# **Member Role — Permissions**
+# Member Role — Permissions
 ## **Overview**
 In 5day.io, a **Member** is a regular user who collaborates on tasks and contributes to projects.\
 They do not have access to administrative or account-level configuration but can participate in project execution and team workflows.
