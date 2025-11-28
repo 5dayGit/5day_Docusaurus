@@ -11,6 +11,9 @@ There are two ways to open Global Search:
 1. **Using the Search Icon** 
    1. On the left navigation panel, click the **Search** icon.
    1. A search panel will open on the right side of the screen.
+
+   <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/5af8bd5b-3cb6-4cda-9f4a-cd9de13ac2f1" />
+
 1. **Using the Hotkey** 
    1. Press **s** on your keyboard from anywhere in [5day.io](http://5day.io/) to open Global Search instantly.
 ## How Global Search Works
@@ -80,4 +83,7 @@ When you click the **User** tab:
 **Navigation:**
 
 Navigation is not applicable for user results.
+
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/f0eb8a44-1804-40fe-a6e8-4e6f99f8501f" />
+
 
