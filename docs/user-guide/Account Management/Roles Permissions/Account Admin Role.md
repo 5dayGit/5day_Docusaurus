@@ -1,4 +1,4 @@
-# **Account Admin Role — Permissions**
+# Account Admin Role — Permissions
 ## **Overview**
 In 5day.io, the **Account Admin** is a key role responsible for managing users, workspace configuration, project operations, and platform-wide settings.\
 Unlike the Account Owner, Account Admins **do not have full access to subscription and billing**.
