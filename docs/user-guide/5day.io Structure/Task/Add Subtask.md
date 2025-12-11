@@ -12,6 +12,7 @@ Your Subtask instantly nests under the parent task.
 |--|--|
 | Free | 1000 |
 | Growth | Unlimited |
+| Scale | Unlimited |
 
 ## Who can create Task
 
