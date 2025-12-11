@@ -10,8 +10,6 @@ In 5day.io, a task can be assigned to a single person or to multiple people if t
 
 Subtasks, however, can be assigned to **only one person**. Before assigning, the user must be part of the project.
 
-## Subscription Association
-
 ## Permission Set
 
 Assignment of tasks and subtasks is controlled through the **Edit Task** permission set
