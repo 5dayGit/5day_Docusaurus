@@ -11,6 +11,7 @@ Simply click + Add Task, enter a clear title, and optionally set assignee, due d
 |--|--|
 | Free | 1000 |
 | Growth | Unlimited |
+| Scale | Unlimited |
 
 ## Who can create Task
 
