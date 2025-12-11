@@ -6,6 +6,7 @@ In 5day.io, **Workspace** serves as the highest level of organization within you
 |--|--|
 | Free | 1 |
 | Growth | Unlimited |
+| Scale | Unlimited |
 
 ## Add Workspace
 
