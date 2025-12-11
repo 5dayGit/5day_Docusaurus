@@ -8,8 +8,6 @@ Estimation values are individual for tasks and subtasks and are not interlinked.
 
 You can configure different duration formats based on your preference. This allows teams to plan and distribute their work more efficiently and transparently across the project.
 
-## Subscription Association
-
 ## Permission Set
 
 Assignment of estimation values is controlled through the **Edit Task** permission set:
