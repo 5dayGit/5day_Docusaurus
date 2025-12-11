@@ -8,8 +8,6 @@ These dates help teams plan, prioritize, and execute work more effectively. Each
 
 Dates play a vital role in generating views, filters, workload balancing, and time-sensitive reports across the system. They also directly influence status indicators like **Overdue**.
 
-## Subscription Association
-
 ## Permission Set
 
 The ability to assign or edit dates is governed by the **Edit Task** permission set:
