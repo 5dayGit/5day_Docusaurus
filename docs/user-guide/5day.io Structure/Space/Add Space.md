@@ -6,6 +6,7 @@ Space is the second level of organization within a Workspace. It allows you to g
 |--|--|
 | Free | 5 |
 | Growth | Unlimited |
+| Scale | Unlimited |
 
 ## Add Space
 You can create a new space in multiple ways within 5day.io:
