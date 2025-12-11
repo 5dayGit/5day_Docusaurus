@@ -56,6 +56,14 @@ If needed, you can choose not to apply assignee-wise estimation at the individua
 
 This provides complete flexibility to manage estimations either collectively or individually based on project needs.
 
+#### Subscription Association
+
+| Plan | Assignee Wise Estimation |
+|--|--|
+| Free | ❌ Not Included  | 
+| Growth | ✅ Included |
+| Scale | ✅ Included  |
+
 ## Add Estimation
 
 ### Task/Subtask Details
@@ -103,7 +111,7 @@ This provides complete flexibility to manage estimations either collectively or 
 <img width="3360" height="1753" alt="image" src="https://github.com/user-attachments/assets/58c4e959-3aef-4887-8547-9fd96abb9741" />
 
 
-### Assignee Wise Estimation
+### Assignee Wise Estimation 
 
 Applicable only for **tasks** where multiple assignees are available.
 
