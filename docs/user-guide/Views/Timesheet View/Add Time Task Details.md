@@ -1,4 +1,4 @@
-# **Add Time via Task Details**
+# Add Time via Task Details
 ## **Overview**
 In 5day.io, users can directly add time for any task from within its **Task Details** view. This method is especially useful when you’re already reviewing or updating a task and want to capture time without switching views.
 
@@ -47,4 +47,5 @@ After time is logged (whether manually or via timer), you can view all related e
 - Billable or non-billable time entry
 
 <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/0b440d83-aa1e-4465-82fe-e50905f8b87d" />
+
 
