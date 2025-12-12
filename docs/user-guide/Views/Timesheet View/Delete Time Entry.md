@@ -1,4 +1,4 @@
-# **How to Delete Time Entries for a Task**
+# How to Delete Time Entries for a Task
 Time entries can also be deleted directly from the task if a mistake was made or if the log is no longer relevant.
 ## **Steps to Delete a Time Entry:**
 1. Open the **List View** or **Board View** of your project.
@@ -13,4 +13,5 @@ Time entries can also be deleted directly from the task if a mistake was made or
 
 
  **Note**: You can only delete your own time entries unless you're a Project Admin, Account Admin, or a user with delete permissions.
+
 
