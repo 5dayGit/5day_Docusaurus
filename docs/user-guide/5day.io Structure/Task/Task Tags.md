@@ -9,6 +9,13 @@ To use tags, the **Tags** feature must be enabled at the project level.
 
 ## Subscription Association
 
+| Plan | Tags |
+|--|--|
+| Free | ❌ Not Included  | 
+| Growth | ✅ Included |
+| Scale | ✅ Included  |
+
+
 ## Permission Set
 
 Assignment of tags to tasks and subtasks is controlled through the **Edit Task** permission set:
