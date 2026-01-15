@@ -3,7 +3,7 @@ Task Recurrence turns any Task into a self-repeating machine - automatically cre
 
 ## Permission 
  
-You need **Edit task permission** in the source task and **Add task permission** to create recurred tasks.
+You need **Edit task permission** in the source task and **Add task permission** to create recurring tasks.
 
 ## Ways to Access Duplicate Task
 
@@ -72,5 +72,6 @@ Every recurred Task displays a **🔄 recurrence icon** in List, Board, and Task
 To create a new task, refer [Add Task](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Task.md).
 
 To create a new subtask, refer [Add Subtask](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Subtask.md).
+
 
 
