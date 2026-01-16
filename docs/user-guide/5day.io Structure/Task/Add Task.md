@@ -17,7 +17,7 @@ Simply click + Add Task, enter a clear title, and optionally set assignee, due d
 
 Users must have **Add Task** permission to add new task or subtask.
 
-If not allowed, the system will restrict task creation actions. Refer [Roles and Permission](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Workspace/Roles%20and%20Permission%20for%20Workspace.md) for more details.
+If not allowed, the system will restrict task creation actions. Refer [Roles and Permission](https://help.5day.io/docs/user-guide/5day.io%20Structure/Task/Roles%20and%20Permission%20of%20Task) for more details.
 
 ## Ways to Add Task
 
