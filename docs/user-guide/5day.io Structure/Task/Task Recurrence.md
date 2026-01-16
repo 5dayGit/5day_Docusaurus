@@ -69,9 +69,10 @@ Every recurred Task displays a **🔄 recurrence icon** in List, Board, and Task
 
 ## Other References
 
-To create a new task, refer [Add Task](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Task.md).
+To create a new task, refer [Add Task](https://help.5day.io/docs/user-guide/5day.io%20Structure/Task/Add%20Task).
 
-To create a new subtask, refer [Add Subtask](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Add%20Subtask.md).
+To create a new subtask, refer [Add Subtask](https://help.5day.io/docs/user-guide/5day.io%20Structure/Task/Add%20Subtask).
+
 
 
 
