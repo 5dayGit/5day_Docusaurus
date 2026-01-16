@@ -17,10 +17,11 @@ Each project supports additional metadata like project description, client assig
 The **Projects** feature is available across all subscription plans in 5day.io. However, the number of projects you can create depends on your subscription tier: 
 
 ### Project Creation Limits by Subscription Plan
-| **Subscription Plan**  | **Project Creation Limit**  |
-|:-:|:-:|
-| Free Plan  | Up to 5 Projects  |
-| Growth Plan  | Unlimited Projects  |
+| Subscription Plan | Project Creation Limit
+|--|--|
+| Free | Up to 5 Projects  |
+| Growth | Up to 50 Projects  |
+| Scale | Unlimited Projects  |
  
 ### Who Can Create and Manage Projects 
 * **Account Owners, Account Admins, and Managers (default roles)** can create, access, and manage projects. 
