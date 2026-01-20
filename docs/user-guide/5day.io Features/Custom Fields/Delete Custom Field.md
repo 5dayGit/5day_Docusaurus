@@ -1,7 +1,7 @@
 # Delete Custom Field
 
 ## Delete custom field for task and subtasks
-Go to Project -> Project Settings -> Customization -> Task Type -> Custom Fields.
+1. Go to Project -> Project Settings -> Customization -> Task Type -> Custom Fields.
 2. Hover over a custom field and click on more button (Three dots of custom field at the end of its name).
 3. Click on **Delete**.
 
@@ -21,4 +21,4 @@ Go to Project -> Project Settings -> Customization -> Task Type -> Custom Fields
 Deleting a Custom Field from account level will permanently remove from entire account and the places where it is used.
 
 ## Other References
-
+To create a new custom field, refer [Add Custom Field](https://help.5day.io/docs/user-guide/5day.io%20Features/Custom%20Fields/Add%20Custom%20Field)
