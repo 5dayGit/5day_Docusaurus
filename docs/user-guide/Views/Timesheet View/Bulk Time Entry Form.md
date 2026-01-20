@@ -1,4 +1,3 @@
-## **Bulk Time Entry Form Overview**
 ## **Overview**
 The **Bulk Time Entry** feature in 5day.io allows users to log time for multiple days in one go, making it easier to catch up on time tracking for past or future dates. This is especially useful for logging time on recurring tasks or internal activities like meetings, planning, or documentation.
 
@@ -66,3 +65,4 @@ The category will be listed with empty time fields next to each day, ready for e
 - **User Switcher**: If you're an admin or project manager, you can log time on behalf of others by selecting their name from the dropdown.
 - **Time Validation**: Ensure you use the correct format (hh:mm). 
 - **Save**: After entering all required time entries, click **Save** to log all entries in bulk.
+
