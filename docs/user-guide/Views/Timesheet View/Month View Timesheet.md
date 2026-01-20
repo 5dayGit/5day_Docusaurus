@@ -1,4 +1,4 @@
-### **Month View in Timesheet**
+### **Overview**
 The **Month View** offers a high-level calendar layout, allowing users to quickly visualize all time entries logged across an entire month.
 #### **What You Can Do in Month View**
 - **Calendar Layout**: Displays the selected month in a calendar format, with dates and weekdays clearly marked.
@@ -17,4 +17,5 @@ The **Month View** offers a high-level calendar layout, allowing users to quickl
   - Filter entries by **Budget Type** (e.g., Billable / Non-Billable) to refine the view.
 
 <img width="3560" height="2300" alt="image" src="https://github.com/user-attachments/assets/8b819579-2597-436b-9e66-6c8ac95aace0" />
+
 
