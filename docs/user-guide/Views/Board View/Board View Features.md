@@ -51,7 +51,7 @@ Sections also have statuses (New, In Progress, Done).
 - **Disabled** → Columns belonging to Sections in the “Done” stage are hidden.
 
 **Note:**\
-` `This setting affects **column visibility**, not task visibility.
+This setting affects **column visibility**, not task visibility.
 
 #### 4\. Show Subtask as a Separate Task
 Determines how subtasks appear in Board View.
