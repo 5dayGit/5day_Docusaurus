@@ -43,5 +43,5 @@ List View is **available on all subscription plans** of [5day.io](http://5day.io
 
 ### Roles & Permissions
 The tasks you see and the actions available in List View depend on your **assigned role and permission set**.\
-For complete details, refer to the dedicated guide:\
-**Roles and Permissions for Tasks**
+
+For complete details, refer [Roles and Permissions for Tasks](https://help.5day.io/docs/user-guide/5day.io%20Structure/Task/Roles%20and%20Permission%20of%20Task?_highlight=roles)
