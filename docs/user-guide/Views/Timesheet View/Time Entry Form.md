@@ -1,4 +1,4 @@
-## **Time Entry Form Overview**
+## **Overview**
 The **Time Entry Form** in 5day.io provides a unified interface to log time across different use cases — whether you're tracking time on tasks, logging internal efforts (like meetings or reviews), or recording time off (such as sick leave or vacation).
 
 Although this form can be accessed from multiple locations — like Quick Add, My Timesheet, or directly from a task — the layout remains consistent. The form is structured into **three tabs**, each designed for a specific time logging scenario:
@@ -99,3 +99,4 @@ Users can log time off as either:
 |**From**|Start date of the time off.|
 |**To**|End date of the time off. If it's a one-day leave, both dates will be the same.|
 |**Note**|(Optional) Add context or reason for taking time off.|
+
