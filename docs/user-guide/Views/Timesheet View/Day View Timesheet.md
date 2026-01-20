@@ -1,4 +1,4 @@
-## **Day View (Timesheet)**
+## **Overview**
 The **Day View** in 5day.io Timesheet allows you to see time entries laid out in a familiar hourly calendar format. It’s designed to help you visualize how your team is spending time throughout the day.
 ###  What You Can See
 - A **vertical timeline** from 00:00 to 24:00, showing all hours in a day.
@@ -22,3 +22,4 @@ The **Day View** in 5day.io Timesheet allows you to see time entries laid out in
 - **Search:** Look up time entries using task or subtask names, task or subtask IDs, or by people.
 - **Filter**: Filter entries by **Budget Type** (Billable / Non-Billable).
 - **Change the Day**: Navigate to past or upcoming days using the left/right arrow buttons at the top.
+
