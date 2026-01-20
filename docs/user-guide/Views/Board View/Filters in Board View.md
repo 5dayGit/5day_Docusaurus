@@ -47,7 +47,7 @@ Choose the attribute to filter by, such as:
 - Task Type
 - Budget Type
 - Any Custom Field\
-  ` `…and more.
+  …and more.
 
 Once a field is selected, the Operator dropdown becomes active.
 
