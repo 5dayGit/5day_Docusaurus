@@ -22,6 +22,3 @@ A **Workflow** in 5day.io is the smart rule that powers your Automation. It’s 
 
 In short: one Workflow = hundreds of manual clicks saved. Build a few good ones and watch your project basically run itself.
 
-## Other References
-
-
