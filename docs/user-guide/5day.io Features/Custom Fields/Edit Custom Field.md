@@ -48,3 +48,5 @@ Changes sync instantly across all linked tasks, subtasks, and views, ensuring da
 The edited custom field will be updated to all projects, tasks and subtasks where its used.
 
 ## Other References
+
+To create a new custom field, refer [Add Custom Field](https://help.5day.io/docs/user-guide/5day.io%20Features/Custom%20Fields/Add%20Custom%20Field)
