@@ -26,9 +26,8 @@ What a user can **view** and what they can **modify** in Timeline View depends e
 - Users can only see the tasks and subtasks they have permission to view.
 - Actions such as dragging tasks, resizing dates, or editing details depend on their edit permissions.
 
-For complete details on task visibility and allowed actions, refer to the Task Roles & Permissions documentation:
+For complete details on task visibility and allowed actions, refer [Roles and Permissions for Tasks](https://help.5day.io/docs/user-guide/5day.io%20Structure/Task/Roles%20and%20Permission%20of%20Task?_highlight=roles)
 
-[**](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Roles%20and%20Permission%20of%20Task.md)[https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io Structure/Task/Roles and Permission of Task.md**](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io%20Structure/Task/Roles%20and%20Permission%20of%20Task.md**)
 ## How to Enable and Access Timeline View
 ### Enable Timeline for a Project
 1. Open the project.
