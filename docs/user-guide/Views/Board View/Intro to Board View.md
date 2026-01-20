@@ -15,9 +15,7 @@ What a user sees or can modify in Board View depends entirely on the **roles and
 Users can only view or modify the tasks and subtasks they have permission to access.\
 All task visibility rules and allowed actions in Board View follow the **Task Roles & Permissions** configuration.
 
-For complete details on task-level visibility and permissions, refer to the Task Roles & Permissions documentation:
-
-[**https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io**](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/5day.io) **Structure/Task/Roles and Permission of Task.md**
+For complete details on task-level visibility and permissions, refer [Roles and Permissions for Tasks](https://help.5day.io/docs/user-guide/5day.io%20Structure/Task/Roles%20and%20Permission%20of%20Task?_highlight=roles)
 
 
 
