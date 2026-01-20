@@ -22,5 +22,10 @@ Automation in 5day.io is your team's silent superhero that handles repetitive wo
 
 Think of it as giving your project a brain that never sleeps. You teach it your rules once, then go focus on real work while 5day.io keeps everything moving perfectly.
 
-## Other References
+## Subscription Association
 
+| Plan | Automation workflows |
+|--|--|
+| Free | - |
+| Growth | 25 workflows & 500 workflow cycle/month |
+| Scale | 500 workflows & 5000 workflow cycle/month |
