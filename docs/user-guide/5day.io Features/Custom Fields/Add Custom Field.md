@@ -6,8 +6,9 @@ Define the field name, select its type (e.g., text, date, dropdown, etc..), and 
 ## Subscription Association
 | Plan | Number of Custom Fields|
 |--|--|
-| Free | 10 |
-| Growth | 100|
+| Free | 5 |
+| Growth | 100 |
+| Scale | Unlimited |
 
 ## Permission Set
 
