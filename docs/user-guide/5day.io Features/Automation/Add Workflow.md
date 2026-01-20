@@ -2,8 +2,6 @@
 
 In 5day.io, **Add Workflow** lets you create a new automation rule that runs automatically inside your project. One click and your team never has to remember those repetitive steps again.
 
-## Subscription
-
 ## Permission Set
 
 You should have **Edit Project** permission to manage workflows in the project.
@@ -61,6 +59,3 @@ This is the brain of your workflow – the exact “if this, then that” logic.
 
 Your new workflow instantly appears in the **List of Workflows** and starts working immediately (toggle it off anytime if you want to pause it).
 That’s it - one workflow, hundreds of clicks saved every week!
-
-## Other References
-
