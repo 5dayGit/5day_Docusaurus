@@ -1,4 +1,4 @@
-### **List View in Timesheet**
+### **Overview**
 The **List View** offers a clean, summary-style breakdown of time entries for the selected week. It’s ideal for getting a quick snapshot of how much time has been logged by each member and across which tasks.
 #### **What You Can Do in List View**
 - **Member-wise Summary**:
@@ -23,3 +23,4 @@ The **List View** offers a clean, summary-style breakdown of time entries for th
   - Filter by **Budget Type** (Billable or Non-Billable) using the top-right filter icon.
 - **Summary Panel**:
   - A summary at the bottom will display detailed time entry summary.
+
