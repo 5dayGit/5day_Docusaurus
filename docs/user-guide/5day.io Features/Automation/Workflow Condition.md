@@ -8,8 +8,6 @@
 -   Prevent automation spam (no more 50 notifications for every tiny change).
 -   Handle complex real-world rules without creating 10 separate workflows.
 
-## Subscription
-
 ## **How Conditions work** 
 After a trigger fires, 5day.io checks your conditions **from left to right**.
 
@@ -38,6 +36,3 @@ After a trigger fires, 5day.io checks your conditions **from left to right**.
 | Percentage | Greater Than, Less Than, Greater Than or Equal, Less Than or Equal, Equals, Not Equals, Is Empty, Is Not Empty | Progress is Greater Than 60% |
 
 Conditions make your automations bulletproof. Start simple (one condition), then nest as you need more smarts.
-
-## Other References
-
