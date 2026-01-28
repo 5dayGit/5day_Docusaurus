@@ -1,4 +1,3 @@
-## Timesheet Feature 
 ### **Overview**
 In 5day.io, timesheet-related functionalities such as time entry, tracking, and approval can be configured at the project level based on your team's needs. These features provide flexibility in how you want to manage and track work hours across different types of projects — whether client-based, internal, or billable/non-billable.
 
@@ -52,3 +51,4 @@ The following additional features are available but **disabled by default**. Pro
 - Once this feature is enabled, a confirmation prompt appears asking how you’d like the estimation to be handled:
   - **Equally divide the estimation by person**, or
   - **Disable equal division**, allowing manual input of effort per assignee.
+
