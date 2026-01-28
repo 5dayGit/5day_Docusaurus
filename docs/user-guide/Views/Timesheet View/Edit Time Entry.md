@@ -1,4 +1,4 @@
- **How to Edit Time Entries for a Task**
+# **How to Edit Time Entries for a Task**
 
 You can edit your own time entries directly from the **Task Details** view. Admins, Project Managers, or users with edit permissions can also update time entries logged by other members.
 ## **Steps to Edit a Time Entry:**
@@ -16,3 +16,4 @@ You can edit your own time entries directly from the **Task Details** view. Admi
 
 
 ✅ **Note**: You can only edit your own entries unless you have the appropriate permissions.
+
