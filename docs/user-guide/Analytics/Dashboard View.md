@@ -8,6 +8,7 @@ However, the number of widgets you can create in account varies by the subscript
 |--|--|
 | Free | 100 Widgets |
 | Growth | 1000 Widgets |
+| Scale | Unlimited Widgets  |
 
 📢 **Note:** Widgets are flexible and allow teams to track different types of project metrics based on needs.
 
