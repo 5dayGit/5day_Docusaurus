@@ -47,3 +47,4 @@ You can manage time approvals in two ways:
 - Approved time entries are marked with an “Approved” status.
 - Rejected time entries are returned to the member for correction or re-submission.
 - Admins and project managers can also **edit logged time** before approving, if needed.
+
