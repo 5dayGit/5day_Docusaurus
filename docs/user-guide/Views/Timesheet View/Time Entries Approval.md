@@ -1,4 +1,4 @@
-## **How Members Can Submit Time Entries for Approval**
+# **How Members Can Submit Time Entries for Approval**
 ###  Submission Methods
 #### **1. Submit from Task Details**
 - Go to the **project** and open the **task** where time was logged.
@@ -20,3 +20,4 @@ Note: You can identify unsubmitted time entries by the **"To Submit"** status.
 - Go to **My Timesheet** from the navigation menu.
 - Inside My Timesheet, switch to any view — **Day, Week, Month, or List**.
 - If time entries are pending submission for the selected time period, a **Submit All** button will be visible.
+
