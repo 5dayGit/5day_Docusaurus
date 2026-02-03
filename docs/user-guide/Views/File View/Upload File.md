@@ -31,7 +31,7 @@ A file can be uploaded in three different ways:
 
 ## Other References
 
-To access File view, refer  [File View](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/File%20View/File%20View.md)
+To access File view, refer  [File View](https://help.5day.io/docs/user-guide/Views/File%20View/)
 
-To download a file, refer  [Download File](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/File%20View/Download%20File.md)
+To download a file, refer  [Download File](https://help.5day.io/docs/user-guide/Views/File%20View/Download%20File)
 
