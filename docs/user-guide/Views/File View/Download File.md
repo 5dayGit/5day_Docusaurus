@@ -19,7 +19,7 @@ To download a file
 
 ## Other References
 
-To access File view, refer  [File View](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/File%20View/File%20View.md)
+To access File view, refer  [File View](https://help.5day.io/docs/user-guide/Views/File%20View/)
 
-To upload a file, refer  [Upload File](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/File%20View/Upload%20File.md)
+To upload a file, refer  [Upload File](https://help.5day.io/docs/user-guide/Views/File%20View/Upload%20File)
 
