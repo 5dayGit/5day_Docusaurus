@@ -1,4 +1,3 @@
-# View Time Logged Entries via Task Details 
 ## **Overview**
 In 5day.io, users can easily view all time entries logged against a task directly from the **Task Details** panel. This allows team members and managers to quickly understand how much time has been spent on a task and by whom.
 
@@ -30,5 +29,6 @@ The Time Entries panel displays the following:
 - **Regular Users**: Can view their own time entries
 - **Project Managers/Admins**: Can view all users’ entries on the task
   - They can also **edit** or **delete** entries logged by other team members (based on role permissions)
+
 
 
