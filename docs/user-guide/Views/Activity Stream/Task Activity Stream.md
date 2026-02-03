@@ -1,5 +1,5 @@
 # Task Activity Stream
-** Task Activity History** is the complete, unfiltered log of every single thing that ever happened to a Task or Subtask - from creation to deletion - showing exactly who did what and when.
+Task Activity History is the complete, unfiltered log of every single thing that ever happened to a Task or Subtask - from creation to deletion - showing exactly who did what and when.
 
 ## Subscription
 | Plan | History Maintained|
@@ -48,5 +48,6 @@ Activity Stream auto-groups entries to keep it scannable:
 
 ## Other References
 
-To explore about project history , refer to the [Project Activity Stream](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Activity%20Stream/Project%20Activity%20Stream.md).
+To explore about project history , refer to the [Project Activity Stream](https://help.5day.io/docs/user-guide/Views/Activity%20Stream/Project%20Activity%20Stream).
+
 
