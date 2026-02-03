@@ -1,4 +1,4 @@
-## **How to Approve or Reject Time Entries**
+# **How to Approve or Reject Time Entries**
 In 5day.io, when time approval is enabled for a project, admins, project managers, or users with the appropriate permissions can **approve** or **reject** time entries submitted by members.
 
 You can manage time approvals in two ways:
@@ -47,4 +47,5 @@ You can manage time approvals in two ways:
 - Approved time entries are marked with an “Approved” status.
 - Rejected time entries are returned to the member for correction or re-submission.
 - Admins and project managers can also **edit logged time** before approving, if needed.
+
 
