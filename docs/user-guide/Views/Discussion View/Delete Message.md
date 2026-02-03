@@ -19,7 +19,7 @@ Only the **Message owner** (the person who originally added the message) can del
 
 ## Other References
 
-To access Discussion View, refer  [Discussion View](/docs/user-guide/Views/Discussion%20View)
+To access Discussion View, refer  [Discussion View](https://help.5day.io/docs/user-guide/Views/Discussion%20View/)
 
-To add a message, refer  [Add Message](/docs/user-guide/Views/Discussion%20View/Add%20Message)
-To edit a message, refer  [Edit Message](/docs/user-guide/Views/Discussion%20View/Edit%20Message)
+To add a message, refer  [Add Message](https://help.5day.io/docs/user-guide/Views/Discussion%20View/Add%20Message)
+To edit a message, refer  [Edit Message](https://help.5day.io/docs/user-guide/Views/Discussion%20View/Edit%20Message)
