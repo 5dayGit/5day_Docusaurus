@@ -15,7 +15,8 @@ In 5day.io, files can be managed and organized across four levels of hierarchy:
 2.  Section
 3.  Task
 4.  Subtask
-5. 
+5. Files
+
 At the Project and Section, the **File View** needs to be enabled in the **Project Settings** under the **Views** section.  
 
 At the **Task** and **Subtask** levels, the **Files** feature is automatically enabled.
@@ -55,7 +56,7 @@ View Permission: Users with view access to the files can view them at all views 
 
 ## Other References
 
-To access File view, refer  [File View](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/File%20View/File%20View.md)
+To access File view, refer  [File View](https://help.5day.io/docs/user-guide/Views/File%20View/)
 
-To upload a file, refer  [Upload File](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/File%20View/Upload%20File.md)
+To upload a file, refer  [Upload File](https://help.5day.io/docs/user-guide/Views/File%20View/Upload%20File)
 
