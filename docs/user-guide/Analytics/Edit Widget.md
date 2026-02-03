@@ -1,6 +1,6 @@
 # Edit Widget
 
-For permissions, refer **[Dashboard Views](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Dashboard%20View.md)**
+For permissions, refer **[Dashboard Views](https://help.5day.io/docs/user-guide/Analytics/Dashboard%20View)**
 
 To edit an existing widget:
 
@@ -17,9 +17,9 @@ To edit an existing widget:
 
 ## Other References
 
-For more details about widget types, refer [Widget Type](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Widget%20Types.md)
+For more details about widget types, refer [Widget Type](https://help.5day.io/docs/user-guide/Analytics/Widget%20Types)
 
-To explore filters, refer  [Widget Filters](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Widget%20Filters.md)
+To explore filters, refer  [Widget Filters](https://help.5day.io/docs/user-guide/Analytics/Widget%20Filters)
 
-To Delete the widget, refer  [Delete Widget](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Delete%20Widget.md)
+To Delete the widget, refer  [Delete Widget](https://help.5day.io/docs/user-guide/Analytics/Delete%20Widget)
 
