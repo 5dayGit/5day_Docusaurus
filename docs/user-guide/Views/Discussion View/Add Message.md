@@ -1,4 +1,4 @@
-## **Overview**
+## **Add Message**
 
 A **Message** in the Discussion View allows team members to share their thoughts, updates, or feedback regarding specific projects, sections, tasks, or subtasks.
 
