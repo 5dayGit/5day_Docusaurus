@@ -1,4 +1,4 @@
-# Add Message
+## **Overview**
 
 A **Message** in the Discussion View allows team members to share their thoughts, updates, or feedback regarding specific projects, sections, tasks, or subtasks.
 
@@ -27,7 +27,7 @@ Your message will be immediately visible to everyone who has access to that disc
 
 ## Other References
 
-To access Discussion View, refer  [Discussion View](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Discussion%20View.md)
+To access Discussion View, refer  [Discussion View](https://help.5day.io/docs/user-guide/Views/Discussion%20View/)
 
-To edit a message, refer  [Edit Message](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Edit%20Message.md)
+To edit a message, refer  [Edit Message](https://help.5day.io/docs/user-guide/Views/Discussion%20View/Edit%20Message)
 
