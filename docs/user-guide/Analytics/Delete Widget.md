@@ -1,6 +1,6 @@
 # Delete Widget
 
-For permissions, refer **[Dashboard Views](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Dashboard%20View.md)**
+For permissions, refer **[Dashboard Views](https://help.5day.io/docs/user-guide/Analytics/Dashboard%20View)**
 
 To delete an existing widget:
 
@@ -18,4 +18,4 @@ To delete an existing widget:
 
 ## Other References
 
-To create a new widget, refer  [Add Widget](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Add%20Widget.md)
+To create a new widget, refer  [Add Widget](https://help.5day.io/docs/user-guide/Analytics/Add%20Widget)
