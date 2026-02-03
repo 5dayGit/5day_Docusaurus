@@ -55,6 +55,6 @@ By default, in all projects & section; discussion view is enable. Follow these s
 
 ## Other References
 
-To Add a message, refer  [Add Message](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Add%20Message.md)
+To Add a message, refer  [Add Message](https://help.5day.io/docs/user-guide/Views/Discussion%20View/Add%20Message)
 
-To mention someone in message, refer  [@mention in Message](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/@mention%20in%20Message.md)
+To mention someone in message, refer  [@mention in Message](https://help.5day.io/docs/user-guide/Views/Discussion%20View/Message%20Features#mention)
