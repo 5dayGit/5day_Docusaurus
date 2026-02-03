@@ -6,12 +6,13 @@ The Dashboard feature is available across all subscription plans.
 However, the number of widgets you can create in account varies by the subscription plan.
 | Subscription Plan | Number of Widgets |
 |--|--|
-| Free | 100 Widgets |
-| Growth | 1000 Widgets |
+| Free | 5 Widgets |
+| Growth | 500 Widgets |
+| Scale | Unlimited Widgets  |
 
 ## Add Widget
 
-For permissions, refer **[Dashboard Views](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Dashboard%20View.md)**
+For permissions, refer **[Dashboard Views](https://help.5day.io/docs/user-guide/Analytics/Dashboard%20View)**
 
 To create a new widget in your project or section dashboard:
 
@@ -34,9 +35,9 @@ To create a new widget in your project or section dashboard:
 -   Always double-check before deleting important widgets, as deletion is irreversible.
 
 ## Other References
-For more details about widget types, refer [Widget Type](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Widget%20Types.md)
+For more details about widget types, refer [Widget Type](https://help.5day.io/docs/user-guide/Analytics/Widget%20Types)
 
-To explore filters, refer  [Widget Filters](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Widget%20Filters.md).
+To explore filters, refer  [Widget Filters](https://help.5day.io/docs/user-guide/Analytics/Widget%20Filters).
 
-To Edit the widget, refer  [Edit Widget](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Edit%20Widget.md).
+To Edit the widget, refer  [Edit Widget](https://help.5day.io/docs/user-guide/Analytics/Edit%20Widget).
 
