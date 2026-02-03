@@ -24,6 +24,6 @@ Users can add multiple widgets to a single Dashboard, creating a personalized wo
 
 ## Other References
 
-To create a new widget, refer  [Add Widget](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Add%20Widget.md)
+To create a new widget, refer  [Add Widget](https://help.5day.io/docs/user-guide/Analytics/Add%20Widget)
 
-To explore widget types, refer [Widget Types](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Widget%20Types.md)
+To explore widget types, refer [Widget Types](https://help.5day.io/docs/user-guide/Analytics/Widget%20Types)
