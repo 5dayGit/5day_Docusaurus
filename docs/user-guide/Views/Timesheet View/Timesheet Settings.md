@@ -1,5 +1,4 @@
-### Timesheet Settings
-**Overview**
+# **Overview**
 
 In 5day.io, all timesheet configuration is managed from the workspace level. Admins can fine-tune how time entries are logged, what’s allowed for past and future dates, and enable key features like overtime tracking or timesheet approval.
 
@@ -94,3 +93,4 @@ Each category entry includes a three-dot menu (⋮) where you can manage it:
 |**Edit Color or Icon**|Click on the color square or icon to make changes as needed.|
 
 ✅ **Note:** Categories are immediately reflected in the timesheet logging interface. Users will be able to select from these categories when logging Internal Time or Time Off.
+
