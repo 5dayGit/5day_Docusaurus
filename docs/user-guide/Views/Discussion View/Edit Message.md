@@ -17,8 +17,8 @@ Only the message owner (the person who originally added the message) can edit th
 
 ## Other References
 
-To access Discussion View, refer  [Discussion View](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Discussion%20View.md)
+To access Discussion View, refer  [Discussion View](https://help.5day.io/docs/user-guide/Views/Discussion%20View/)
 
-To add a message, refer  [Add Message](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Add%20Message.md)
+To add a message, refer  [Add Message](https://help.5day.io/docs/user-guide/Views/Discussion%20View/Add%20Message)
 
-To delete a message, refer  [Delete Message](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Views/Discussion%20View/Delete%20Message)
+To delete a message, refer  [Delete Message](https://help.5day.io/docs/user-guide/Views/Discussion%20View/Delete%20Message)
