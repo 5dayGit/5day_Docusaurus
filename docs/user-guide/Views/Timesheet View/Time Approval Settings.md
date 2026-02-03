@@ -1,4 +1,4 @@
-## **How to Enable or Disable Time Approval for a Project**
+# **How to Enable or Disable Time Approval for a Project**
 ### **Steps to Enable or Disable Time Approval**
 1. Go to the **project** where you want to update the time approval setting.
 1. Click the **three-dot menu (⋮)** next to the project name and select **Project Settings**.
@@ -14,3 +14,4 @@
 - Only users with access to **manage project settings** (such as **Admins**, **Project Managers**, or users with the appropriate custom role permissions) can update this setting.
 - Once Time Approval is enabled, team members will need to manually **submit** their time entries.
 - Approvers will have the ability to **review**, **approve**, **reject**, or **add approved** submitted time logs as needed.
+
