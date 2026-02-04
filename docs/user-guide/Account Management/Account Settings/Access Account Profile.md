@@ -1,4 +1,4 @@
-## How to Access Account Profile
+# How to Access Account Profile
 
 To access your Account Profile:
 
