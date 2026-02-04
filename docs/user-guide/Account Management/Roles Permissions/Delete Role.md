@@ -1,4 +1,5 @@
-## How to Delete a Role
+# How to Delete a Role
+
 In 5day.io, you can delete any **default or custom role**, except for the **Account Owner** role.\
 Note: The Account Owner role is mandatory and always assigned to at least one user, so it cannot be deleted.
 ### **Steps to Delete a Role:**
