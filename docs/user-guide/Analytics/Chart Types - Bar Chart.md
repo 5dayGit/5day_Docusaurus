@@ -56,7 +56,7 @@ The Format settings let you tweak how the Bar Chart looks and feels. Make it mat
 
 ## Other References
 
-For more details about Widget Types , refer  [Widget Types](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Widget%20Types.md)
+For more details about Widget Types , refer  [Widget Types](https://help.5day.io/docs/user-guide/Analytics/Widget%20Types)
 
 For more details about Line Chart, refer  [Chart Types - Line Chart](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Line%20Chart)
 
