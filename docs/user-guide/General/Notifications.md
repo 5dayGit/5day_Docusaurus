@@ -1,5 +1,5 @@
 # Notifications
-## Overview
+
 Notifications in [5day.io](http://5day.io/) help you stay updated on everything important across your projects, tasks, timesheets, reminders, and other activities. The notifications panel shows all alerts in one place so you can quickly review updates, mark them as read, or clear them as needed.
 
 Each notification includes relevant details and quick actions that help you stay updated. You can also manage how and where you receive notifications by accessing Notification Settings.
@@ -12,7 +12,7 @@ There are two ways to open Notifications:
 
 Click the **bell icon** on the navigation panel to open your Notifications panel.
 
-1. **Using Hotkeys**
+2. **Using Hotkeys**
 
 Press **n** on your keyboard to instantly open Notifications from anywhere in [5day.io](http://5day.io/).
 ## Notifications Panel – Features
