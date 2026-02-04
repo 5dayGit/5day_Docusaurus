@@ -1,4 +1,4 @@
-**Who can Manage Account Profile?**
+# **Who can Manage Account Profile?**
 
 In 5day.io, access to the **Account Profile** is tightly controlled to maintain security and prevent unauthorized changes at the organization level.
 
