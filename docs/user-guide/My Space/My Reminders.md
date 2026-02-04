@@ -1,5 +1,5 @@
-## **Reminders in 5day.io**
-## Overview
+# Overview
+
 **Reminders** in 5day.io help you stay on top of your schedule—whether it's for personal tasks, project deliverables, or team follow-ups. You can create reminders for any important activity and get notified at the right time to take action.
 
 Reminders can be created independently or linked directly to a specific **task or subtask**, offering flexibility to organize your day or plan work-specific updates.
@@ -79,4 +79,5 @@ For all three methods (A, B, and C), once a task or subtask is selected:
 ### **🔔 Notifications**
 Users will receive in-app and/or web notifications at the scheduled reminder time.\
 **Note:** If a user does **not want** to receive reminder notifications, they can manage this in the **Notifications Settings Panel** by disabling reminders.
+
 
