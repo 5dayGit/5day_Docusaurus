@@ -1,4 +1,4 @@
-## **Edit a Work Schedule**
+# **Edit a Work Schedule**
 1. **Go to Work Schedule:**\
    Navigate to **Account Settings → General → Work Schedule**.
 1. **Select the Work Schedule to Edit:**
