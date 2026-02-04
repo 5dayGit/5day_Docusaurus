@@ -1,4 +1,5 @@
-## **Invite a New User**
+## **Overview**
+
 1. **Go to Account Settings:**\
    Click on your **Profile Icon** and select **Account Settings**.
 1. **Open People Section:**\
