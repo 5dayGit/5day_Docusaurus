@@ -1,5 +1,3 @@
-# Account Settings
-
 ## **Overview**
 The **Account Settings** section in 5day.io is your organization’s central command hub.\
 It’s where you manage and configure everything related to how your workspace functions — from organizational identity to security, user access, and billing.
