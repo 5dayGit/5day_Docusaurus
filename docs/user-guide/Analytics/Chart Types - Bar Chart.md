@@ -58,12 +58,12 @@ The Format settings let you tweak how the Bar Chart looks and feels. Make it mat
 
 For more details about Widget Types , refer  [Widget Types](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Widget%20Types.md)
 
-For more details about Line Chart, refer  [Chart Types - Line Chart](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Chart%20Types%20-%20Line%20Chart.md)
+For more details about Line Chart, refer  [Chart Types - Line Chart](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Line%20Chart)
 
-For more details about Pie Chart, refer  [Chart Types - Pie Chart](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Chart%20Types%20-%20Pie%20Chart.md)
+For more details about Pie Chart, refer  [Chart Types - Pie Chart](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Pie%20Chart)
 
-For more details about Doughnut Chart, refer  [Chart Types - Doughnut Chart](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Chart%20Types%20-%20Doughnut%20Chart.md)
+For more details about Doughnut Chart, refer  [Chart Types - Doughnut Chart](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Doughnut%20Chart)
 
-For more details about Number Chart, refer  [Chart Types - Number Chart](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Chart%20Types%20-%20Number%20Chart.md)
+For more details about Number Chart, refer  [Chart Types - Number Chart](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Number%20Chart)
 
-For more details about Table View, refer  [Chart Types - Table View](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Chart%20Types%20-%20Table%20Chart.md)
+For more details about Table View, refer  [Chart Types - Table View](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Table%20Chart)
