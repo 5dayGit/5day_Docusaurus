@@ -1,4 +1,4 @@
-## **Delete a Work Schedule**
+# **Delete a Work Schedule**
 1. **Go to Work Schedule:**\
    Navigate to **Account Settings → General → Work Schedule**.
 1. **Find the Work Schedule to Delete:**\
