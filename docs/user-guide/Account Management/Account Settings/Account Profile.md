@@ -1,5 +1,3 @@
-**Account Profile**
-
 The **Account Profile** section in 5day.io is where the **Account Owner** (or Admins with appropriate permissions) can manage the organisation account level information and can configure how the 5day.io environment looks and behaves for all users across the organization.\
 When a user logs in as an **Account Owner**, they can access the Account Profile to configure essential details that define the identity, preferences, and appearance of their 5day.io account.
 
