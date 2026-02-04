@@ -1,5 +1,5 @@
-## **My Timesheet**
-### **Overview**
+# **Overview**
+
 **My Timesheet** in 5day.io gives every user a centralized view to track their time logged across projects — whether it’s billable hours, internal work, or time off. It’s designed to help both individuals and managers get a clear picture of time utilization and stay aligned on productivity goals.
 
 From this single interface, users can:
@@ -29,6 +29,7 @@ The **Day**, **Week**, **Month**, and **List** tabs in *My Timesheet* work the s
 - In **Project Timesheet**, entries are scoped to that specific project.
 - In **My Timesheet**, members can view their own time entries across all projects they are assigned to. Admins, project managers, or users with the appropriate permissions can switch views to see time entries for other members across Day, Week, Month, or List view.
 
-For details on each view (including how to log time, use filters, and read summaries), refer to the [Timesheet View Guide].
+For details on each view (including how to log time, use filters, and read summaries), refer to the [Timesheet View Guide](https://help.5day.io/docs/user-guide/Views/Timesheet%20View/Intro%20to%20Timesheet)
+
 
 
