@@ -25,4 +25,5 @@ However, the ability to **create Custom Roles** depends on your subscription pla
 |**Subscription Plan**|**Roles Available**|
 | :-: | :-: |
 |Free Plan|Access to **Default Roles** only: Account Owner, Account Admin, Manager, Member, External Member, Guest.|
-|Growth Plan|Access to both **Default Roles** and the ability to **create Custom Roles** as needed.|
+|Growth Plan|Access to **Default Roles** only: Account Owner, Account Admin, Manager, Member, External Member, Guest.|
+|Scale Plan|Access to both **Default Roles** and the ability to **create Custom Roles** as needed.|
