@@ -1,4 +1,4 @@
-## **Change the Organization Logo**
+# **Change the Organization Logo**
 To change the organization logo in 5day.io, users need to go to their **Account Profile**.
 
 Inside the Account Profile:
