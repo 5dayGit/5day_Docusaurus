@@ -58,14 +58,14 @@ The Format settings let you shape how the Pie Chart looks and pops. Tweak it to 
 
 ## Other References
 
-For more details about Widget Types , refer  [Widget Types](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Widget%20Types.md)
+For more details about Widget Types , refer  [Widget Types](https://help.5day.io/docs/user-guide/Analytics/Widget%20Types)
 
-For more details about Pie Chart, refer  [Chart Types - Bar Chart](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Chart%20Types%20-%20Bar%20Chart.md)
+For more details about Bar Chart, refer  [Chart Types - Bar Chart](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Bar%20Chart)
 
-For more details about Line Chart, refer  [Chart Types - Pie Chart](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Chart%20Types%20-%20Pie%20Chart.md)
+For more details about Pie Chart, refer  [Chart Types - Pie Chart](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Pie%20Chart)
 
-For more details about Doughnut Chart, refer  [Chart Types - Doughnut Chart](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Chart%20Types%20-%20Doughnut%20Chart.md)
+For more details about Doughnut Chart, refer  [Chart Types - Doughnut Chart](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Doughnut%20Chart)
 
-For more details about Number Chart, refer  [Chart Types - Number Chart](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Chart%20Types%20-%20Number%20Chart.md)
+For more details about Number Chart, refer  [Chart Types - Number Chart](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Number%20Chart)
 
-For more details about Table View, refer  [Chart Types - Table View](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Analytics/Chart%20Types%20-%20Table%20Chart.md)
+For more details about Table View, refer  [Chart Types - Table View](https://help.5day.io/docs/user-guide/Analytics/Chart%20Types%20-%20Table%20Chart)
