@@ -1,4 +1,4 @@
-## **Create a Work Schedule**
+# **Create a Work Schedule**
 In 5day.io, you can create custom work schedules to define working hours, hybrid work models, and holidays for your team. You can either **create a new schedule from scratch** or **duplicate an existing one** to save time.
 ### **1. Create a New Work Schedule**
 1. **Go to Work Schedule:**
