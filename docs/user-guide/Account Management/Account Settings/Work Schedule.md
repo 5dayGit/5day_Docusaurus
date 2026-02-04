@@ -19,6 +19,7 @@ The **Work Schedule** feature is available across all subscription plans in 5day
 | :-: | :-: |
 |Free Plan|Only Default Work Schedule is available|
 |Growth Plan|Unlimited Work Schedules can be created|
+|Scale Plan|Unlimited Work Schedules can be created|
 
 Who Can Manage Work Schedule 
 
