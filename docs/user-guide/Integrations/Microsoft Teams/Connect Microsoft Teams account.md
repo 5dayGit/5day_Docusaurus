@@ -5,6 +5,11 @@ The **Connect** command lets you link Microsoft Teams with your 5day.io account,
 Once connected, the 5day.io bot will appear in your Teams environment, delivering all configured 5day.io alerts (task updates, due dates, comments, etc.) and enabling the **create task** command across 1:1 chats, group chats, and channels.
 
 ## Subscription
+| Plan | Microsoft Teams |
+|--|--|
+| Free | ❌ Not Included  | 
+| Growth | ✅ Included |
+| Scale | ✅ Included  |
 
 ## Connect Personal Account
 
@@ -47,4 +52,5 @@ Once enabled, any authorized user can connect their personal Microsoft Teams acc
 ## Other References
 
 To create task via Microsoft Teams, refer [Create task via Teams](https://help.5day.io/docs/user-guide/Integrations/Microsoft%20Teams/Create%20Task%20via%20Teams).
+
 
