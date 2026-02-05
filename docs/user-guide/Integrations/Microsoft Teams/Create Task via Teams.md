@@ -67,5 +67,6 @@ Once created, the task appears in your 5day.io workspace with a **link back to t
 
 ## Other References
 
-To connect you Microsoft teams account with 5day.io, refer [Create your Microsoft Teams Account](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Integrations/Microsoft%20Teams/Connect%20your%20microsoft%20teams%20account.md).
+To connect you Microsoft teams account with 5day.io, refer [Create your Microsoft Teams Account](https://help.5day.io/docs/user-guide/Integrations/Microsoft%20Teams/Connect%20Microsoft%20Teams%20account).
+
 
