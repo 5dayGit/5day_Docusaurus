@@ -46,4 +46,5 @@ Once enabled, any authorized user can connect their personal Microsoft Teams acc
 
 ## Other References
 
-To create task via Microsoft Teams, refer [Create task via Teams](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Integrations/Microsoft%20Teams/Create%20Task%20via%20Teams.md).
+To create task via Microsoft Teams, refer [Create task via Teams](https://help.5day.io/docs/user-guide/Integrations/Microsoft%20Teams/Create%20Task%20via%20Teams).
+
