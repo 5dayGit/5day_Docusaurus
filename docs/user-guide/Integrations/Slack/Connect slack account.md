@@ -7,6 +7,11 @@ Once connected, the 5day.io Slack App will appear in your workspace, delivering 
 
 
 ## Subscription
+| Plan | Slack |
+|--|--|
+| Free | ❌ Not Included  | 
+| Growth | ✅ Included |
+| Scale | ✅ Included  |
 
 ### Connect Personal Account
 
@@ -53,6 +58,7 @@ Once enabled, any authorized user can connect their Slack account from 5day.io i
 - Use commands like `/5day.io-create-task` to add tasks from any Slack conversation.  
 - Convert Slack messages into tasks using message shortcuts.  
 - Stay in sync without switching apps.
+
 
 
 
