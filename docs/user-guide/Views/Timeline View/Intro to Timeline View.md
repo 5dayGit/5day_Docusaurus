@@ -15,7 +15,11 @@ By default, Timeline opens in a **3-week view**, so you can see recent past, tod
 Note: The exact number of days visible depends on your screen resolution and zoom level.
 
 ## Subscription Association
-Timeline View is available for all plans where:
+| Plan | Timeline View |
+|--|--|
+| Free | ❌ Not Included  | 
+| Growth | ✅ Included |
+| Scale | ✅ Included  |
 
 - The **Timeline** view is enabled for that project in **Project Settings → Views**.
 ## Role & Permissions
