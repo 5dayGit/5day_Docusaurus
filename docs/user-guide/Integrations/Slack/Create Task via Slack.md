@@ -7,7 +7,6 @@ Tasks include full context: message text, attachments, sender, and a link back t
 2.  You must have Create Task permission in the target 5day.io Workspace/Space/Project.
 
 ## Create Task
-
 ### From a Channel
 -   In any **channel**, click the " / "  (Shortcuts)** icon in the message field.
 -   Search for **5day.io** -> **Create Task**.
@@ -51,4 +50,5 @@ Tasks include full context: message text, attachments, sender, and a link back t
 ## Other References
 
 To connect your slack account with 5day.io, refer [Connect slack account](https://help.5day.io/docs/user-guide/Integrations/Slack/Connect%20slack%20account)
+
 
