@@ -41,6 +41,6 @@ Transform any message into a actionable item with the "create task" command, ava
 
 ## Other References
 
-To explore how to connect Microsoft Teams account with 5day.io account, refer [Connect an App](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Integrations/Microsoft%20Teams/Connect%20an%20App.md)
+To explore how to connect Microsoft Teams account with 5day.io account, refer [Connect an App](https://help.5day.io/docs/user-guide/Integrations/Microsoft%20Teams/Connect%20Microsoft%20Teams%20account)
 
-To create task via Microsoft Teams, refer [Create task via Teams](https://github.com/5dayGit/5day_Docusaurus/blob/main/docs/user-guide/Integrations/Microsoft%20Teams/Create%20Task%20via%20Teams.md)
+To create task via Microsoft Teams, refer [Create task via Teams](https://help.5day.io/docs/user-guide/Integrations/Microsoft%20Teams/Create%20Task%20via%20Teams)
