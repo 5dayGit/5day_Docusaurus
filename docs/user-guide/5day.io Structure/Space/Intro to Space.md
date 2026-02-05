@@ -23,5 +23,4 @@ A Space can help you:
 
 **Navigation**: Easily switch between Spaces within a Workspace using the sidebar.
 
-## Other References
 
