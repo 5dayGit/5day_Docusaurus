@@ -1,5 +1,5 @@
 # Create Task via Slack
-Create 5day.io tasks directly from Slack - from any message, channel, or DM. 
+Create 5day.io tasks directly from Slack from any message, channel, or DM. 
 Tasks include full context: message text, attachments, sender, and a link back to Slack.
 
 ## Prerequisites
