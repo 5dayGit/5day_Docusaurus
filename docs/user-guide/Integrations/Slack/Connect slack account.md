@@ -1,8 +1,8 @@
 # Connect Slack Account with 5day.io
 
-The **Connect** option lets you link Slack with your 5day.io account, unlocking real-time notifications and the ability to create tasks directly from any Slack channel, DM, or group chat.
+The **Connect** option lets you link Slack account with your 5day.io account, unlocking real-time notifications and the ability to create tasks directly from any Slack channel, DM, or group chat.
 
-Once connected, the 5day.io Slack App will appear in your workspace, delivering all configured 5day.io alerts and enabling task creation through slash commands and message actions.
+Once connected, the 5day.io app for Slack will appear in your workspace, delivering all configured 5day.io alerts and enabling task creation through slash commands and message actions.
 
 
 
@@ -15,9 +15,9 @@ Once connected, the 5day.io Slack App will appear in your workspace, delivering 
 
 ### Connect Personal Account
 
-To use the Slack integration, it must be enabled in your 5day.io account by the account owner/admin.
+To use the integration for Slack, it must be enabled in your 5day.io account by the account owner/admin.
 
-- By default, Slack integration is **automatically enabled** for all users if your plan supports it.  
+- By default, the integration for Slack is **automatically enabled** for all users if your plan supports it.  
 - Admins can restrict access per user or role in **Roles and Permission**.
 
 Once enabled, any authorized user can connect their Slack account from 5day.io in just a few steps:
