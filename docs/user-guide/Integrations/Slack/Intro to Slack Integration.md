@@ -1,5 +1,5 @@
 # Intro to Slack Integration 
-Slack integration connects your 5day.io account to Slack workspace, enabling seamless two-way sync between project updates and team communication.
+The integration for Slack connects your 5day.io account to Slack workspace, enabling seamless two-way sync between project updates and team communication.
 The 5day.io bot delivers all configured 5day.io notifications into Slack, while the /5day.io slash command lets you create tasks instantly from any message.
 
 ## Why Integration is Important
@@ -17,7 +17,7 @@ Perfect for agile teams, remote crews, or anyone using Slack as their collaborat
 
 ### 5day.io Bot for Notifications
 
-The bot pushes **all web app notifications** into Slack:
+The app for Slack pushes all relevant 5day.io notifications into Slack:
 
 -   Task assignments & mentions
 -   Due date reminders
@@ -29,30 +29,7 @@ The bot pushes **all web app notifications** into Slack:
 
 Use /5day.io in **any channel, group DM, or direct message** to create tasks on the fly. 
 Supports full task details: title, description, assignee, due date, priority, labels, and more.
-Access the Slack integration here:
 
-### Connect your slack account
-<div style={{ display: 'flex', alignItems: 'left' }}>
-<a
-  href="https://slack.com/oauth/v2/authorize?client_id=9682994149365.9680099983747&scope=channels:read,chat:write,chat:write.public,commands,groups:read,links:read,links:write&user_scope=channels:read,chat:write,groups:read,im:read,mpim:read,reactions:read,users.profile:read,users:read"
-  target="_blank"
-  rel="noopener noreferrer"
-  style={{
-    display: 'inline-flex',
-    alignItems: 'center',
-    borderRadius: '6px',
-    color: '#ffffff',
-    textDecoration: 'none',
-    fontWeight: 600
-  }}>
-  <img
-    src="https://platform.slack-edge.com/img/add_to_slack.png"
-    srcSet="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"
-    alt="Add to Slack"
-    style={{
-      height: '3rem',
-    }}
-  /></a></div>
 ## Other References
 
 To connect your slack account with 5day.io, refer [Connect slack account](https://help.5day.io/docs/user-guide/Integrations/Slack/Connect%20slack%20account).
