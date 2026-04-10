@@ -207,7 +207,6 @@ const sidebars = {
             "user-guide/5day.io Features/Task Types/Create Task Type",
             "user-guide/5day.io Features/Task Types/Edit Task Type",
             "user-guide/5day.io Features/Task Types/Delete Task Type",
-            "user-guide/5day.io Features/Task Types/Add Task Type",
           ]
         },
         {
@@ -442,8 +441,10 @@ const sidebars = {
           type: 'category',
           label: 'Google Calendar',
           items: [
+            "user-guide/Integrations/Google Calendar/Connect Google Calendar from My Settings",
+            "user-guide/Integrations/Google Calendar/Enable or Disable Google Calendar Integration",
             "user-guide/Integrations/Google Calendar/Intro to Google Calendar Integration",
-            "user-guide/Integrations/Google Calendar/Sync Google Calendars",
+            "user-guide/Integrations/Google Calendar/Sync Tasks and Google Calendar Events",
           ]
         }
       ],
