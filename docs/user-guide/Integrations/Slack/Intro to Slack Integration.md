@@ -13,7 +13,7 @@ Integrating 5day.io with Slack eliminates the gap between **where your team talk
 
 Perfect for agile teams, remote crews, or anyone using Slack as their collaboration hub.
 
-## Key Features of Slack Integration
+## Key Features of the Integration
 
 ### 5day.io Bot for Notifications
 
@@ -32,7 +32,7 @@ Supports full task details: title, description, assignee, due date, priority, la
 
 ## Other References
 
-To connect your slack account with 5day.io, refer [Connect slack account](https://help.5day.io/docs/user-guide/Integrations/Slack/Connect%20slack%20account).
+To connect your Slack account with 5day.io, refer [Connect Slack account](https://help.5day.io/docs/user-guide/Integrations/Slack/Connect%20slack%20account).
 
 To create task via Slack, refer [Create task via Slack](https://help.5day.io/docs/user-guide/Integrations/Slack/Create%20Task%20via%20Slack)
 
