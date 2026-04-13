@@ -1,4 +1,4 @@
-# Intro to Slack Integration 
+# Intro to Integration for Slack 
 The integration for Slack connects your 5day.io account to Slack workspace, enabling seamless two-way sync between project updates and team communication.
 The 5day.io bot delivers all configured 5day.io notifications into Slack, while the /5day.io slash command lets you create tasks instantly from any message.
 
