@@ -46,7 +46,7 @@ Once enabled, any authorized user can connect their Slack account from 5day.io i
 
 7. **Connection Complete!**  
    After authorization:
-   - You’ll be redirected to slack and
+   - You’ll be redirected to Slack and
    - You’ll receive a **welcome message** from the 5day.io Bot inside Slack  
 
    Your Slack account is now **fully connected** to 5day.io.
