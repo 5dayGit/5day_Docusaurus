@@ -1,24 +1,17 @@
-Connect Claude AI with 5day.io 
+##Connect Claude AI with 5day.io##
 
 After Claude AI is enabled at the tenant level, users can connect their Anthropic account from My Settings using an Anthropic API key. 
  
 You can get your API key from the Anthropic Console. Copy the API key and paste it into the API key field in 5day.io. 
 
 To connect Claude AI: 
-
-Log in to 5day.io. 
-
-Click on your Profile icon. 
-
-Go to My Settings. 
-
-Click Integration Center. 
-
-Click the Claude AI card. 
-
-Enter your Anthropic API Key. 
-
-Click Connect. 
+- Log in to 5day.io. 
+- Click on your Profile icon. 
+- Go to My Settings. 
+- Click Integration Center. 
+- Click the Claude AI card. 
+- Enter your Anthropic API Key. 
+- Click Connect. 
 
 You can get your API key from your Anthropic account. Copy the API key and paste it into the API key field in 5day.io. 
 
