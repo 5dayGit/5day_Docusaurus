@@ -1,4 +1,4 @@
-##Connect Claude AI with 5day.io##
+##Connect Claude AI with 5day.io
 
 After Claude AI is enabled at the tenant level, users can connect their Anthropic account from My Settings using an Anthropic API key. 
  
