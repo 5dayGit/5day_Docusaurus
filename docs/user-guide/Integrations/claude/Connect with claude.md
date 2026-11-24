@@ -17,13 +17,11 @@ You can get your API key from your Anthropic account. Copy the API key and paste
 
 Once connected: 
 
-Your Claude AI connection will be displayed as connected. 
+**Your Claude AI connection will be displayed as connected.**
+- 5day.io can use Claude AI for content generation and other supported AI workflows. 
+- Claude AI can use relevant context from your projects, tasks, and ongoing marketing work to generate more relevant content. 
+- Marketing teams can use the integration to create and refine content without manually copying project and task information into an AI tool. 
 
-5day.io can use Claude AI for content generation and other supported AI workflows. 
-
-Claude AI can use relevant context from your projects, tasks, and ongoing marketing work to generate more relevant content. 
-
-Marketing teams can use the integration to create and refine content without manually copying project and task information into an AI tool. 
 
 A Disconnect button will be available. 
 
